@@ -101,6 +101,18 @@ proxies:
   protocol: udp
   up: 11 Mbps
   down: 55 Mbps
+- name: Unknown_hysteria_81
+  type: hysteria
+  server: 108.181.24.77
+  port: 11512
+  auth-str: dongtaiwang.com
+  sni: apple.com
+  skip-cert-verify: true
+  alpn:
+  - h3
+  protocol: udp
+  up: 11 Mbps
+  down: 55 Mbps
 - name: Unknown_hy_0
   type: hysteria
   server: 51.159.226.1
@@ -261,11 +273,11 @@ proxies:
   reality-opts:
     public-key: Ok7Mg4VmHT4Typ9HydPSmHI55BgLONFk5ppLGiL8n1A
     short-id: 4b4d9d72
-- name: Unknown_reality_4
+- name: Unknown_reality_3
   type: vless
-  server: 185.22.155.105
-  port: 42632
-  uuid: f3ba3679-f2f4-465f-92a5-de320b775a88
+  server: 108.181.3.68
+  port: 19873
+  uuid: 288eab91-a2a9-4099-bcfd-ae057ec0d56e
   network: tcp
   tls: true
   udp: true
@@ -273,8 +285,8 @@ proxies:
   client-fingerprint: chrome
   servername: www.yahoo.com
   reality-opts:
-    public-key: qtqcKrPLXaN-jpo7Zs1_80QDmA2uvCZKFGanJLJFFXA
-    short-id: 1f8b5201
+    public-key: CORDH3FlQivimoVRhU_ZEUFzI-mT3Ko9CqTr7_CPtXw
+    short-id: 694212ed
 - name: Unknown_reality_5
   type: vless
   server: 108.181.3.68
@@ -302,6 +314,7 @@ proxy-groups:
   - Unknown_tuic_41
   - Unknown_mieru_61
   - Unknown_hysteria_71
+  - Unknown_hysteria_81
   - Unknown_hy_0
   - Unknown_hy_1
   - Unknown_hy_2
@@ -316,7 +329,7 @@ proxy-groups:
   - Unknown_reality_0
   - Unknown_reality_1
   - Unknown_reality_2
-  - Unknown_reality_4
+  - Unknown_reality_3
   - Unknown_reality_5
 - name: 自动选择
   type: url-test
@@ -331,6 +344,7 @@ proxy-groups:
   - Unknown_tuic_41
   - Unknown_mieru_61
   - Unknown_hysteria_71
+  - Unknown_hysteria_81
   - Unknown_hy_0
   - Unknown_hy_1
   - Unknown_hy_2
@@ -345,7 +359,7 @@ proxy-groups:
   - Unknown_reality_0
   - Unknown_reality_1
   - Unknown_reality_2
-  - Unknown_reality_4
+  - Unknown_reality_3
   - Unknown_reality_5
 rules:
 - DOMAIN,clash.razord.top,DIRECT
