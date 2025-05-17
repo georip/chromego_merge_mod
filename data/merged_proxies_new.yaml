@@ -57,6 +57,18 @@ proxies:
   protocol: udp
   up: 11 Mbps
   down: 55 Mbps
+- name: Unknown_hysteria_31
+  type: hysteria
+  server: 62.210.10.113
+  port: 22662
+  auth-str: dongtaiwang.com
+  sni: apple.com
+  skip-cert-verify: true
+  alpn:
+  - h3
+  protocol: udp
+  up: 11 Mbps
+  down: 55 Mbps
 - name: Unknown_tuic_41
   server: 108.181.5.131
   port: 34008
@@ -216,6 +228,14 @@ proxies:
   fast-open: true
   sni: apple.com
   skip-cert-verify: true
+- name: Unknown_hy2_3
+  type: hysteria2
+  server: hy2-1.694463.xyz
+  port: 4489
+  password: dongtaiwang.com
+  fast-open: true
+  sni: www.bing.com
+  skip-cert-verify: true
 - name: Unknown_hy2_4
   type: hysteria2
   server: 108.181.5.130
@@ -325,6 +345,7 @@ proxy-groups:
   - Unknown_tuic_01
   - Unknown_mieru_11
   - Unknown_hysteria_21
+  - Unknown_hysteria_31
   - Unknown_tuic_41
   - Unknown_mieru_51
   - Unknown_mieru_61
@@ -339,6 +360,7 @@ proxy-groups:
   - Unknown_hy2_0
   - Unknown_hy2_1
   - Unknown_hy2_2
+  - Unknown_hy2_3
   - Unknown_hy2_4
   - Unknown_hy2_5
   - Unknown_reality_0
@@ -356,6 +378,7 @@ proxy-groups:
   - Unknown_tuic_01
   - Unknown_mieru_11
   - Unknown_hysteria_21
+  - Unknown_hysteria_31
   - Unknown_tuic_41
   - Unknown_mieru_51
   - Unknown_mieru_61
@@ -370,6 +393,7 @@ proxy-groups:
   - Unknown_hy2_0
   - Unknown_hy2_1
   - Unknown_hy2_2
+  - Unknown_hy2_3
   - Unknown_hy2_4
   - Unknown_hy2_5
   - Unknown_reality_0
