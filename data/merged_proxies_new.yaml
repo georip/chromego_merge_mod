@@ -599,16 +599,7 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 0
-  cipher: auto
-  name: Unknown_vmess_149
-  port: 46524
-  server: 8.218.238.254
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 5d564055-2b42-406b-9183-28cc63d8914a
-- name: Unknown_trojan_150
+- name: Unknown_trojan_149
   network: tcp
   password: f36f4495b4b26cc2fe346cfa23e05b1b
   port: 443
@@ -616,7 +607,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: Unknown_trojan_151
+- name: Unknown_trojan_150
   network: tcp
   password: BxceQaOe
   port: 443
@@ -624,7 +615,7 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: Unknown_trojan_152
+- name: Unknown_trojan_151
   network: tcp
   password: BxceQaOe
   port: 443
@@ -632,91 +623,81 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- cipher: aes-128-gcm
-  name: Unknown_ss_153
-  password: 30f1d255-b825-435a-945c-fe5b597a1b8f
-  port: 33113
-  server: 59.38.114.209
-  type: ss
-- name: Unknown_trojan_154
+- name: Unknown_trojan_152
   network: tcp
   password: BxceQaOe
-  port: 4012
-  server: 52.194.193.12
+  port: 3194
+  server: 54.238.144.17
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_153
+  network: tcp
+  password: f36f4495b4b26cc2fe346cfa23e05b1b
+  port: 1933
+  server: 52.198.241.226
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_154
+  network: tcp
+  password: f36f4495b4b26cc2fe346cfa23e05b1b
+  port: 4006
+  server: 52.198.241.226
+  skip-cert-verify: false
+  sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_155
   network: tcp
   password: f36f4495b4b26cc2fe346cfa23e05b1b
-  port: 1933
-  server: 54.238.137.20
+  port: 3901
+  server: 52.198.241.226
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- cipher: aes-128-gcm
-  name: Unknown_ss_156
-  password: 30f1d255-b825-435a-945c-fe5b597a1b8f
-  port: 33116
-  server: 120.232.217.4
-  type: ss
-- name: Unknown_trojan_157
+- name: Unknown_trojan_156
   network: tcp
   password: f36f4495b4b26cc2fe346cfa23e05b1b
   port: 3901
-  server: 54.238.137.20
-  skip-cert-verify: false
+  server: 153.121.44.99
+  skip-cert-verify: true
   sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_157
+  network: tcp
+  password: BxceQaOe
+  port: 804
+  server: 52.198.241.226
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_158
   network: tcp
   password: f36f4495b4b26cc2fe346cfa23e05b1b
-  port: 3901
-  server: 153.121.44.99
-  skip-cert-verify: true
+  port: 1281
+  server: 52.198.241.226
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_159
   network: tcp
-  password: BxceQaOe
-  port: 2673
-  server: 43.207.71.183
-  skip-cert-verify: true
-  sni: t.me%252Fripaojiedian
-  type: trojan
-- cipher: aes-128-gcm
-  name: Unknown_ss_160
-  password: 30f1d255-b825-435a-945c-fe5b597a1b8f
-  port: 33118
-  server: 120.232.217.4
-  type: ss
-- name: Unknown_trojan_161
-  network: tcp
-  password: f36f4495b4b26cc2fe346cfa23e05b1b
-  port: 1281
-  server: 54.238.137.20
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: Unknown_trojan_162
-  network: tcp
   password: f36f4495b4b26cc2fe346cfa23e05b1b
   port: 1281
   server: 153.121.44.99
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: Unknown_trojan_163
+- name: Unknown_trojan_160
   network: tcp
   password: BxceQaOe
-  port: 2173
-  server: 43.207.71.183
+  port: 1221
+  server: 3.113.31.15
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - alterId: 2
   cipher: auto
-  name: Unknown_vmess_164
+  name: Unknown_vmess_161
   network: tcp
   port: '30807'
   server: v10.hdacd.com
@@ -724,16 +705,6 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 0
-  cipher: auto
-  name: Unknown_vmess_165
-  network: tcp
-  port: '46524'
-  server: 8.218.238.254
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 5d564055-2b42-406b-9183-28cc63d8914a
 - type: hysteria
   name: Unknown_hysteria_41
   server: 62.210.196.68
@@ -48243,6 +48214,14 @@ proxies:
   tls: false
   type: hysteria2
 - name: Unknown_hysteria2_1062
+  password: d9812081-7f61-456d-9340-a1fb8dfd603b
+  port: 443
+  server: falankefu1.nezhasu.com
+  skip-cert-verify: true
+  sni: falankefu1.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: Unknown_hysteria2_1063
   password: 03573f46-e944-11eb-a8bf-f23c91cfbbc9
   port: 443
   server: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
@@ -48250,7 +48229,7 @@ proxies:
   sni: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1063
+- name: Unknown_hysteria2_1064
   password: 0abd5d38-fdf1-11ed-bade-f23c91369f2d
   port: 443
   server: 1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com
@@ -48258,7 +48237,7 @@ proxies:
   sni: 1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com#All-
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1064
+- name: Unknown_hysteria2_1065
   password: 12a81f5a-fa9e-11ef-8400-f23c9164ca5d
   port: 443
   server: fbde8bc6-t6ngg0-tbmeud-1th9y.us.hyhuawei.com
@@ -48266,7 +48245,7 @@ proxies:
   sni: fbde8bc6-t6ngg0-tbmeud-1th9y.us.hyhuawei.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1065
+- name: Unknown_hysteria2_1066
   password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
   port: 1743
   server: 6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk
@@ -48274,7 +48253,7 @@ proxies:
   sni: 6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1066
+- name: Unknown_hysteria2_1067
   password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
   port: 1743
   server: c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk
@@ -48282,21 +48261,21 @@ proxies:
   sni: c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1067
+- name: Unknown_hysteria2_1068
   password: 1b9c460e-f026-11ef-b737-f23c91cfbbc9
   port: 443
   server: 9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1068
+- name: Unknown_hysteria2_1069
   password: 2408982813-20241210
   port: 443
   server: genshin-v4-oracle-amd.damaoooo.com
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1069
+- name: Unknown_hysteria2_1070
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: amsterdam.nezhasu.com
@@ -48304,7 +48283,7 @@ proxies:
   sni: Amsterdam.nezhasu.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1070
+- name: Unknown_hysteria2_1071
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: falankefu1.nezhasu.com
@@ -48312,7 +48291,7 @@ proxies:
   sni: falankefu1.nezhasu.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1071
+- name: Unknown_hysteria2_1072
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: lundun1.nezhasu.com
@@ -48320,7 +48299,7 @@ proxies:
   sni: lundun1.nezhasu.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1072
+- name: Unknown_hysteria2_1073
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: lundun2.nezhasu.com
@@ -48328,7 +48307,7 @@ proxies:
   sni: lundun2.nezhasu.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1073
+- name: Unknown_hysteria2_1074
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: lundun3.nezhasu.com
@@ -48336,7 +48315,7 @@ proxies:
   sni: lundun3.nezhasu.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1074
+- name: Unknown_hysteria2_1075
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: lundun4.nezhasu.com
@@ -48344,14 +48323,14 @@ proxies:
   sni: lundun4.nezhasu.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1075
+- name: Unknown_hysteria2_1076
   password: 338ce171-d764-4610-8fd5-6688b0d321f0
   port: 30102
   server: 144.24.101.176
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1076
+- name: Unknown_hysteria2_1077
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: 4CQDwSnjr3
@@ -48361,14 +48340,14 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1077
+- name: Unknown_hysteria2_1078
   password: 4fb15f9c-f078-11ed-814b-f23c91369f2d
   port: 443
   server: 22480a39-t70f40-tnjsrz-h8vf.hk1.hyhuawei.com
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1078
+- name: Unknown_hysteria2_1079
   password: 537d7098-fdbe-11ef-8ebc-f23c93141fad
   port: 1743
   server: 14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk
@@ -48376,7 +48355,7 @@ proxies:
   sni: 14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1079
+- name: Unknown_hysteria2_1080
   password: 571ec94e-613c-430a-93de-397d3d237475
   port: 22155
   server: 213.108.198.123
@@ -48384,7 +48363,7 @@ proxies:
   sni: hsdg.huasuan666.top
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1080
+- name: Unknown_hysteria2_1081
   password: 571ec94e-613c-430a-93de-397d3d237475
   port: 22155
   server: hsdg.huasuan666.top
@@ -48392,7 +48371,7 @@ proxies:
   sni: hsdg.huasuan666.top
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1081
+- name: Unknown_hysteria2_1082
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: 5MHa2ppKQq
@@ -48402,7 +48381,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1082
+- name: Unknown_hysteria2_1083
   password: 6286105c-fb6d-11ef-be96-f23c93136cb3
   port: 1743
   server: cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk
@@ -48410,7 +48389,7 @@ proxies:
   sni: cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1083
+- name: Unknown_hysteria2_1084
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: 72SR90kxWa
@@ -48420,7 +48399,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1084
+- name: Unknown_hysteria2_1085
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
   password: 77238c49bd20e407f05e0c073ad08fdb
@@ -48430,7 +48409,7 @@ proxies:
   sni: dd.ircybersec.org
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1085
+- name: Unknown_hysteria2_1086
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193
@@ -48438,7 +48417,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1086
+- name: Unknown_hysteria2_1087
   password: 7b5cbc6a-90a1-4b6e-994e-4c198b85f80b
   port: 30000
   server: de2.oomz.ru
@@ -48446,7 +48425,7 @@ proxies:
   sni: bing.com#All-
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1087
+- name: Unknown_hysteria2_1088
   password: 7b5cbc6a-90a1-4b6e-994e-4c198b85f80b
   port: 30000
   server: de2.oomz.ru
@@ -48454,7 +48433,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1088
+- name: Unknown_hysteria2_1089
   password: 7b5cbc6a-90a1-4b6e-994e-4c198b85f80b
   port: 30000
   server: nl1.oomz.ru
@@ -48462,7 +48441,7 @@ proxies:
   sni: bing.com#All-
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1089
+- name: Unknown_hysteria2_1090
   password: 7b5cbc6a-90a1-4b6e-994e-4c198b85f80b
   port: 30000
   server: uk2.oomz.ru
@@ -48470,7 +48449,7 @@ proxies:
   sni: bing.com#All-
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1090
+- name: Unknown_hysteria2_1091
   password: 8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9
   port: 443
   server: 22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com
@@ -48478,7 +48457,7 @@ proxies:
   sni: 22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1091
+- name: Unknown_hysteria2_1092
   password: 92b2a3d4-f353-11ef-b714-f23c93136cb3
   port: 443
   server: 9b91d3c4-t53wg0-t6h87s-63bp.la.shifen.uk
@@ -48486,7 +48465,7 @@ proxies:
   sni: 9b91d3c4-t53wg0-t6h87s-63bp.la.shifen.uk
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1092
+- name: Unknown_hysteria2_1093
   password: 9772ecf2-6732-4bfb-a8b1-f48af577c76c
   port: 63979
   server: 113.192.61.19
@@ -48494,7 +48473,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1093
+- name: Unknown_hysteria2_1094
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: AXvJYnaaqG
@@ -48504,7 +48483,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1094
+- name: Unknown_hysteria2_1095
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: BZa1M5Mciv
@@ -48514,7 +48493,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1095
+- name: Unknown_hysteria2_1096
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: BZt34XQ1vL
@@ -48524,7 +48503,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1096
+- name: Unknown_hysteria2_1097
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: GZCEhvG4qN
@@ -48534,7 +48513,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1097
+- name: Unknown_hysteria2_1098
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: GsM2gHXMdz
@@ -48544,7 +48523,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1098
+- name: Unknown_hysteria2_1099
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: LGpqcECo3X
@@ -48554,7 +48533,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1099
+- name: Unknown_hysteria2_10100
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: SAOLvYVTTu
@@ -48564,7 +48543,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_10100
+- name: Unknown_hysteria2_10101
   password: SNItest
   port: 443
   server: 37.18.14.169
@@ -48572,22 +48551,12 @@ proxies:
   sni: megafon.ru
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_10101
+- name: Unknown_hysteria2_10102
   password: SNItest
   port: 443
   server: 46.243.232.105
   skip-cert-verify: true
   sni: gosuslugi.ru
-  tls: false
-  type: hysteria2
-- name: Unknown_hysteria2_10102
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: TA524PW3Hg
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
   tls: false
   type: hysteria2
 - name: Unknown_hysteria2_10103
@@ -49228,16 +49197,7 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 0
-  cipher: auto
-  name: Unknown_vmess_10174
-  port: 46524
-  server: 8.218.238.254
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 5d564055-2b42-406b-9183-28cc63d8914a
-- name: Unknown_trojan_10175
+- name: Unknown_trojan_10174
   network: tcp
   password: f36f4495b4b26cc2fe346cfa23e05b1b
   port: 443
@@ -49245,7 +49205,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: Unknown_trojan_10176
+- name: Unknown_trojan_10175
   network: tcp
   password: BxceQaOe
   port: 443
@@ -49253,7 +49213,7 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: Unknown_trojan_10177
+- name: Unknown_trojan_10176
   network: tcp
   password: BxceQaOe
   port: 443
@@ -49261,91 +49221,81 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- cipher: aes-128-gcm
-  name: Unknown_ss_10178
-  password: 30f1d255-b825-435a-945c-fe5b597a1b8f
-  port: 33113
-  server: 59.38.114.209
-  type: ss
-- name: Unknown_trojan_10179
+- name: Unknown_trojan_10177
   network: tcp
   password: BxceQaOe
-  port: 4012
-  server: 52.194.193.12
+  port: 3194
+  server: 54.238.144.17
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_10178
+  network: tcp
+  password: f36f4495b4b26cc2fe346cfa23e05b1b
+  port: 1933
+  server: 52.198.241.226
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_10179
+  network: tcp
+  password: f36f4495b4b26cc2fe346cfa23e05b1b
+  port: 4006
+  server: 52.198.241.226
+  skip-cert-verify: false
+  sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_10180
   network: tcp
   password: f36f4495b4b26cc2fe346cfa23e05b1b
-  port: 1933
-  server: 54.238.137.20
+  port: 3901
+  server: 52.198.241.226
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- cipher: aes-128-gcm
-  name: Unknown_ss_10181
-  password: 30f1d255-b825-435a-945c-fe5b597a1b8f
-  port: 33116
-  server: 120.232.217.4
-  type: ss
-- name: Unknown_trojan_10182
+- name: Unknown_trojan_10181
   network: tcp
   password: f36f4495b4b26cc2fe346cfa23e05b1b
   port: 3901
-  server: 54.238.137.20
-  skip-cert-verify: false
+  server: 153.121.44.99
+  skip-cert-verify: true
   sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_10182
+  network: tcp
+  password: BxceQaOe
+  port: 804
+  server: 52.198.241.226
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_10183
   network: tcp
   password: f36f4495b4b26cc2fe346cfa23e05b1b
-  port: 3901
-  server: 153.121.44.99
-  skip-cert-verify: true
+  port: 1281
+  server: 52.198.241.226
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_10184
   network: tcp
-  password: BxceQaOe
-  port: 2673
-  server: 43.207.71.183
-  skip-cert-verify: true
-  sni: t.me%252Fripaojiedian
-  type: trojan
-- cipher: aes-128-gcm
-  name: Unknown_ss_10185
-  password: 30f1d255-b825-435a-945c-fe5b597a1b8f
-  port: 33118
-  server: 120.232.217.4
-  type: ss
-- name: Unknown_trojan_10186
-  network: tcp
-  password: f36f4495b4b26cc2fe346cfa23e05b1b
-  port: 1281
-  server: 54.238.137.20
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: Unknown_trojan_10187
-  network: tcp
   password: f36f4495b4b26cc2fe346cfa23e05b1b
   port: 1281
   server: 153.121.44.99
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: Unknown_trojan_10188
+- name: Unknown_trojan_10185
   network: tcp
   password: BxceQaOe
-  port: 2173
-  server: 43.207.71.183
+  port: 1221
+  server: 3.113.31.15
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - alterId: 2
   cipher: auto
-  name: Unknown_vmess_10189
+  name: Unknown_vmess_10186
   network: tcp
   port: '30807'
   server: v10.hdacd.com
@@ -49353,18 +49303,8 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 0
-  cipher: auto
-  name: Unknown_vmess_10190
-  network: tcp
-  port: '46524'
-  server: 8.218.238.254
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 5d564055-2b42-406b-9183-28cc63d8914a
 - flow: xtls-rprx-vision
-  name: Unknown_vless_10191
+  name: Unknown_vless_10187
   port: 4248
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -49377,7 +49317,7 @@ proxies:
   udp: true
   uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
 - flow: xtls-rprx-vision
-  name: Unknown_vless_10192
+  name: Unknown_vless_10188
   port: 443
   reality-opts:
     public-key: dFORJuMEa7izUStNjvhLFvJ2Hudr4v07VQhQS-Wbyh8
@@ -49390,7 +49330,7 @@ proxies:
   udp: true
   uuid: ac2c8871-d4eb-40a6-8487-fd1b31c3bc22
 - flow: xtls-rprx-vision
-  name: Unknown_vless_10193
+  name: Unknown_vless_10189
   port: 1488
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -56510,23 +56450,19 @@ proxy-groups:
   - Unknown_vmess_146
   - Unknown_ss_147
   - Unknown_vmess_148
-  - Unknown_vmess_149
+  - Unknown_trojan_149
   - Unknown_trojan_150
   - Unknown_trojan_151
   - Unknown_trojan_152
-  - Unknown_ss_153
+  - Unknown_trojan_153
   - Unknown_trojan_154
   - Unknown_trojan_155
-  - Unknown_ss_156
+  - Unknown_trojan_156
   - Unknown_trojan_157
   - Unknown_trojan_158
   - Unknown_trojan_159
-  - Unknown_ss_160
-  - Unknown_trojan_161
-  - Unknown_trojan_162
-  - Unknown_trojan_163
-  - Unknown_vmess_164
-  - Unknown_vmess_165
+  - Unknown_trojan_160
+  - Unknown_vmess_161
   - Unknown_hysteria_41
   - Unknown_hysteria_42
   - Unknown_hysteria_43
@@ -61865,26 +61801,22 @@ proxy-groups:
   - Unknown_hysteria2_10171
   - Unknown_ss_10172
   - Unknown_vmess_10173
-  - Unknown_vmess_10174
+  - Unknown_trojan_10174
   - Unknown_trojan_10175
   - Unknown_trojan_10176
   - Unknown_trojan_10177
-  - Unknown_ss_10178
+  - Unknown_trojan_10178
   - Unknown_trojan_10179
   - Unknown_trojan_10180
-  - Unknown_ss_10181
+  - Unknown_trojan_10181
   - Unknown_trojan_10182
   - Unknown_trojan_10183
   - Unknown_trojan_10184
-  - Unknown_ss_10185
-  - Unknown_trojan_10186
-  - Unknown_trojan_10187
-  - Unknown_trojan_10188
-  - Unknown_vmess_10189
-  - Unknown_vmess_10190
-  - Unknown_vless_10191
-  - Unknown_vless_10192
-  - Unknown_vless_10193
+  - Unknown_trojan_10185
+  - Unknown_vmess_10186
+  - Unknown_vless_10187
+  - Unknown_vless_10188
+  - Unknown_vless_10189
   - Unknown_vless_121
   - Unknown_vmess_122
   - Unknown_trojan_123
@@ -62509,23 +62441,19 @@ proxy-groups:
   - Unknown_vmess_146
   - Unknown_ss_147
   - Unknown_vmess_148
-  - Unknown_vmess_149
+  - Unknown_trojan_149
   - Unknown_trojan_150
   - Unknown_trojan_151
   - Unknown_trojan_152
-  - Unknown_ss_153
+  - Unknown_trojan_153
   - Unknown_trojan_154
   - Unknown_trojan_155
-  - Unknown_ss_156
+  - Unknown_trojan_156
   - Unknown_trojan_157
   - Unknown_trojan_158
   - Unknown_trojan_159
-  - Unknown_ss_160
-  - Unknown_trojan_161
-  - Unknown_trojan_162
-  - Unknown_trojan_163
-  - Unknown_vmess_164
-  - Unknown_vmess_165
+  - Unknown_trojan_160
+  - Unknown_vmess_161
   - Unknown_hysteria_41
   - Unknown_hysteria_42
   - Unknown_hysteria_43
@@ -67864,26 +67792,22 @@ proxy-groups:
   - Unknown_hysteria2_10171
   - Unknown_ss_10172
   - Unknown_vmess_10173
-  - Unknown_vmess_10174
+  - Unknown_trojan_10174
   - Unknown_trojan_10175
   - Unknown_trojan_10176
   - Unknown_trojan_10177
-  - Unknown_ss_10178
+  - Unknown_trojan_10178
   - Unknown_trojan_10179
   - Unknown_trojan_10180
-  - Unknown_ss_10181
+  - Unknown_trojan_10181
   - Unknown_trojan_10182
   - Unknown_trojan_10183
   - Unknown_trojan_10184
-  - Unknown_ss_10185
-  - Unknown_trojan_10186
-  - Unknown_trojan_10187
-  - Unknown_trojan_10188
-  - Unknown_vmess_10189
-  - Unknown_vmess_10190
-  - Unknown_vless_10191
-  - Unknown_vless_10192
-  - Unknown_vless_10193
+  - Unknown_trojan_10185
+  - Unknown_vmess_10186
+  - Unknown_vless_10187
+  - Unknown_vless_10188
+  - Unknown_vless_10189
   - Unknown_vless_121
   - Unknown_vmess_122
   - Unknown_trojan_123
