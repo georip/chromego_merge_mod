@@ -611,131 +611,119 @@ proxies:
   network: tcp
   password: c1d83c0c7d57cead4379ba14a82df69b
   port: 443
-  server: 58.152.110.210
+  server: 203.198.122.20
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_151
   network: tcp
   password: BxceQaOe
-  port: 1867
-  server: 54.178.100.75
+  port: 2266
+  server: 43.198.83.39
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_152
   network: tcp
   password: BxceQaOe
-  port: 3760
-  server: 54.178.100.75
+  port: 1867
+  server: 43.207.103.252
   skip-cert-verify: true
-  sni: t.me%252Fripaojiedian
+  sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_153
   network: tcp
-  password: c1d83c0c7d57cead4379ba14a82df69b
-  port: 3423
-  server: 160.16.68.250
-  skip-cert-verify: false
-  sni: www.nintendogames.net
+  password: BxceQaOe
+  port: 26378
+  server: 54.199.5.138
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_154
   network: tcp
   password: c1d83c0c7d57cead4379ba14a82df69b
-  port: 3423
-  server: 153.121.38.213
+  port: 1933
+  server: 160.16.105.192
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_155
   network: tcp
   password: c1d83c0c7d57cead4379ba14a82df69b
-  port: 3076
-  server: 153.121.65.107
-  skip-cert-verify: true
+  port: 1933
+  server: 54.199.5.138
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_156
   network: tcp
-  password: BxceQaOe
-  port: 1691
-  server: 95.40.115.216
-  skip-cert-verify: true
-  sni: t.me%252Fripaojiedian
+  password: c1d83c0c7d57cead4379ba14a82df69b
+  port: 3076
+  server: 160.16.144.208
+  skip-cert-verify: false
+  sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_157
   network: tcp
   password: c1d83c0c7d57cead4379ba14a82df69b
-  port: 491
-  server: 43.207.157.137
-  skip-cert-verify: false
+  port: 3076
+  server: 160.16.124.17
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_158
   network: tcp
-  password: c1d83c0c7d57cead4379ba14a82df69b
-  port: 491
-  server: 57.180.246.207
-  skip-cert-verify: false
-  sni: www.nintendogames.net
+  password: BxceQaOe
+  port: 2673
+  server: 43.207.103.252
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_159
   network: tcp
+  password: c1d83c0c7d57cead4379ba14a82df69b
+  port: 5076
+  server: 160.16.72.205
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_160
+  network: tcp
+  password: c1d83c0c7d57cead4379ba14a82df69b
+  port: 491
+  server: 160.16.72.205
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_161
+  network: tcp
   password: BxceQaOe
   port: 2173
-  server: 95.40.115.216
+  server: 43.198.83.39
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- alterId: 2
-  cipher: auto
-  name: Unknown_vmess_160
-  network: ws
-  port: '80'
-  server: 6f5bbcfb-t8v340-ta7sek-1thts.hkt.gotochinatown.net
-  servername: ''
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: cb96c846-fd6d-11ef-a910-f23c9164ca5d
-  ws-opts:
-    headers:
-      Host: broadcastlv.chat.bilibili.com
-    path: /
-- alterId: 2
-  cipher: auto
-  name: Unknown_vmess_161
-  port: 30845
-  server: v45.hdacd.com
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 0
   cipher: auto
   name: Unknown_vmess_162
-  port: 47083
-  server: tunnel1.qqa678.com
+  port: 58623
+  server: 160.191.245.48
   skip-cert-verify: false
   tls: false
   type: vmess
-  uuid: 9f8c122d-5b86-4c19-af87-64f458a88223
-- alterId: 2
-  cipher: auto
-  name: Unknown_vmess_163
-  network: tcp
-  port: '30807'
-  server: v10.hdacd.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  uuid: 8d74803e-aa74-47ef-e3ae-23eeaa96f89d
+- cipher: aes-256-cfb
+  name: Unknown_ss_163
+  password: qwerREWQ@@
+  port: 13832
+  server: 221.150.109.19
+  type: ss
 - alterId: 2
   cipher: auto
   name: Unknown_vmess_164
   network: tcp
-  port: '30845'
-  server: v45.hdacd.com
+  port: '30807'
+  server: v10.hdacd.com
   servername: ''
   tls: false
   type: vmess
@@ -744,12 +732,12 @@ proxies:
   cipher: auto
   name: Unknown_vmess_165
   network: tcp
-  port: '47083'
-  server: tunnel1.qqa678.com
+  port: '58623'
+  server: 160.191.245.48
   servername: ''
   tls: false
   type: vmess
-  uuid: 9f8c122d-5b86-4c19-af87-64f458a88223
+  uuid: 8d74803e-aa74-47ef-e3ae-23eeaa96f89d
 - name: Unknown_trojan_166
   password: 685343f2-49e1-41f8-a7fc-5d0993afb6c6
   port: 43533
@@ -49740,46 +49728,6 @@ proxies:
   type: hysteria2
 - name: Unknown_hysteria2_1084
   obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 35000
-  server: 206.71.158.37
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: Unknown_hysteria2_1085
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 35200
-  server: 206.71.158.37
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: Unknown_hysteria2_1086
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36300
-  server: 206.71.158.37
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: Unknown_hysteria2_1087
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36400
-  server: 206.71.158.37
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: Unknown_hysteria2_1088
-  obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 35000
@@ -49788,7 +49736,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1089
+- name: Unknown_hysteria2_1085
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -49798,7 +49746,17 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1090
+- name: Unknown_hysteria2_1086
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 5.175.249.174
+  skip-cert-verify: false
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: Unknown_hysteria2_1087
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -49809,136 +49767,134 @@ proxies:
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
-  name: Unknown_ss_1091
+  name: Unknown_ss_1088
   password: amazonskr05
   port: 443
   server: 63.180.254.10
   type: ss
 - alterId: 2
   cipher: auto
-  name: Unknown_vmess_1092
+  name: Unknown_vmess_1089
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: Unknown_trojan_1093
+- name: Unknown_trojan_1090
   network: tcp
   password: c1d83c0c7d57cead4379ba14a82df69b
   port: 443
-  server: 58.152.110.210
+  server: 203.198.122.20
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: Unknown_trojan_1094
+- name: Unknown_trojan_1091
   network: tcp
   password: BxceQaOe
-  port: 1867
-  server: 54.178.100.75
+  port: 2266
+  server: 43.198.83.39
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: Unknown_trojan_1095
+- name: Unknown_trojan_1092
   network: tcp
   password: BxceQaOe
-  port: 3760
-  server: 54.178.100.75
+  port: 1867
+  server: 43.207.103.252
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_1093
+  network: tcp
+  password: BxceQaOe
+  port: 26378
+  server: 54.199.5.138
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_1094
+  network: tcp
+  password: c1d83c0c7d57cead4379ba14a82df69b
+  port: 1933
+  server: 160.16.105.192
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_1095
+  network: tcp
+  password: c1d83c0c7d57cead4379ba14a82df69b
+  port: 1933
+  server: 54.199.5.138
+  skip-cert-verify: false
+  sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_1096
   network: tcp
   password: c1d83c0c7d57cead4379ba14a82df69b
-  port: 3423
-  server: 160.16.68.250
+  port: 3076
+  server: 160.16.144.208
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_1097
   network: tcp
   password: c1d83c0c7d57cead4379ba14a82df69b
-  port: 3423
-  server: 153.121.38.213
-  skip-cert-verify: false
+  port: 3076
+  server: 160.16.124.17
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_1098
   network: tcp
-  password: c1d83c0c7d57cead4379ba14a82df69b
-  port: 3076
-  server: 153.121.65.107
+  password: BxceQaOe
+  port: 2673
+  server: 43.207.103.252
   skip-cert-verify: true
-  sni: www.nintendogames.net
+  sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_1099
   network: tcp
-  password: BxceQaOe
-  port: 1691
-  server: 95.40.115.216
-  skip-cert-verify: true
-  sni: t.me%252Fripaojiedian
+  password: c1d83c0c7d57cead4379ba14a82df69b
+  port: 5076
+  server: 160.16.72.205
+  skip-cert-verify: false
+  sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_10100
   network: tcp
   password: c1d83c0c7d57cead4379ba14a82df69b
   port: 491
-  server: 43.207.157.137
+  server: 160.16.72.205
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_10101
   network: tcp
-  password: c1d83c0c7d57cead4379ba14a82df69b
-  port: 491
-  server: 57.180.246.207
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: Unknown_trojan_10102
-  network: tcp
   password: BxceQaOe
   port: 2173
-  server: 95.40.115.216
+  server: 43.198.83.39
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- alterId: 2
+- alterId: 0
   cipher: auto
-  name: Unknown_vmess_10103
-  network: ws
-  port: '80'
-  server: 6f5bbcfb-t8v340-ta7sek-1thts.hkt.gotochinatown.net
-  servername: ''
+  name: Unknown_vmess_10102
+  port: 58623
+  server: 160.191.245.48
   skip-cert-verify: false
   tls: false
   type: vmess
-  uuid: cb96c846-fd6d-11ef-a910-f23c9164ca5d
-  ws-opts:
-    headers:
-      Host: broadcastlv.chat.bilibili.com
-    path: /
+  uuid: 8d74803e-aa74-47ef-e3ae-23eeaa96f89d
+- cipher: aes-256-cfb
+  name: Unknown_ss_10103
+  password: qwerREWQ@@
+  port: 13832
+  server: 221.150.109.19
+  type: ss
 - alterId: 2
   cipher: auto
   name: Unknown_vmess_10104
-  port: 30845
-  server: v45.hdacd.com
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 0
-  cipher: auto
-  name: Unknown_vmess_10105
-  port: 47083
-  server: tunnel1.qqa678.com
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 9f8c122d-5b86-4c19-af87-64f458a88223
-- alterId: 2
-  cipher: auto
-  name: Unknown_vmess_10106
   network: tcp
   port: '30807'
   server: v10.hdacd.com
@@ -49946,27 +49902,17 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 2
-  cipher: auto
-  name: Unknown_vmess_10107
-  network: tcp
-  port: '30845'
-  server: v45.hdacd.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 0
   cipher: auto
-  name: Unknown_vmess_10108
+  name: Unknown_vmess_10105
   network: tcp
-  port: '47083'
-  server: tunnel1.qqa678.com
+  port: '58623'
+  server: 160.191.245.48
   servername: ''
   tls: false
   type: vmess
-  uuid: 9f8c122d-5b86-4c19-af87-64f458a88223
-- name: Unknown_vless_10109
+  uuid: 8d74803e-aa74-47ef-e3ae-23eeaa96f89d
+- name: Unknown_vless_10106
   port: 443
   reality-opts:
     public-key: DbZWMfQTZQQrOJDgnWetu1ChTlXISZWKt4Kn_G0YyUI
@@ -49977,7 +49923,7 @@ proxies:
   type: vless
   udp: true
   uuid: f04b96a6-0c53-4204-815a-9808fd7e4e0a
-- name: Unknown_vless_10110
+- name: Unknown_vless_10107
   port: 8443
   reality-opts:
     public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo
@@ -49989,14 +49935,14 @@ proxies:
   type: vless
   udp: true
   uuid: f4fec1b0-a67e-4967-b9ea-0bd832b57a4d
-- name: Unknown_trojan_10111
+- name: Unknown_trojan_10108
   password: 685343f2-49e1-41f8-a7fc-5d0993afb6c6
   port: 43533
   server: faq1.lieerr222.cn
   skip-cert-verify: true
   type: trojan
   udp: true
-- name: Unknown_trojan_10112
+- name: Unknown_trojan_10109
   password: 685343f2-49e1-41f8-a7fc-5d0993afb6c6
   port: 43533
   server: faq1.lieerr222.cn
@@ -50004,7 +49950,7 @@ proxies:
   sni: faq1.lieerr222.cn
   type: trojan
   udp: true
-- name: Unknown_vless_10113
+- name: Unknown_vless_10110
   port: 7008
   reality-opts:
     public-key: OYuAdC90TNjvXbmJJyCsP0i9RXjdR1g8nBcjk421Aws
@@ -50018,7 +49964,7 @@ proxies:
   uuid: a3ea154c-2827-4ceb-aae7-0fe743ce9f73
 - client-fingerprint: random
   flow: xtls-rprx-vision
-  name: Unknown_vless_10114
+  name: Unknown_vless_10111
   port: 8443
   reality-opts:
     public-key: pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4
@@ -50031,7 +49977,7 @@ proxies:
   udp: true
   uuid: fd8972d7-cf5e-11f0-9970-45e1d80c4039
 - flow: xtls-rprx-vision
-  name: Unknown_vless_10115
+  name: Unknown_vless_10112
   port: 443
   reality-opts:
     public-key: R5Vu-2P24vBQMHBZdYj176gneqfGu65xwy1uzEn22Bs
@@ -50044,7 +49990,7 @@ proxies:
   udp: true
   uuid: fbf28ef0-3981-4ac6-ab33-95e599afdd99
 - flow: xtls-rprx-vision
-  name: Unknown_vless_10116
+  name: Unknown_vless_10113
   port: 443
   reality-opts:
     public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
@@ -50057,7 +50003,7 @@ proxies:
   udp: true
   uuid: 45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3
 - flow: xtls-rprx-vision
-  name: Unknown_vless_10117
+  name: Unknown_vless_10114
   port: 443
   reality-opts:
     public-key: cacOGNK9K0JXGCsI1R9Pnbg6oW0s9qR2IV_TZEOjlDE
@@ -50068,7 +50014,7 @@ proxies:
   type: vless
   udp: true
   uuid: deaf028b-5c47-4b6b-ad7d-2534ba0782e5
-- name: Unknown_vless_10118
+- name: Unknown_vless_10115
   port: 443
   server: decdn3.suio.me
   servername: decdn3.suio.me
@@ -50084,7 +50030,7 @@ proxies:
     method: GET
     path:
     - /
-  name: Unknown_vless_10119
+  name: Unknown_vless_10116
   network: http
   port: 10468
   server: 185.113.10.198
@@ -50096,7 +50042,7 @@ proxies:
   uuid: 3b12e953-96f0-40da-ac32-3038dadf20f7
 - client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: Unknown_vless_10120
+  name: Unknown_vless_10117
   port: 443
   reality-opts:
     public-key: mFaXixrKl1vEgNUwYzoBk2cZ8YyPYUa61fNALv05i3g
@@ -50108,7 +50054,7 @@ proxies:
   type: vless
   udp: true
   uuid: fbf28ef0-3981-4ac6-ab33-95e599afdd99
-- name: Unknown_vless_10121
+- name: Unknown_vless_10118
   port: 8443
   reality-opts:
     public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo
@@ -50122,7 +50068,7 @@ proxies:
   uuid: f4fec1b0-a67e-4967-b9ea-0bd832b57a4d
 - client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: Unknown_vless_10122
+  name: Unknown_vless_10119
   port: 443
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -50134,7 +50080,7 @@ proxies:
   udp: true
   uuid: d6b1327d-2bec-4366-a3a1-9b1284f95841
 - flow: xtls-rprx-vision
-  name: Unknown_vless_10123
+  name: Unknown_vless_10120
   port: 443
   reality-opts:
     public-key: 45ui5TpjfPf6HmRyT4M53XnR9tOXjpcLRLmaRyhlPiQ
@@ -50148,7 +50094,7 @@ proxies:
   uuid: 6b1c3308-9bb4-45bc-8387-25c969a8c8f9
 - client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: Unknown_vless_10124
+  name: Unknown_vless_10121
   port: 443
   reality-opts:
     public-key: Ax50I4wgBCS5ejrqH-QGRL28oyr5-ocbBw6U7rHFzXI
@@ -50161,7 +50107,7 @@ proxies:
   udp: true
   uuid: fbf28ef0-3981-4ac6-ab33-95e599afdd99
 - flow: xtls-rprx-vision
-  name: Unknown_vless_10125
+  name: Unknown_vless_10122
   port: 443
   reality-opts:
     public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE
@@ -50174,7 +50120,7 @@ proxies:
   udp: true
   uuid: d26a9be3-023a-557a-a41e-b3d3841c4018
 - flow: xtls-rprx-vision
-  name: Unknown_vless_10126
+  name: Unknown_vless_10123
   port: 8443
   reality-opts:
     public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04
@@ -50187,7 +50133,7 @@ proxies:
   udp: true
   uuid: 2ad6bd90-51fd-41d2-985b-b7aab5cd77c8
 - flow: xtls-rprx-vision
-  name: Unknown_vless_10127
+  name: Unknown_vless_10124
   port: 443
   reality-opts:
     public-key: 6EHTqOektSiQ8OMDU-5I1RWpFWw22N_N1aJCJdymXCA
@@ -50200,7 +50146,7 @@ proxies:
   udp: true
   uuid: 15d5ef21-f4cd-4812-bb30-f998051c5dc1
 - flow: xtls-rprx-vision
-  name: Unknown_vless_10128
+  name: Unknown_vless_10125
   port: 443
   reality-opts:
     public-key: PEMF0zJRT97z18eQUFk5jT5sBk1bYZ-Q2PxeFkfEKTQ
@@ -50213,7 +50159,7 @@ proxies:
   udp: true
   uuid: 2275661d-a9b7-522d-99e6-a4d42cb04fa0
 - flow: xtls-rprx-vision
-  name: Unknown_vless_10129
+  name: Unknown_vless_10126
   port: 443
   reality-opts:
     public-key: iOmM3Jbv9gtQd5XLbPDioqVmyxKehF5rHaRnji46V0k
@@ -50227,7 +50173,7 @@ proxies:
   uuid: fbf28ef0-3981-4ac6-ab33-95e599afdd99
 - client-fingerprint: edge
   flow: xtls-rprx-vision
-  name: Unknown_vless_10130
+  name: Unknown_vless_10127
   port: 443
   reality-opts:
     public-key: 1vMO86Bpz3FJNbtRPaGVOee9ZdEcXGY6WcQblDLpqWA
@@ -50241,7 +50187,7 @@ proxies:
   uuid: fbf28ef0-3981-4ac6-ab33-95e599afdd99
 - client-fingerprint: edge
   flow: xtls-rprx-vision
-  name: Unknown_vless_10131
+  name: Unknown_vless_10128
   port: 443
   reality-opts:
     public-key: HU0XwQRJ0oZh88krUesOhRt6HRdT4pmX2HDunaOS4To
@@ -50253,7 +50199,7 @@ proxies:
   type: vless
   udp: true
   uuid: fbf28ef0-3981-4ac6-ab33-95e599afdd99
-- name: Unknown_vless_10132
+- name: Unknown_vless_10129
   port: 443
   reality-opts:
     public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
@@ -50265,7 +50211,7 @@ proxies:
   type: vless
   udp: true
   uuid: fdf3bd07-b310-487e-ada8-538e19e835f5
-- name: Unknown_vless_10133
+- name: Unknown_vless_10130
   port: 443
   reality-opts:
     public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
@@ -50277,12 +50223,12 @@ proxies:
   type: vless
   udp: true
   uuid: ba21b656-2355-44b5-829d-639cbc0e92b7
-- name: Unknown_socks5_10134
+- name: Unknown_socks5_10131
   port: 1080
   server: 174.138.61.184
   type: socks5
   udp: true
-- name: Unknown_vless_10135
+- name: Unknown_vless_10132
   port: 443
   reality-opts:
     public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
@@ -50294,7 +50240,7 @@ proxies:
   type: vless
   udp: true
   uuid: 174711b1-013d-4ec6-9f69-485ff008d50f
-- name: Unknown_vless_10136
+- name: Unknown_vless_10133
   port: 443
   reality-opts:
     public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
@@ -50306,7 +50252,7 @@ proxies:
   type: vless
   udp: true
   uuid: 10155e8d-e052-4b50-b8b6-2ae2d418b311
-- name: Unknown_vless_10137
+- name: Unknown_vless_10134
   port: 443
   reality-opts:
     public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
@@ -58733,21 +58679,93 @@ proxies:
   uuid: 9042affd-0ad3-4014-adbc-e52f00891ea2
   xudp: true
 - name: Unknown_ss_141
+  server: 154.205.147.237
+  type: ss
+  country: 🇺🇸US
+  port: 11201
+  password: 2272de48c53e0a57
+  cipher: chacha20-ietf-poly1305
+  delay: 2013
+- name: Unknown_vmess_142
+  server: tgju.org
+  port: 8080
+  type: vmess
+  uuid: nasnet
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /nasnet/cdn?ed=2560
+    headers:
+      Host: nasnet-571296497.iranpress.co
+  udp: true
+  delay: 494
+- name: Unknown_vmess_143
+  server: digitalocean.com
+  type: vmess
+  country: 🏁ZZ
+  port: 8080
+  uuid: nasnet
+  alterId: 0
+  cipher: auto
+  network: ws
+  servername: nasnet-571299667.rahavard365.co
+  http-opts: {}
+  h2-opts: {}
+  skip-cert-verify: true
+  ws-opts:
+    path: /NASNET/cdn?ed=2560
+    headers:
+      HOST: nasnet-571299667.rahavard365.co
+  delay: 821
+- name: Unknown_trojan_144
+  server: 13.36.49.48
+  type: trojan
+  country: 🇫🇷FR
+  port: 22222
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: true
+  udp: true
+  delay: 751
+- name: Unknown_trojan_145
+  server: 13.36.49.48
+  type: trojan
+  country: 🇫🇷FR
+  port: 22223
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: true
+  udp: true
+  delay: 749
+- name: Unknown_ss_146
   server: 195.154.119.77
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
   udp: true
-  delay: 533
-- name: Unknown_socks5_142
+  delay: 1189
+- name: Unknown_socks5_147
   type: socks5
   server: 121.169.46.116
   port: 1090
   username: Og%3D%3D
   password: ''
-  delay: 1133
-- name: Unknown_ss_143
+  delay: 746
+- name: Unknown_ss_148
+  server: 218.50.149.114
+  port: 16449
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 191
+- name: Unknown_ss_149
   server: 168.126.234.247
   port: 4469
   client-fingerprint: chrome
@@ -58756,8 +58774,8 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 342
-- name: Unknown_ss_144
+  delay: 483
+- name: Unknown_ss_1410
   server: 168.126.234.233
   port: 25879
   client-fingerprint: chrome
@@ -58766,8 +58784,8 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 1449
-- name: Unknown_ss_145
+  delay: 466
+- name: Unknown_ss_1411
   server: 168.126.234.252
   port: 50852
   client-fingerprint: chrome
@@ -58776,18 +58794,8 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 295
-- name: Unknown_ss_146
-  server: 27.255.82.134
-  port: 65019
-  client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
-  udp: true
-  delay: 251
-- name: Unknown_ss_147
+  delay: 468
+- name: Unknown_ss_1412
   server: 27.255.82.135
   port: 48720
   client-fingerprint: chrome
@@ -58796,8 +58804,18 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 255
-- name: Unknown_ss_148
+  delay: 221
+- name: Unknown_ss_1413
+  server: 27.255.82.134
+  port: 65019
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 246
+- name: Unknown_ss_1414
   server: 221.150.109.89
   port: 24986
   client-fingerprint: chrome
@@ -58806,28 +58824,18 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 1247
-- name: Unknown_ss_149
-  server: 221.150.109.22
-  port: 22045
+  delay: 235
+- name: Unknown_ss_1415
+  server: 221.150.109.19
+  port: 13832
   client-fingerprint: chrome
   type: ss
   cipher: aes-256-cfb
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 1265
-- name: Unknown_ss_1410
-  server: 221.150.109.92
-  port: 25526
-  client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
-  udp: true
-  delay: 259
-- name: Unknown_ss_1411
+  delay: 418
+- name: Unknown_ss_1416
   server: 221.150.109.20
   port: 31156
   client-fingerprint: chrome
@@ -58837,17 +58845,7 @@ proxies:
   tfo: true
   udp: true
   delay: 268
-- name: Unknown_ss_1412
-  server: 125.141.26.12
-  port: 64207
-  client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
-  udp: true
-  delay: 257
-- name: Unknown_ss_1413
+- name: Unknown_ss_1417
   server: 125.141.31.75
   port: 56375
   client-fingerprint: chrome
@@ -58856,18 +58854,8 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 248
-- name: Unknown_ss_1414
-  server: 125.141.31.76
-  port: 23865
-  client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
-  udp: true
-  delay: 241
-- name: Unknown_ss_1415
+  delay: 213
+- name: Unknown_ss_1418
   server: 125.141.26.15
   port: 48041
   client-fingerprint: chrome
@@ -58876,8 +58864,18 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 624
-- name: Unknown_ss_1416
+  delay: 170
+- name: Unknown_ss_1419
+  server: 221.150.109.22
+  port: 22045
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 253
+- name: Unknown_ss_1420
   server: 221.150.109.90
   port: 54387
   client-fingerprint: chrome
@@ -58886,18 +58884,38 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 274
-- name: Unknown_ss_1417
-  server: 221.150.109.19
-  port: 13832
+  delay: 418
+- name: Unknown_ss_1421
+  server: 125.141.31.76
+  port: 23865
   client-fingerprint: chrome
   type: ss
   cipher: aes-256-cfb
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 248
-- name: Unknown_ss_1418
+  delay: 206
+- name: Unknown_ss_1422
+  server: 125.141.26.14
+  port: 39794
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 436
+- name: Unknown_ss_1423
+  server: 221.150.109.92
+  port: 25526
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 250
+- name: Unknown_ss_1424
   server: 221.139.79.20
   port: 29707
   client-fingerprint: chrome
@@ -58906,38 +58924,8 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 1239
-- name: Unknown_ss_1419
-  server: 221.139.79.41
-  port: 49049
-  client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
-  udp: true
-  delay: 295
-- name: Unknown_ss_1420
-  server: 121.170.203.148
-  port: 33165
-  client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
-  udp: true
-  delay: 1820
-- name: Unknown_ss_1421
-  server: 222.112.15.140
-  port: 42363
-  client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
-  udp: true
-  delay: 231
-- name: Unknown_ss_1422
+  delay: 533
+- name: Unknown_ss_1425
   server: 203.234.238.147
   port: 36264
   client-fingerprint: chrome
@@ -58946,58 +58934,8 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 417
-- name: Unknown_ss_1423
-  server: 221.168.44.72
-  port: 33261
-  client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
-  udp: true
-  delay: 452
-- name: Unknown_ss_1424
-  server: 210.217.18.68
-  port: 53532
-  client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
-  udp: true
-  delay: 365
-- name: Unknown_ss_1425
-  server: 203.234.238.140
-  port: 58143
-  client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
-  udp: true
-  delay: 281
+  delay: 280
 - name: Unknown_ss_1426
-  server: 222.112.15.141
-  port: 57312
-  client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
-  udp: true
-  delay: 187
-- name: Unknown_ss_1427
-  server: 210.217.18.69
-  port: 60692
-  client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
-  udp: true
-  delay: 315
-- name: Unknown_ss_1428
   server: 210.217.18.70
   port: 35416
   client-fingerprint: chrome
@@ -59006,8 +58944,78 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 278
+  delay: 270
+- name: Unknown_ss_1427
+  server: 210.217.18.68
+  port: 53532
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 1106
+- name: Unknown_ss_1428
+  server: 203.234.238.140
+  port: 58143
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 259
 - name: Unknown_ss_1429
+  server: 121.170.203.136
+  port: 6373
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 2546
+- name: Unknown_ss_1430
+  server: 222.112.15.140
+  port: 42363
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 479
+- name: Unknown_ss_1431
+  server: 221.168.44.72
+  port: 33261
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 443
+- name: Unknown_ss_1432
+  server: 222.112.15.141
+  port: 57312
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 434
+- name: Unknown_ss_1433
+  server: 210.217.18.69
+  port: 60692
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 260
+- name: Unknown_ss_1434
   server: 121.170.203.147
   port: 19203
   client-fingerprint: chrome
@@ -59016,18 +59024,52 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 1014
-- name: Unknown_ss_1430
-  server: 218.234.149.9
-  port: 17975
+  delay: 285
+- name: Unknown_ss_1435
+  server: 121.170.203.148
+  port: 33165
   client-fingerprint: chrome
   type: ss
   cipher: aes-256-cfb
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 267
-- name: Unknown_ss_1431
+  delay: 307
+- name: Unknown_ss_1436
+  server: 218.38.103.150
+  port: 56223
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  tfo: true
+  udp: true
+  delay: 441
+- name: Unknown_trojan_1437
+  server: tuntro006.instconn.com
+  type: trojan
+  country: 🇨🇦CA
+  port: 443
+  password: 63b21d86-a49c-4936-a634-0b5af3e30433
+  sni: torontorm1.686911.xyz
+  skip-cert-verify: true
+  udp: true
+  delay: 2027
+- name: Unknown_vmess_1438
+  server: ml0724.ysds168.shop
+  type: vmess
+  country: 🇺🇸US
+  port: 2052
+  uuid: 665d9b8f-153d-4907-adac-de12afd9c851
+  alterId: 0
+  cipher: auto
+  network: tcp
+  http-opts: {}
+  h2-opts: {}
+  tls: true
+  skip-cert-verify: true
+  delay: 1554
+- name: Unknown_ss_1439
   server: 140.174.186.5
   port: 41632
   client-fingerprint: chrome
@@ -59036,24 +59078,19 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 574
-- name: Unknown_vmess_1432
-  server: 154.83.2.156
-  port: 2086
+  delay: 869
+- name: Unknown_vmess_1440
+  server: 82.198.246.97
+  port: 180
   type: vmess
-  uuid: 92373ed1-78a8-4cbe-aa06-54af1edd0471
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
   alterId: 0
   cipher: auto
   tls: false
   skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: v205.19740822.xyz
   udp: true
-  delay: 2743
-- name: Unknown_ss_1433
+  delay: 2490
+- name: Unknown_ss_1441
   server: 108.181.14.35
   port: 30723
   client-fingerprint: chrome
@@ -59062,210 +59099,568 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 451
-- name: Unknown_vless_1434
-  server: 91.216.71.109
-  port: 8880
-  type: vless
-  uuid: 4660d0c6-4367-40c9-b730-864194e7efa7
+  delay: 1411
+- name: Unknown_vmess_1442
+  server: cg1c01.waimaojd.com
+  type: vmess
+  country: 🇺🇸US
+  port: 443
+  uuid: be8e3136-b874-4085-bd23-ec3699300490
+  alterId: 0
+  cipher: auto
+  network: ws
+  http-opts: {}
+  h2-opts: {}
+  tls: true
+  skip-cert-verify: true
+  ws-opts:
+    path: /api/v1/graphql
+  delay: 1830
+- name: Unknown_vmess_1443
+  server: cg1c14.waimaojd.com
+  type: vmess
+  port: 443
+  uuid: be8e3136-b874-4085-bd23-ec3699300490
+  alterId: 0
+  cipher: auto
+  network: ws
+  http-opts: {}
+  h2-opts: {}
+  tls: true
+  skip-cert-verify: true
+  ws-opts:
+    path: /api/v1/graphql
+    headers:
+      Host: cg1c14.waimaojd.com
+  delay: 994
+- name: Unknown_vmess_1444
+  server: 157.230.153.13
+  type: vmess
+  country: 🇺🇸US
+  port: 443
+  uuid: d0563aa0-8fdd-481e-bf8a-ae3923c540b5
+  alterId: 0
+  cipher: auto
+  network: ws
+  servername: cg1c11.waimaojd.com
+  http-opts: {}
+  h2-opts: {}
+  tls: true
+  skip-cert-verify: true
+  ws-opts:
+    path: /api/v1/graphql
+    headers:
+      HOST: cg1c11.waimaojd.com
+  delay: 886
+- name: Unknown_vmess_1445
+  server: w10.luoli.de
+  type: vmess
+  country: 🏁ZZ
+  port: 443
+  uuid: 42a99644-b90b-3627-8809-a2d6c4078b59
+  alterId: 0
+  cipher: auto
+  network: ws
+  servername: w10.luoli.de
+  http-opts: {}
+  h2-opts: {}
+  tls: true
+  skip-cert-verify: true
+  ws-opts:
+    path: /v2ws
+    headers:
+      HOST: w10.luoli.de
+  delay: 1329
+- name: Unknown_trojan_1446
+  server: xiaozhu1.kkieo555.cn
+  type: trojan
+  country: 🇬🇧GB
+  port: 41275
+  password: 355bb83d-ccc1-41c7-a23f-226c3eaceae9
+  skip-cert-verify: true
+  udp: true
+  delay: 1146
+- name: Unknown_vmess_1447
+  server: cg1c07.waimaojd.com
+  type: vmess
+  country: 🇺🇸US
+  port: 443
+  uuid: be8e3136-b874-4085-bd23-ec3699300490
+  alterId: 0
+  cipher: auto
+  network: ws
+  http-opts: {}
+  h2-opts: {}
+  tls: true
+  skip-cert-verify: true
+  ws-opts:
+    path: /api/v1/graphql
+  delay: 1785
+- name: Unknown_vmess_1448
+  server: 8.216.13.21
+  port: 8080
+  type: vmess
+  uuid: f67855c5-f679-49ad-921e-a68ec5a4cead
+  alterId: 0
+  cipher: auto
   tls: false
+  skip-cert-verify: false
+  udp: true
   network: tcp
-  udp: true
   client-fingerprint: chrome
-  delay: 852
-- name: Unknown_ss_1435
-  server: 103.186.155.80
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  delay: 637
+- name: Unknown_vmess_1449
+  server: 8.216.12.247
+  port: 8080
+  type: vmess
+  uuid: 1cfffe25-7cef-4f94-a37b-476a493304a6
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
   udp: true
-  delay: 556
-- name: Unknown_ss_1436
-  server: 103.186.154.243
-  port: 38388
-  type: ss
-  country: 🏁 ZZ
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  cipher: aes-256-cfb
-  delay: 530
-- name: Unknown_ss_1437
-  server: 103.186.154.157
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  network: tcp
+  client-fingerprint: chrome
+  delay: 634
+- name: Unknown_vmess_1450
+  server: 8.216.20.166
+  port: 8080
+  type: vmess
+  uuid: d4606563-c987-4fbe-b546-bb118da87521
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
   udp: true
-  delay: 544
-- name: Unknown_ss_1438
-  server: 103.186.154.23
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  network: tcp
+  client-fingerprint: chrome
+  delay: 171
+- name: Unknown_vmess_1451
+  server: 8.216.1.103
+  port: 8080
+  type: vmess
+  uuid: f842ecbf-310c-4fe1-b1d3-c0881566bb54
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
   udp: true
-  delay: 579
-- name: Unknown_ss_1439
-  server: 103.186.154.178
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  network: tcp
+  client-fingerprint: chrome
+  delay: 565
+- name: Unknown_vmess_1452
+  server: 47.74.17.39
+  port: 8080
+  type: vmess
+  uuid: 1e105b72-f7ff-40e4-9bbf-6d9e4dc09311
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
   udp: true
-  delay: 506
-- name: Unknown_ss_1440
-  server: 103.186.155.16
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 517
-- name: Unknown_ss_1441
-  server: 103.186.154.205
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 836
-- name: Unknown_ss_1442
-  server: 103.186.155.13
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 2175
-- name: Unknown_ss_1443
-  server: 103.186.155.26
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 835
-- name: Unknown_ss_1444
-  server: 103.186.155.118
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 823
-- name: Unknown_ss_1445
-  server: 103.186.155.235
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 524
-- name: Unknown_ss_1446
-  server: 103.186.155.45
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 514
-- name: Unknown_ss_1447
-  server: 103.186.155.222
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 544
-- name: Unknown_ss_1448
-  server: 103.186.154.200
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 524
-- name: Unknown_ss_1449
-  server: 103.186.155.57
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 729
-- name: Unknown_ss_1450
-  server: 103.186.154.28
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 515
-- name: Unknown_ss_1451
-  server: 103.186.155.30
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 2534
-- name: Unknown_ss_1452
-  server: 103.186.155.36
-  port: 38388
-  type: ss
-  country: 🏁 ZZ
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  cipher: aes-256-cfb
-  delay: 529
-- name: Unknown_ss_1453
-  server: 103.186.155.39
-  port: 38388
-  type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 1253
+  network: tcp
+  client-fingerprint: chrome
+  delay: 613
+- name: Unknown_vmess_1453
+  server: 7cmy5-g03.jp04-1d-vm0.entry.fr0528.art
+  type: vmess
+  country: 🇯🇵JP
+  port: 446
+  uuid: 0a503c30-d319-31c1-9346-038ecbb13de8
+  alterId: 1
+  cipher: auto
+  network: tcp
+  servername: 7cmy5-g03.jp04-1d-vm0.entry.fr0528.art
+  http-opts: {}
+  h2-opts: {}
+  skip-cert-verify: true
+  delay: 336
 - name: Unknown_ss_1454
-  server: 103.186.154.185
-  port: 38388
+  server: 154.205.139.9
   type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 539
+  country: 🇺🇸US
+  port: 11201
+  password: 303ac65e30f28b0b
+  cipher: chacha20-ietf-poly1305
+  delay: 642
 - name: Unknown_ss_1455
-  server: 103.186.155.130
-  port: 38388
+  server: 154.205.139.9
   type: ss
-  cipher: aes-256-cfb
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 550
+  country: 🇺🇸US
+  port: 11202
+  password: 303ac65e30f28b0b
+  cipher: chacha20-ietf-poly1305
+  delay: 662
 - name: Unknown_ss_1456
-  server: 103.186.154.57
+  server: 154.205.139.9
+  type: ss
+  country: 🇺🇸US
+  port: 11204
+  password: 303ac65e30f28b0b
+  cipher: chacha20-ietf-poly1305
+  delay: 1356
+- name: Unknown_ss_1457
+  server: 154.205.139.9
+  type: ss
+  country: 🇺🇸US
+  port: 11203
+  password: 303ac65e30f28b0b
+  cipher: chacha20-ietf-poly1305
+  delay: 2270
+- name: Unknown_vmess_1458
+  server: w12.luoli.de
+  type: vmess
+  country: 🇯🇵JP
+  port: 443
+  uuid: 42a99644-b90b-3627-8809-a2d6c4078b59
+  alterId: 0
+  cipher: auto
+  network: ws
+  servername: w12.luoli.de
+  http-opts: {}
+  h2-opts: {}
+  tls: true
+  skip-cert-verify: true
+  ws-opts:
+    path: /v2ws
+    headers:
+      HOST: w12.luoli.de
+  delay: 1390
+- name: Unknown_vmess_1459
+  server: w13.luoli.de
+  type: vmess
+  country: 🇯🇵JP
+  port: 443
+  uuid: 42a99644-b90b-3627-8809-a2d6c4078b59
+  alterId: 0
+  cipher: auto
+  network: ws
+  servername: w13.luoli.de
+  http-opts: {}
+  h2-opts: {}
+  tls: true
+  skip-cert-verify: true
+  ws-opts:
+    path: /v2ws
+    headers:
+      HOST: w13.luoli.de
+  delay: 1055
+- name: Unknown_vmess_1460
+  server: 47.237.16.63
+  port: 8080
+  type: vmess
+  uuid: 8fe66650-fc21-4bc8-a8e4-1b9b3451f430
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  udp: true
+  network: tcp
+  client-fingerprint: chrome
+  delay: 750
+- name: Unknown_vmess_1461
+  server: 47.237.24.195
+  port: 8080
+  type: vmess
+  uuid: 692c420c-23f9-4745-812c-eaeb617c0247
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  udp: true
+  network: tcp
+  client-fingerprint: chrome
+  delay: 1560
+- name: Unknown_vmess_1462
+  server: 47.236.120.122
+  port: 8080
+  type: vmess
+  uuid: c8c44965-d92a-4819-8f3f-b03c6ce9201e
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  udp: true
+  network: tcp
+  client-fingerprint: chrome
+  delay: 1049
+- name: Unknown_vmess_1463
+  server: 47.236.164.0
+  port: 8080
+  type: vmess
+  uuid: 8ecedf7e-a9bd-4de4-8f20-031aeb93631c
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  udp: true
+  network: tcp
+  client-fingerprint: chrome
+  delay: 1013
+- name: Unknown_vmess_1464
+  server: 47.237.143.183
+  port: 8080
+  type: vmess
+  uuid: 98373372-a2e0-42d6-9221-bfa6f6687bc3
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  udp: true
+  network: tcp
+  client-fingerprint: chrome
+  delay: 1002
+- name: Unknown_vmess_1465
+  server: 8.222.206.47
+  port: 8080
+  type: vmess
+  uuid: 1d6911c9-4ba5-4de4-a9d2-495c18ac1b45
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  udp: true
+  network: tcp
+  client-fingerprint: chrome
+  delay: 1001
+- name: Unknown_vmess_1466
+  server: 160.191.245.48
+  type: vmess
+  country: 🏁ZZ
+  port: 58623
+  uuid: 8d74803e-aa74-47ef-e3ae-23eeaa96f89d
+  alterId: 0
+  cipher: auto
+  network: tcp
+  http-opts: {}
+  h2-opts: {}
+  skip-cert-verify: true
+  delay: 2725
+- name: Unknown_ss_1467
+  server: 103.186.155.214
   port: 38388
   type: ss
-  cipher: aes-256-cfb
+  country: 🏁 ZZ
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  udp: true
-  delay: 1533
-- name: Unknown_ss_1457
+  cipher: aes-256-cfb
+  delay: 2480
+- name: Unknown_ss_1468
   server: 103.186.155.2
   port: 38388
   type: ss
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   udp: true
-  delay: 1525
-- name: Unknown_ss_1458
-  server: 103.186.155.42
+  delay: 509
+- name: Unknown_ss_1469
+  server: 103.186.154.40
   port: 38388
   type: ss
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   udp: true
-  delay: 1424
-- name: Unknown_ss_1459
+  delay: 491
+- name: Unknown_ss_1470
+  server: 103.186.154.243
+  port: 38388
+  type: ss
+  country: 🏁 ZZ
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  cipher: aes-256-cfb
+  delay: 522
+- name: Unknown_ss_1471
+  server: 103.186.154.187
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 555
+- name: Unknown_ss_1472
+  server: 103.186.154.178
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 552
+- name: Unknown_ss_1473
+  server: 103.186.154.23
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 1523
+- name: Unknown_ss_1474
+  server: 103.186.155.16
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 1531
+- name: Unknown_ss_1475
+  server: 103.186.155.26
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 514
+- name: Unknown_ss_1476
+  server: 103.186.155.118
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 555
+- name: Unknown_ss_1477
+  server: 103.186.154.231
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 552
+- name: Unknown_ss_1478
+  server: 103.186.155.45
+  port: 38388
+  type: ss
+  country: 🏁 ZZ
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  cipher: aes-256-cfb
+  delay: 1002
+- name: Unknown_ss_1479
+  server: 103.186.155.13
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 536
+- name: Unknown_ss_1480
+  server: 103.186.155.222
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 1083
+- name: Unknown_ss_1481
+  server: 103.186.155.57
+  port: 38388
+  type: ss
+  country: 🏁 ZZ
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  cipher: aes-256-cfb
+  delay: 1094
+- name: Unknown_ss_1482
+  server: 103.186.154.200
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 1116
+- name: Unknown_ss_1483
+  server: 103.186.155.235
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 513
+- name: Unknown_ss_1484
+  server: 103.186.154.205
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 554
+- name: Unknown_ss_1485
+  server: 103.186.154.28
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 526
+- name: Unknown_ss_1486
+  server: 103.186.155.30
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 502
+- name: Unknown_ss_1487
+  server: 103.186.155.80
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 625
+- name: Unknown_ss_1488
+  server: 103.186.155.39
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 621
+- name: Unknown_ss_1489
+  server: 103.186.155.36
+  port: 38388
+  type: ss
+  country: 🏁 ZZ
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  cipher: aes-256-cfb
+  delay: 666
+- name: Unknown_ss_1490
+  server: 103.186.154.56
+  port: 38388
+  type: ss
+  country: 🏁 ZZ
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  cipher: aes-256-cfb
+  delay: 521
+- name: Unknown_ss_1491
+  server: 103.186.154.185
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 524
+- name: Unknown_ss_1492
+  server: 103.186.154.196
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 551
+- name: Unknown_ss_1493
+  server: 103.186.155.130
+  port: 38388
+  type: ss
+  cipher: aes-256-cfb
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  udp: true
+  delay: 513
+- name: Unknown_ss_1494
+  server: 103.186.155.42
+  port: 38388
+  type: ss
+  country: 🏁 ZZ
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  cipher: aes-256-cfb
+  delay: 529
+- name: Unknown_ss_1495
   server: 103.238.214.82
   port: 41632
   client-fingerprint: chrome
@@ -59274,16 +59669,53 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 423
-- name: Unknown_ss_1460
+  delay: 411
+- name: Unknown_ss_1496
+  server: 38.54.20.59
+  type: ss
+  country: 🇺🇸US
+  port: 8881
+  password: kDWvXYZoTBcGkC4
+  cipher: aes-256-gcm
+  delay: 718
+- name: Unknown_vmess_1497
+  server: 183.236.51.36
+  port: 59003
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+  delay: 2730
+- name: Unknown_ss_1498
   server: 14.18.106.88
   type: ss
   country: 🇨🇳CN
   port: 6100
   password: '123'
   cipher: aes-256-gcm
-  delay: 1609
-- name: Unknown_ss_1461
+  delay: 394
+- name: Unknown_trojan_1499
+  server: cdnfire.xiaomispeed.com
+  type: trojan
+  port: 22231
+  password: 3ab3fb41-2723-4e7b-abd5-310b9b6c3091
+  sni: cdnfire.xiaomispeed.com
+  skip-cert-verify: true
+  udp: true
+  delay: 1149
+- name: Unknown_trojan_14100
+  server: cdnfire.xiaomispeed.com
+  type: trojan
+  port: 22231
+  password: 097ce270-7ec5-496b-882c-6b62d0ac20d6
+  sni: cdnfire.xiaomispeed.com
+  skip-cert-verify: true
+  udp: true
+  delay: 2922
+- name: Unknown_ss_14101
   server: 185.189.160.105
   port: 41632
   client-fingerprint: chrome
@@ -59292,35 +59724,127 @@ proxies:
   password: qwerREWQ@@
   tfo: true
   udp: true
-  delay: 541
-- name: Unknown_trojan_1462
-  server: green2.cdntencentmusic.com
+  delay: 1232
+- name: Unknown_trojan_14102
+  server: cdnfire.xiaomispeed.com
   type: trojan
-  port: 31103
-  password: 4a14fe06-1b03-4d93-a360-1e33ae972896
-  sni: green2.cdntencentmusic.com
+  port: 21115
+  password: 097ce270-7ec5-496b-882c-6b62d0ac20d6
+  sni: cdnfire.xiaomispeed.com
   skip-cert-verify: true
   udp: true
-  delay: 943
-- name: Unknown_trojan_1463
-  server: green2.cdntencentmusic.com
+  delay: 1337
+- name: Unknown_trojan_14103
+  server: cdnfire.xiaomispeed.com
   type: trojan
-  port: 31103
-  password: 4a8afcc8-5478-45dc-80cb-8e563ee2fb88
-  sni: green2.cdntencentmusic.com
+  port: 21115
+  password: 3ab3fb41-2723-4e7b-abd5-310b9b6c3091
+  sni: cdnfire.xiaomispeed.com
   skip-cert-verify: true
   udp: true
-  delay: 2348
-- name: Unknown_ss_1464
-  server: 112.213.102.188
-  port: 41632
+  delay: 1363
+- name: Unknown_trojan_14104
+  server: cdnfire.xiaomispeed.com
+  type: trojan
+  port: 21115
+  password: c906f010-a8ca-4052-9513-0ff66cdaff8a
+  sni: cdnfire.xiaomispeed.com
+  skip-cert-verify: true
+  udp: true
+  delay: 1144
+- name: Unknown_vmess_14105
+  server: 8.217.201.102
+  port: 8080
+  type: vmess
+  uuid: 602a4353-b1ab-4633-b1ad-e26fc9bf5524
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  udp: true
+  network: tcp
   client-fingerprint: chrome
-  type: ss
-  cipher: aes-256-cfb
-  password: qwerREWQ@@
-  tfo: true
+  delay: 527
+- name: Unknown_vmess_14106
+  server: 47.239.15.132
+  port: 8080
+  type: vmess
+  uuid: f12e9063-2063-4500-886d-5d12cbad150c
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
   udp: true
-  delay: 260
+  network: tcp
+  client-fingerprint: chrome
+  delay: 554
+- name: Unknown_vmess_14107
+  server: 47.239.31.30
+  port: 8080
+  type: vmess
+  uuid: 16929a39-100f-490a-a62c-1bbf5dc1715d
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  udp: true
+  network: tcp
+  client-fingerprint: chrome
+  delay: 575
+- name: Unknown_vmess_14108
+  server: 8.210.102.8
+  port: 8080
+  type: vmess
+  uuid: c1605beb-04e3-4b96-9126-331702630d0a
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  udp: true
+  network: tcp
+  client-fingerprint: chrome
+  delay: 118
+- name: Unknown_trojan_14109
+  server: xiaozhu1.kkieo555.cn
+  type: trojan
+  country: 🇬🇧GB
+  port: 49213
+  password: 866bf321-6b0e-4b02-a7f6-5bd8fd0c3b0d
+  skip-cert-verify: true
+  udp: true
+  delay: 888
+- name: Unknown_trojan_14110
+  server: xiaozhu1.kkieo555.cn
+  type: trojan
+  country: 🇬🇧GB
+  port: 49213
+  password: 3b3ad340-ec75-4099-97e6-b1971e13cf5b
+  skip-cert-verify: true
+  udp: true
+  delay: 1914
+- name: Unknown_trojan_14111
+  server: cdnfire.xiaomispeed.com
+  type: trojan
+  port: 21103
+  password: 25d33106-6256-48fd-bd5b-a1e4aa30d900
+  sni: cdnfire.xiaomispeed.com
+  skip-cert-verify: true
+  udp: true
+  delay: 1193
+- name: Unknown_vmess_14112
+  server: 154.219.119.183
+  type: vmess
+  country: 🇺🇸 US
+  port: 36673
+  uuid: a84406ac-275d-4dd8-ddda-67c019845a37
+  alterId: 0
+  cipher: auto
+  network: none
+  ws-path: /
+  http-opts: {}
+  h2-opts: {}
+  skip-cert-verify: true
+  delay: 168
 - alpn:
   - h3
   auth_str: dongtaiwang.com
@@ -60827,10 +61351,10 @@ proxy-groups:
   - Unknown_trojan_157
   - Unknown_trojan_158
   - Unknown_trojan_159
-  - Unknown_vmess_160
-  - Unknown_vmess_161
+  - Unknown_trojan_160
+  - Unknown_trojan_161
   - Unknown_vmess_162
-  - Unknown_vmess_163
+  - Unknown_ss_163
   - Unknown_vmess_164
   - Unknown_vmess_165
   - Unknown_trojan_166
@@ -66203,11 +66727,11 @@ proxy-groups:
   - Unknown_hysteria2_1085
   - Unknown_hysteria2_1086
   - Unknown_hysteria2_1087
-  - Unknown_hysteria2_1088
-  - Unknown_hysteria2_1089
-  - Unknown_hysteria2_1090
-  - Unknown_ss_1091
-  - Unknown_vmess_1092
+  - Unknown_ss_1088
+  - Unknown_vmess_1089
+  - Unknown_trojan_1090
+  - Unknown_trojan_1091
+  - Unknown_trojan_1092
   - Unknown_trojan_1093
   - Unknown_trojan_1094
   - Unknown_trojan_1095
@@ -66217,17 +66741,17 @@ proxy-groups:
   - Unknown_trojan_1099
   - Unknown_trojan_10100
   - Unknown_trojan_10101
-  - Unknown_trojan_10102
-  - Unknown_vmess_10103
+  - Unknown_vmess_10102
+  - Unknown_ss_10103
   - Unknown_vmess_10104
   - Unknown_vmess_10105
-  - Unknown_vmess_10106
-  - Unknown_vmess_10107
-  - Unknown_vmess_10108
-  - Unknown_vless_10109
+  - Unknown_vless_10106
+  - Unknown_vless_10107
+  - Unknown_trojan_10108
+  - Unknown_trojan_10109
   - Unknown_vless_10110
-  - Unknown_trojan_10111
-  - Unknown_trojan_10112
+  - Unknown_vless_10111
+  - Unknown_vless_10112
   - Unknown_vless_10113
   - Unknown_vless_10114
   - Unknown_vless_10115
@@ -66246,13 +66770,10 @@ proxy-groups:
   - Unknown_vless_10128
   - Unknown_vless_10129
   - Unknown_vless_10130
-  - Unknown_vless_10131
+  - Unknown_socks5_10131
   - Unknown_vless_10132
   - Unknown_vless_10133
-  - Unknown_socks5_10134
-  - Unknown_vless_10135
-  - Unknown_vless_10136
-  - Unknown_vless_10137
+  - Unknown_vless_10134
   - Unknown_vless_121
   - Unknown_vmess_122
   - Unknown_vless_123
@@ -67077,12 +67598,12 @@ proxy-groups:
   - Unknown_trojan_13415
   - Unknown_vless_13416
   - Unknown_ss_141
-  - Unknown_socks5_142
-  - Unknown_ss_143
-  - Unknown_ss_144
-  - Unknown_ss_145
+  - Unknown_vmess_142
+  - Unknown_vmess_143
+  - Unknown_trojan_144
+  - Unknown_trojan_145
   - Unknown_ss_146
-  - Unknown_ss_147
+  - Unknown_socks5_147
   - Unknown_ss_148
   - Unknown_ss_149
   - Unknown_ss_1410
@@ -67107,39 +67628,87 @@ proxy-groups:
   - Unknown_ss_1429
   - Unknown_ss_1430
   - Unknown_ss_1431
-  - Unknown_vmess_1432
+  - Unknown_ss_1432
   - Unknown_ss_1433
-  - Unknown_vless_1434
+  - Unknown_ss_1434
   - Unknown_ss_1435
   - Unknown_ss_1436
-  - Unknown_ss_1437
-  - Unknown_ss_1438
+  - Unknown_trojan_1437
+  - Unknown_vmess_1438
   - Unknown_ss_1439
-  - Unknown_ss_1440
+  - Unknown_vmess_1440
   - Unknown_ss_1441
-  - Unknown_ss_1442
-  - Unknown_ss_1443
-  - Unknown_ss_1444
-  - Unknown_ss_1445
-  - Unknown_ss_1446
-  - Unknown_ss_1447
-  - Unknown_ss_1448
-  - Unknown_ss_1449
-  - Unknown_ss_1450
-  - Unknown_ss_1451
-  - Unknown_ss_1452
-  - Unknown_ss_1453
+  - Unknown_vmess_1442
+  - Unknown_vmess_1443
+  - Unknown_vmess_1444
+  - Unknown_vmess_1445
+  - Unknown_trojan_1446
+  - Unknown_vmess_1447
+  - Unknown_vmess_1448
+  - Unknown_vmess_1449
+  - Unknown_vmess_1450
+  - Unknown_vmess_1451
+  - Unknown_vmess_1452
+  - Unknown_vmess_1453
   - Unknown_ss_1454
   - Unknown_ss_1455
   - Unknown_ss_1456
   - Unknown_ss_1457
-  - Unknown_ss_1458
-  - Unknown_ss_1459
-  - Unknown_ss_1460
-  - Unknown_ss_1461
-  - Unknown_trojan_1462
-  - Unknown_trojan_1463
-  - Unknown_ss_1464
+  - Unknown_vmess_1458
+  - Unknown_vmess_1459
+  - Unknown_vmess_1460
+  - Unknown_vmess_1461
+  - Unknown_vmess_1462
+  - Unknown_vmess_1463
+  - Unknown_vmess_1464
+  - Unknown_vmess_1465
+  - Unknown_vmess_1466
+  - Unknown_ss_1467
+  - Unknown_ss_1468
+  - Unknown_ss_1469
+  - Unknown_ss_1470
+  - Unknown_ss_1471
+  - Unknown_ss_1472
+  - Unknown_ss_1473
+  - Unknown_ss_1474
+  - Unknown_ss_1475
+  - Unknown_ss_1476
+  - Unknown_ss_1477
+  - Unknown_ss_1478
+  - Unknown_ss_1479
+  - Unknown_ss_1480
+  - Unknown_ss_1481
+  - Unknown_ss_1482
+  - Unknown_ss_1483
+  - Unknown_ss_1484
+  - Unknown_ss_1485
+  - Unknown_ss_1486
+  - Unknown_ss_1487
+  - Unknown_ss_1488
+  - Unknown_ss_1489
+  - Unknown_ss_1490
+  - Unknown_ss_1491
+  - Unknown_ss_1492
+  - Unknown_ss_1493
+  - Unknown_ss_1494
+  - Unknown_ss_1495
+  - Unknown_ss_1496
+  - Unknown_vmess_1497
+  - Unknown_ss_1498
+  - Unknown_trojan_1499
+  - Unknown_trojan_14100
+  - Unknown_ss_14101
+  - Unknown_trojan_14102
+  - Unknown_trojan_14103
+  - Unknown_trojan_14104
+  - Unknown_vmess_14105
+  - Unknown_vmess_14106
+  - Unknown_vmess_14107
+  - Unknown_vmess_14108
+  - Unknown_trojan_14109
+  - Unknown_trojan_14110
+  - Unknown_trojan_14111
+  - Unknown_vmess_14112
   - Unknown_hysteria_151
   - Unknown_hysteria2_152
   - Unknown_hysteria_153
@@ -67316,10 +67885,10 @@ proxy-groups:
   - Unknown_trojan_157
   - Unknown_trojan_158
   - Unknown_trojan_159
-  - Unknown_vmess_160
-  - Unknown_vmess_161
+  - Unknown_trojan_160
+  - Unknown_trojan_161
   - Unknown_vmess_162
-  - Unknown_vmess_163
+  - Unknown_ss_163
   - Unknown_vmess_164
   - Unknown_vmess_165
   - Unknown_trojan_166
@@ -72692,11 +73261,11 @@ proxy-groups:
   - Unknown_hysteria2_1085
   - Unknown_hysteria2_1086
   - Unknown_hysteria2_1087
-  - Unknown_hysteria2_1088
-  - Unknown_hysteria2_1089
-  - Unknown_hysteria2_1090
-  - Unknown_ss_1091
-  - Unknown_vmess_1092
+  - Unknown_ss_1088
+  - Unknown_vmess_1089
+  - Unknown_trojan_1090
+  - Unknown_trojan_1091
+  - Unknown_trojan_1092
   - Unknown_trojan_1093
   - Unknown_trojan_1094
   - Unknown_trojan_1095
@@ -72706,17 +73275,17 @@ proxy-groups:
   - Unknown_trojan_1099
   - Unknown_trojan_10100
   - Unknown_trojan_10101
-  - Unknown_trojan_10102
-  - Unknown_vmess_10103
+  - Unknown_vmess_10102
+  - Unknown_ss_10103
   - Unknown_vmess_10104
   - Unknown_vmess_10105
-  - Unknown_vmess_10106
-  - Unknown_vmess_10107
-  - Unknown_vmess_10108
-  - Unknown_vless_10109
+  - Unknown_vless_10106
+  - Unknown_vless_10107
+  - Unknown_trojan_10108
+  - Unknown_trojan_10109
   - Unknown_vless_10110
-  - Unknown_trojan_10111
-  - Unknown_trojan_10112
+  - Unknown_vless_10111
+  - Unknown_vless_10112
   - Unknown_vless_10113
   - Unknown_vless_10114
   - Unknown_vless_10115
@@ -72735,13 +73304,10 @@ proxy-groups:
   - Unknown_vless_10128
   - Unknown_vless_10129
   - Unknown_vless_10130
-  - Unknown_vless_10131
+  - Unknown_socks5_10131
   - Unknown_vless_10132
   - Unknown_vless_10133
-  - Unknown_socks5_10134
-  - Unknown_vless_10135
-  - Unknown_vless_10136
-  - Unknown_vless_10137
+  - Unknown_vless_10134
   - Unknown_vless_121
   - Unknown_vmess_122
   - Unknown_vless_123
@@ -73566,12 +74132,12 @@ proxy-groups:
   - Unknown_trojan_13415
   - Unknown_vless_13416
   - Unknown_ss_141
-  - Unknown_socks5_142
-  - Unknown_ss_143
-  - Unknown_ss_144
-  - Unknown_ss_145
+  - Unknown_vmess_142
+  - Unknown_vmess_143
+  - Unknown_trojan_144
+  - Unknown_trojan_145
   - Unknown_ss_146
-  - Unknown_ss_147
+  - Unknown_socks5_147
   - Unknown_ss_148
   - Unknown_ss_149
   - Unknown_ss_1410
@@ -73596,39 +74162,87 @@ proxy-groups:
   - Unknown_ss_1429
   - Unknown_ss_1430
   - Unknown_ss_1431
-  - Unknown_vmess_1432
+  - Unknown_ss_1432
   - Unknown_ss_1433
-  - Unknown_vless_1434
+  - Unknown_ss_1434
   - Unknown_ss_1435
   - Unknown_ss_1436
-  - Unknown_ss_1437
-  - Unknown_ss_1438
+  - Unknown_trojan_1437
+  - Unknown_vmess_1438
   - Unknown_ss_1439
-  - Unknown_ss_1440
+  - Unknown_vmess_1440
   - Unknown_ss_1441
-  - Unknown_ss_1442
-  - Unknown_ss_1443
-  - Unknown_ss_1444
-  - Unknown_ss_1445
-  - Unknown_ss_1446
-  - Unknown_ss_1447
-  - Unknown_ss_1448
-  - Unknown_ss_1449
-  - Unknown_ss_1450
-  - Unknown_ss_1451
-  - Unknown_ss_1452
-  - Unknown_ss_1453
+  - Unknown_vmess_1442
+  - Unknown_vmess_1443
+  - Unknown_vmess_1444
+  - Unknown_vmess_1445
+  - Unknown_trojan_1446
+  - Unknown_vmess_1447
+  - Unknown_vmess_1448
+  - Unknown_vmess_1449
+  - Unknown_vmess_1450
+  - Unknown_vmess_1451
+  - Unknown_vmess_1452
+  - Unknown_vmess_1453
   - Unknown_ss_1454
   - Unknown_ss_1455
   - Unknown_ss_1456
   - Unknown_ss_1457
-  - Unknown_ss_1458
-  - Unknown_ss_1459
-  - Unknown_ss_1460
-  - Unknown_ss_1461
-  - Unknown_trojan_1462
-  - Unknown_trojan_1463
-  - Unknown_ss_1464
+  - Unknown_vmess_1458
+  - Unknown_vmess_1459
+  - Unknown_vmess_1460
+  - Unknown_vmess_1461
+  - Unknown_vmess_1462
+  - Unknown_vmess_1463
+  - Unknown_vmess_1464
+  - Unknown_vmess_1465
+  - Unknown_vmess_1466
+  - Unknown_ss_1467
+  - Unknown_ss_1468
+  - Unknown_ss_1469
+  - Unknown_ss_1470
+  - Unknown_ss_1471
+  - Unknown_ss_1472
+  - Unknown_ss_1473
+  - Unknown_ss_1474
+  - Unknown_ss_1475
+  - Unknown_ss_1476
+  - Unknown_ss_1477
+  - Unknown_ss_1478
+  - Unknown_ss_1479
+  - Unknown_ss_1480
+  - Unknown_ss_1481
+  - Unknown_ss_1482
+  - Unknown_ss_1483
+  - Unknown_ss_1484
+  - Unknown_ss_1485
+  - Unknown_ss_1486
+  - Unknown_ss_1487
+  - Unknown_ss_1488
+  - Unknown_ss_1489
+  - Unknown_ss_1490
+  - Unknown_ss_1491
+  - Unknown_ss_1492
+  - Unknown_ss_1493
+  - Unknown_ss_1494
+  - Unknown_ss_1495
+  - Unknown_ss_1496
+  - Unknown_vmess_1497
+  - Unknown_ss_1498
+  - Unknown_trojan_1499
+  - Unknown_trojan_14100
+  - Unknown_ss_14101
+  - Unknown_trojan_14102
+  - Unknown_trojan_14103
+  - Unknown_trojan_14104
+  - Unknown_vmess_14105
+  - Unknown_vmess_14106
+  - Unknown_vmess_14107
+  - Unknown_vmess_14108
+  - Unknown_trojan_14109
+  - Unknown_trojan_14110
+  - Unknown_trojan_14111
+  - Unknown_vmess_14112
   - Unknown_hysteria_151
   - Unknown_hysteria2_152
   - Unknown_hysteria_153
