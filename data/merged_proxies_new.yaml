@@ -914,31 +914,31 @@ proxies:
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
   port: 3373
-  server: 153.121.65.107
+  server: 13.231.95.79
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_178
   network: tcp
   password: BxceQaOe
-  port: 1820
-  server: 43.207.171.246
+  port: 443
+  server: 112.120.31.135
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_179
   network: tcp
   password: BxceQaOe
-  port: 2826
-  server: 95.40.55.141
+  port: 443
+  server: 58.152.25.208
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_180
   network: tcp
   password: BxceQaOe
-  port: 2595
-  server: 13.113.192.229
+  port: 2762
+  server: 54.92.111.249
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
@@ -946,15 +946,15 @@ proxies:
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
   port: 3423
-  server: 160.16.144.208
+  server: 57.180.43.205
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_182
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
-  port: 400
-  server: 160.16.57.238
+  port: 193
+  server: 160.16.132.38
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -962,7 +962,7 @@ proxies:
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
   port: 3901
-  server: 43.207.73.82
+  server: 160.16.89.176
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -977,32 +977,32 @@ proxies:
 - name: Unknown_trojan_185
   network: tcp
   password: BxceQaOe
-  port: 3579
-  server: 95.40.55.141
+  port: 3127
+  server: 43.207.67.101
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_186
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
-  port: 40548
-  server: 160.16.57.238
+  port: 2890
+  server: 54.64.61.41
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_187
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
-  port: 2890
-  server: 57.180.14.50
+  port: 1281
+  server: 160.16.236.32
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_188
   network: tcp
   password: BxceQaOe
-  port: 3159
-  server: 43.207.89.113
+  port: 28680
+  server: 18.162.45.213
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
@@ -50932,22 +50932,6 @@ proxies:
       Host: n1761214906.wpg27.xyz
     path: /
 - name: Unknown_hysteria2_1080
-  password: 04c2a097-5ed8-49b6-9860-cb4667583745
-  port: 2056
-  server: mlxy1.xiaoliyu.us
-  skip-cert-verify: true
-  sni: mlxy1.xiaoliyu.us
-  tls: false
-  type: hysteria2
-- name: Unknown_hysteria2_1081
-  password: 04c2a097-5ed8-49b6-9860-cb4667583745
-  port: 2056
-  server: mlxy2.xiaoliyu.us
-  skip-cert-verify: true
-  sni: mlxy2.xiaoliyu.us
-  tls: false
-  type: hysteria2
-- name: Unknown_hysteria2_1082
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: mg2.mangshe.xyz
@@ -50955,7 +50939,7 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1083
+- name: Unknown_hysteria2_1081
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2055
   server: xjp1.mangshe.xyz
@@ -50963,14 +50947,14 @@ proxies:
   sni: xjp1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1084
+- name: Unknown_hysteria2_1082
   password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
   port: 13778
   server: jp7.dexlos.com
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1085
+- name: Unknown_hysteria2_1083
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -50980,7 +50964,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1086
+- name: Unknown_hysteria2_1084
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -50990,7 +50974,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1087
+- name: Unknown_hysteria2_1085
   password: a084933d-0b41-4571-ae0c-7163b8c71ed1
   port: 2056
   server: de.eyucdn.xyz
@@ -50998,14 +50982,14 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1088
+- name: Unknown_hysteria2_1086
   password: a305ac08-d136-11ee-b6db-f23c91cfbbc9
   port: 443
   server: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
   sni: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1089
+- name: Unknown_hysteria2_1087
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -51015,17 +50999,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1090
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 5.175.249.174
-  skip-cert-verify: false
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: Unknown_hysteria2_1091
+- name: Unknown_hysteria2_1088
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000
   server: sg3.oomz.ru
@@ -51033,7 +51007,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1092
+- name: Unknown_hysteria2_1089
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000
   server: tw.oomz.ru
@@ -51041,7 +51015,25 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1093
+- name: Unknown_hysteria2_1090
+  password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
+  port: 1743
+  server: c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk
+  skip-cert-verify: true
+  sni: 🔒
+  tls: false
+  type: hysteria2
+- name: Unknown_hysteria2_1091
+  obfs: salamander
+  obfs-password: Telegram--&gt;@Ln2Ray
+  password: Telegram--&gt;@Ln2Ray
+  port: 45000
+  server: gavazn.lnmarketplace.net
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
+- name: Unknown_hysteria2_1092
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -51051,7 +51043,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1094
+- name: Unknown_hysteria2_1093
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -51061,7 +51053,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1095
+- name: Unknown_hysteria2_1094
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -51069,6 +51061,16 @@ proxies:
   server: 206.71.158.41
   skip-cert-verify: true
   sni: jnir.pichondan.com
+  tls: false
+  type: hysteria2
+- name: Unknown_hysteria2_1095
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 5.175.249.174
+  skip-cert-verify: false
+  sni: api.kermanshahi.org
   tls: false
   type: hysteria2
 - name: Unknown_hysteria2_1096
@@ -51108,31 +51110,31 @@ proxies:
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
   port: 3373
-  server: 153.121.65.107
+  server: 13.231.95.79
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_10101
   network: tcp
   password: BxceQaOe
-  port: 1820
-  server: 43.207.171.246
+  port: 443
+  server: 112.120.31.135
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_10102
   network: tcp
   password: BxceQaOe
-  port: 2826
-  server: 95.40.55.141
+  port: 443
+  server: 58.152.25.208
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_10103
   network: tcp
   password: BxceQaOe
-  port: 2595
-  server: 13.113.192.229
+  port: 2762
+  server: 54.92.111.249
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
@@ -51140,15 +51142,15 @@ proxies:
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
   port: 3423
-  server: 160.16.144.208
+  server: 57.180.43.205
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_10105
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
-  port: 400
-  server: 160.16.57.238
+  port: 193
+  server: 160.16.132.38
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -51156,7 +51158,7 @@ proxies:
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
   port: 3901
-  server: 43.207.73.82
+  server: 160.16.89.176
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -51171,32 +51173,32 @@ proxies:
 - name: Unknown_trojan_10108
   network: tcp
   password: BxceQaOe
-  port: 3579
-  server: 95.40.55.141
+  port: 3127
+  server: 43.207.67.101
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_10109
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
-  port: 40548
-  server: 160.16.57.238
+  port: 2890
+  server: 54.64.61.41
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_10110
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
-  port: 2890
-  server: 57.180.14.50
+  port: 1281
+  server: 160.16.236.32
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_10111
   network: tcp
   password: BxceQaOe
-  port: 3159
-  server: 43.207.89.113
+  port: 28680
+  server: 18.162.45.213
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
