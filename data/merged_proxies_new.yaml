@@ -338,7 +338,6 @@ proxies:
   password: amazonskr05
   port: 443
   server: 63.180.254.10
-  tfo: false
   type: ss
 - alterId: 2
   cipher: auto
@@ -346,7 +345,6 @@ proxies:
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
-  tfo: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
@@ -354,109 +352,97 @@ proxies:
   network: tcp
   password: f389ed926e512e15f382dc3804029474
   port: 921
-  server: 54.178.24.255
+  server: 54.238.23.69
   skip-cert-verify: false
   sni: www.nintendogames.net
-  tfo: false
   type: trojan
 - name: Unknown_trojan_122
   network: tcp
   password: BxceQaOe
-  port: 5823
-  server: 95.40.5.151
+  port: 443
+  server: 119.237.128.216
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
-  tfo: false
   type: trojan
 - name: Unknown_trojan_123
   network: tcp
   password: BxceQaOe
-  port: 443
-  server: 58.152.25.253
+  port: 6313
+  server: 13.231.91.242
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
-  tfo: false
   type: trojan
 - name: Unknown_trojan_124
   network: tcp
   password: BxceQaOe
-  port: 3022
-  server: 54.178.24.255
+  port: 4945
+  server: 3.112.213.24
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
-  tfo: false
   type: trojan
 - name: Unknown_trojan_125
   network: tcp
   password: f389ed926e512e15f382dc3804029474
   port: 34818
-  server: 153.121.45.139
+  server: 153.121.38.213
   skip-cert-verify: false
   sni: www.nintendogames.net
-  tfo: false
   type: trojan
 - name: Unknown_trojan_126
   network: tcp
   password: f389ed926e512e15f382dc3804029474
   port: 4937
-  server: 153.121.45.139
+  server: 160.16.85.33
   skip-cert-verify: false
   sni: www.nintendogames.net
-  tfo: false
   type: trojan
 - name: Unknown_trojan_127
   network: tcp
   password: f7dbed8b1ca85124e793ba6c0bcfd0db
   port: 3419
-  server: 153.121.45.139
+  server: 160.16.85.33
   skip-cert-verify: false
   sni: www.nintendogames.net
-  tfo: false
   type: trojan
 - name: Unknown_trojan_128
   network: tcp
   password: f389ed926e512e15f382dc3804029474
   port: 4674
-  server: 153.121.45.139
+  server: 160.16.85.33
   skip-cert-verify: false
   sni: www.nintendogames.net
-  tfo: false
   type: trojan
 - name: Unknown_trojan_129
   network: tcp
   password: BxceQaOe
-  port: 29666
-  server: 54.238.164.64
+  port: 52951
+  server: 13.231.110.103
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
-  tfo: false
   type: trojan
 - name: Unknown_trojan_130
   network: tcp
   password: f389ed926e512e15f382dc3804029474
-  port: 3057
-  server: 153.121.45.139
+  port: 4920
+  server: 54.238.23.69
   skip-cert-verify: false
   sni: www.nintendogames.net
-  tfo: false
   type: trojan
 - name: Unknown_trojan_131
   network: tcp
   password: f389ed926e512e15f382dc3804029474
   port: 4920
-  server: 13.231.7.33
+  server: 54.248.177.86
   skip-cert-verify: false
   sni: www.nintendogames.net
-  tfo: false
   type: trojan
 - name: Unknown_trojan_132
   network: tcp
   password: BxceQaOe
-  port: 23287
-  server: 18.163.182.91
+  port: 5390
+  server: 16.163.105.149
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
-  tfo: false
   type: trojan
 - alterId: 2
   cipher: auto
@@ -48579,6 +48565,14 @@ proxies:
   tls: false
   type: hysteria2
 - name: Unknown_hysteria2_1043
+  password: bd470fb8-73fd-455b-b8ae-e0fc9f44258b
+  port: 21150
+  server: tr.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: tr.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: Unknown_hysteria2_1044
   password: linux.do
   port: 443
   server: 2a01:4f9:4b:f378::1
@@ -48586,134 +48580,128 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: Unknown_hysteria2_1045
+  password: usa_hysteria2_fastlane_8f058mdni
+  port: 443
+  server: 138.124.183.9
+  skip-cert-verify: true
+  sni: us1.h.smartaisupport.ru
+  tls: false
+  type: hysteria2
 - cipher: aes-256-cfb
-  name: Unknown_ss_1044
+  name: Unknown_ss_1046
   password: amazonskr05
   port: 443
   server: 63.180.254.10
-  tfo: false
   type: ss
 - alterId: 2
   cipher: auto
-  name: Unknown_vmess_1045
+  name: Unknown_vmess_1047
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
-  tfo: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: Unknown_trojan_1046
+- name: Unknown_trojan_1048
   network: tcp
   password: f389ed926e512e15f382dc3804029474
   port: 921
-  server: 54.178.24.255
+  server: 54.238.23.69
   skip-cert-verify: false
   sni: www.nintendogames.net
-  tfo: false
-  type: trojan
-- name: Unknown_trojan_1047
-  network: tcp
-  password: BxceQaOe
-  port: 5823
-  server: 95.40.5.151
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  tfo: false
-  type: trojan
-- name: Unknown_trojan_1048
-  network: tcp
-  password: BxceQaOe
-  port: 443
-  server: 58.152.25.253
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  tfo: false
   type: trojan
 - name: Unknown_trojan_1049
   network: tcp
   password: BxceQaOe
-  port: 3022
-  server: 54.178.24.255
+  port: 443
+  server: 119.237.128.216
   skip-cert-verify: true
-  sni: t.me%252Fripaojiedian
-  tfo: false
+  sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_1050
   network: tcp
-  password: f389ed926e512e15f382dc3804029474
-  port: 34818
-  server: 153.121.45.139
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  tfo: false
+  password: BxceQaOe
+  port: 6313
+  server: 13.231.91.242
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_1051
   network: tcp
-  password: f389ed926e512e15f382dc3804029474
-  port: 4937
-  server: 153.121.45.139
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  tfo: false
+  password: BxceQaOe
+  port: 4945
+  server: 3.112.213.24
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_1052
   network: tcp
-  password: f7dbed8b1ca85124e793ba6c0bcfd0db
-  port: 3419
-  server: 153.121.45.139
+  password: f389ed926e512e15f382dc3804029474
+  port: 34818
+  server: 153.121.38.213
   skip-cert-verify: false
   sni: www.nintendogames.net
-  tfo: false
   type: trojan
 - name: Unknown_trojan_1053
   network: tcp
   password: f389ed926e512e15f382dc3804029474
-  port: 4674
-  server: 153.121.45.139
+  port: 4937
+  server: 160.16.85.33
   skip-cert-verify: false
   sni: www.nintendogames.net
-  tfo: false
   type: trojan
 - name: Unknown_trojan_1054
   network: tcp
-  password: BxceQaOe
-  port: 29666
-  server: 54.238.164.64
-  skip-cert-verify: true
-  sni: t.me%252Fripaojiedian
-  tfo: false
+  password: f7dbed8b1ca85124e793ba6c0bcfd0db
+  port: 3419
+  server: 160.16.85.33
+  skip-cert-verify: false
+  sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_1055
   network: tcp
   password: f389ed926e512e15f382dc3804029474
-  port: 3057
-  server: 153.121.45.139
+  port: 4674
+  server: 160.16.85.33
   skip-cert-verify: false
   sni: www.nintendogames.net
-  tfo: false
   type: trojan
 - name: Unknown_trojan_1056
   network: tcp
-  password: f389ed926e512e15f382dc3804029474
-  port: 4920
-  server: 13.231.7.33
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  tfo: false
+  password: BxceQaOe
+  port: 52951
+  server: 13.231.110.103
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_1057
   network: tcp
+  password: f389ed926e512e15f382dc3804029474
+  port: 4920
+  server: 54.238.23.69
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_1058
+  network: tcp
+  password: f389ed926e512e15f382dc3804029474
+  port: 4920
+  server: 54.248.177.86
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_1059
+  network: tcp
   password: BxceQaOe
-  port: 23287
-  server: 18.163.182.91
+  port: 5390
+  server: 16.163.105.149
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
-  tfo: false
   type: trojan
 - alterId: 2
   cipher: auto
-  name: Unknown_vmess_1058
+  name: Unknown_vmess_1060
   network: tcp
   port: '30807'
   server: v10.hdacd.com
@@ -48721,7 +48709,7 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: Unknown_trojan_1059
+- name: Unknown_trojan_1061
   password: d5fa43f9-1ace-4b8f-b865-627e67b1fe37
   port: 35902
   server: sg03.stimaysmhy8.com
@@ -48729,7 +48717,7 @@ proxies:
   sni: jsygouer.weixin-baidu-qq.com
   type: trojan
   udp: true
-- name: Unknown_vless_1060
+- name: Unknown_vless_1062
   port: 443
   reality-opts:
     public-key: qrnqrRbyJ3KLRDdvO0Ed2ewMvTn1i5XWyF07q_4eunk
@@ -48741,7 +48729,7 @@ proxies:
   type: vless
   udp: true
   uuid: 7a37a4a1-0750-4311-a355-ff7d499c6797
-- name: Unknown_vless_1061
+- name: Unknown_vless_1063
   network: ws
   port: 443
   server: 83.229.123.173
@@ -48755,7 +48743,7 @@ proxies:
     headers:
       Host: ylnhh.cc.cd
     path: /Telegram🇨🇳@WangCai2
-- name: Unknown_http_1062
+- name: Unknown_http_1064
   password: test.+
   port: 30446
   server: testkr3.ssv.vc
@@ -48764,7 +48752,7 @@ proxies:
   type: http
   udp: true
   username: test
-- name: Unknown_vless_1063
+- name: Unknown_vless_1065
   network: ws
   port: 15284
   server: 221.146.116.77
@@ -48778,7 +48766,7 @@ proxies:
     headers:
       Host: ylnhh.cc.cd
     path: /Telegram🇨🇳@WangCai2
-- name: Unknown_vless_1064
+- name: Unknown_vless_1066
   network: ws
   port: 10840
   server: 210.105.224.42
@@ -48795,7 +48783,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: random
-  name: Unknown_vless_1065
+  name: Unknown_vless_1067
   network: ws
   port: 50001
   server: 220.73.70.34
@@ -48809,34 +48797,6 @@ proxies:
     headers:
       Host: snippet.fgfw.de5.net
     path: /danfeng
-- name: Unknown_vless_1066
-  network: ws
-  port: 8443
-  server: 59.3.3.161
-  servername: ylnhh.cc.cd
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
-  ws-opts:
-    headers:
-      Host: ylnhh.cc.cd
-    path: /Telegram🇨🇳+@WangCai2
-- name: Unknown_vless_1067
-  network: ws
-  port: 12125
-  server: 183.97.71.221
-  servername: ylnhh.cc.cd
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
-  ws-opts:
-    headers:
-      Host: ylnhh.cc.cd
-    path: /Telegram🇨🇳+@WangCai2
 - name: Unknown_vless_1068
   network: ws
   port: 8443
@@ -48850,8 +48810,36 @@ proxies:
   ws-opts:
     headers:
       Host: ylnhh.cc.cd
-    path: /Telegram🇨🇳@WangCai2
+    path: /Telegram🇨🇳+@WangCai2
 - name: Unknown_vless_1069
+  network: ws
+  port: 12125
+  server: 183.97.71.221
+  servername: ylnhh.cc.cd
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+  ws-opts:
+    headers:
+      Host: ylnhh.cc.cd
+    path: /Telegram🇨🇳+@WangCai2
+- name: Unknown_vless_1070
+  network: ws
+  port: 8443
+  server: 59.3.3.161
+  servername: ylnhh.cc.cd
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+  ws-opts:
+    headers:
+      Host: ylnhh.cc.cd
+    path: /Telegram🇨🇳@WangCai2
+- name: Unknown_vless_1071
   network: ws
   port: 11099
   server: 220.88.3.5
@@ -48865,7 +48853,7 @@ proxies:
     headers:
       Host: ylnhh.cc.cd
     path: /Telegram🇨🇳@WangCai2
-- name: Unknown_vless_1070
+- name: Unknown_vless_1072
   network: ws
   port: 10448
   server: 220.85.201.216
@@ -48879,7 +48867,7 @@ proxies:
     headers:
       Host: ylnhh.cc.cd
     path: /Telegram🇨🇳@WangCai2
-- name: Unknown_vless_1071
+- name: Unknown_vless_1073
   network: ws
   port: 15347
   server: 61.102.250.123
@@ -48893,38 +48881,10 @@ proxies:
     headers:
       Host: ylnhh.cc.cd
     path: /Telegram🇨🇳@WangCai2
-- name: Unknown_vless_1072
-  network: ws
-  port: 50000
-  server: 211.184.116.84
-  servername: ylnhh.cc.cd
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
-  ws-opts:
-    headers:
-      Host: ylnhh.cc.cd
-    path: /Telegram🇨🇳+@WangCai2
-- name: Unknown_vless_1073
-  network: ws
-  port: 50000
-  server: 211.184.116.84
-  servername: ylnhh.cc.cd
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
-  ws-opts:
-    headers:
-      Host: ylnhh.cc.cd
-    path: /Telegram🇨🇳@WangCai2
 - name: Unknown_vless_1074
   network: ws
-  port: 443
-  server: 77.93.91.159
+  port: 50000
+  server: 211.184.116.84
   servername: ylnhh.cc.cd
   skip-cert-verify: false
   tls: true
@@ -48937,6 +48897,34 @@ proxies:
     path: /Telegram🇨🇳+@WangCai2
 - name: Unknown_vless_1075
   network: ws
+  port: 50000
+  server: 211.184.116.84
+  servername: ylnhh.cc.cd
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+  ws-opts:
+    headers:
+      Host: ylnhh.cc.cd
+    path: /Telegram🇨🇳@WangCai2
+- name: Unknown_vless_1076
+  network: ws
+  port: 443
+  server: 77.93.91.159
+  servername: ylnhh.cc.cd
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+  ws-opts:
+    headers:
+      Host: ylnhh.cc.cd
+    path: /Telegram🇨🇳+@WangCai2
+- name: Unknown_vless_1077
+  network: ws
   port: 443
   server: 77.93.91.159
   servername: ylnhh.cc.cd
@@ -48949,7 +48937,7 @@ proxies:
     headers:
       Host: ylnhh.cc.cd
     path: /Telegram🇨🇳@WangCai2
-- name: Unknown_vless_1076
+- name: Unknown_vless_1078
   network: ws
   port: 8443
   server: 43.160.248.66
@@ -48964,7 +48952,7 @@ proxies:
       Host: ylnhh.cc.cd
     path: /Telegram🇨🇳+@WangCai2
 - flow: xtls-rprx-vision
-  name: Unknown_vless_1077
+  name: Unknown_vless_1079
   port: 443
   reality-opts:
     public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
@@ -48976,7 +48964,7 @@ proxies:
   type: vless
   udp: true
   uuid: d65cc14c-f53f-4fe2-b262-97856601319c
-- name: Unknown_vless_1078
+- name: Unknown_vless_1080
   network: ws
   port: 443
   server: 68.64.179.96
@@ -48991,7 +48979,7 @@ proxies:
       Host: ylnhh.cc.cd
     path: /Telegram🇨🇳@WangCai2
 - flow: xtls-rprx-vision
-  name: Unknown_vless_1079
+  name: Unknown_vless_1081
   port: 443
   reality-opts:
     public-key: -YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs
@@ -49004,7 +48992,7 @@ proxies:
   udp: true
   uuid: a16bd0e2-ff2e-4e4c-a955-0c684255a065
 - flow: xtls-rprx-vision
-  name: Unknown_vless_1080
+  name: Unknown_vless_1082
   port: 443
   reality-opts:
     public-key: CwmIRtPbbb0VDHYxHTiDxF1xtVDG4Jr90RJZvCKQzXQ
@@ -49016,7 +49004,7 @@ proxies:
   udp: true
   uuid: 420a0e21-08c6-4e94-a965-41226b38b674
 - flow: xtls-rprx-vision
-  name: Unknown_vless_1081
+  name: Unknown_vless_1083
   port: 4546
   reality-opts:
     public-key: 3DLDFzq0NAYBMrhDOaMM04A_Ictohao2yWOY1NdrJCk
@@ -49028,7 +49016,7 @@ proxies:
   udp: true
   uuid: 7f37b28b-cfcb-4c2a-ae41-8f2ddc9325dd
 - flow: xtls-rprx-vision
-  name: Unknown_vless_1082
+  name: Unknown_vless_1084
   port: 4546
   reality-opts:
     public-key: 3DLDFzq0NAYBMrhDOaMM04A_Ictohao2yWOY1NdrJCk
@@ -49039,7 +49027,7 @@ proxies:
   type: vless
   udp: true
   uuid: b52989b9-09dc-4ca0-b722-e6fe3e8a0313
-- name: Unknown_vless_1083
+- name: Unknown_vless_1085
   network: ws
   port: 443
   server: 192.0.63.91
@@ -64915,10 +64903,10 @@ proxy-groups:
   - Unknown_hysteria2_1041
   - Unknown_hysteria2_1042
   - Unknown_hysteria2_1043
-  - Unknown_ss_1044
-  - Unknown_vmess_1045
-  - Unknown_trojan_1046
-  - Unknown_trojan_1047
+  - Unknown_hysteria2_1044
+  - Unknown_hysteria2_1045
+  - Unknown_ss_1046
+  - Unknown_vmess_1047
   - Unknown_trojan_1048
   - Unknown_trojan_1049
   - Unknown_trojan_1050
@@ -64929,13 +64917,13 @@ proxy-groups:
   - Unknown_trojan_1055
   - Unknown_trojan_1056
   - Unknown_trojan_1057
-  - Unknown_vmess_1058
+  - Unknown_trojan_1058
   - Unknown_trojan_1059
-  - Unknown_vless_1060
-  - Unknown_vless_1061
-  - Unknown_http_1062
+  - Unknown_vmess_1060
+  - Unknown_trojan_1061
+  - Unknown_vless_1062
   - Unknown_vless_1063
-  - Unknown_vless_1064
+  - Unknown_http_1064
   - Unknown_vless_1065
   - Unknown_vless_1066
   - Unknown_vless_1067
@@ -64955,6 +64943,8 @@ proxy-groups:
   - Unknown_vless_1081
   - Unknown_vless_1082
   - Unknown_vless_1083
+  - Unknown_vless_1084
+  - Unknown_vless_1085
   - Unknown_vmess_121
   - Unknown_vmess_122
   - Unknown_vmess_123
@@ -71276,10 +71266,10 @@ proxy-groups:
   - Unknown_hysteria2_1041
   - Unknown_hysteria2_1042
   - Unknown_hysteria2_1043
-  - Unknown_ss_1044
-  - Unknown_vmess_1045
-  - Unknown_trojan_1046
-  - Unknown_trojan_1047
+  - Unknown_hysteria2_1044
+  - Unknown_hysteria2_1045
+  - Unknown_ss_1046
+  - Unknown_vmess_1047
   - Unknown_trojan_1048
   - Unknown_trojan_1049
   - Unknown_trojan_1050
@@ -71290,13 +71280,13 @@ proxy-groups:
   - Unknown_trojan_1055
   - Unknown_trojan_1056
   - Unknown_trojan_1057
-  - Unknown_vmess_1058
+  - Unknown_trojan_1058
   - Unknown_trojan_1059
-  - Unknown_vless_1060
-  - Unknown_vless_1061
-  - Unknown_http_1062
+  - Unknown_vmess_1060
+  - Unknown_trojan_1061
+  - Unknown_vless_1062
   - Unknown_vless_1063
-  - Unknown_vless_1064
+  - Unknown_http_1064
   - Unknown_vless_1065
   - Unknown_vless_1066
   - Unknown_vless_1067
@@ -71316,6 +71306,8 @@ proxy-groups:
   - Unknown_vless_1081
   - Unknown_vless_1082
   - Unknown_vless_1083
+  - Unknown_vless_1084
+  - Unknown_vless_1085
   - Unknown_vmess_121
   - Unknown_vmess_122
   - Unknown_vmess_123
