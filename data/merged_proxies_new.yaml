@@ -41,7 +41,6 @@ proxies:
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: Unknown_trojan_03
-  network: tcp
   password: bb839d14960b7a4fb1e95a3aef990528
   port: 13118
   server: 95.40.99.31
@@ -49,7 +48,6 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_04
-  network: tcp
   password: BxceQaOe
   port: 29443
   server: 18.163.62.241
@@ -57,7 +55,6 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_05
-  network: tcp
   password: BxceQaOe
   port: 7674
   server: 43.199.202.97
@@ -65,7 +62,6 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_06
-  network: tcp
   password: BxceQaOe
   port: 54411
   server: 18.183.199.219
@@ -73,7 +69,6 @@ proxies:
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_07
-  network: tcp
   password: bb839d14960b7a4fb1e95a3aef990528
   port: 24370
   server: 95.40.99.31
@@ -81,7 +76,6 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_08
-  network: tcp
   password: bb839d14960b7a4fb1e95a3aef990528
   port: 6357
   server: 95.40.50.224
@@ -89,7 +83,6 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_09
-  network: tcp
   password: bb839d14960b7a4fb1e95a3aef990528
   port: 6357
   server: 95.40.99.31
@@ -97,7 +90,6 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_010
-  network: tcp
   password: BxceQaOe
   port: 51396
   server: 43.199.202.97
@@ -105,7 +97,6 @@ proxies:
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_011
-  network: tcp
   password: bb839d14960b7a4fb1e95a3aef990528
   port: 17005
   server: 95.40.99.31
@@ -113,7 +104,6 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_012
-  network: tcp
   password: bb839d14960b7a4fb1e95a3aef990528
   port: 17005
   server: 43.199.215.77
@@ -121,7 +111,6 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_013
-  network: tcp
   password: BxceQaOe
   port: 34638
   server: 18.162.154.153
@@ -139,6 +128,98 @@ proxies:
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: Unknown_trojan_015
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 32583
+  server: 54.46.117.102
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_016
+  network: tcp
+  password: BxceQaOe
+  port: 27161
+  server: 54.46.14.230
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_017
+  network: tcp
+  password: BxceQaOe
+  port: 29443
+  server: 43.199.252.80
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_018
+  network: tcp
+  password: BxceQaOe
+  port: 10624
+  server: 43.199.31.196
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_019
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 40138
+  server: 16.163.56.186
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_020
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 40138
+  server: 18.166.63.229
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_021
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 48738
+  server: 18.166.63.229
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_022
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 6357
+  server: 16.163.56.186
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_023
+  network: tcp
+  password: BxceQaOe
+  port: 41421
+  server: 43.199.31.196
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_024
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 17005
+  server: 18.163.105.231
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_025
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 17005
+  server: 18.166.63.229
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_026
+  network: tcp
+  password: BxceQaOe
+  port: 44265
+  server: 18.163.115.109
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_027
   network: ws
   password: MITIVPN
   port: 443
@@ -151,7 +232,7 @@ proxies:
     headers:
       Host: 95r.ir
     path: /MiTiVPN=Usa
-- name: Unknown_trojan_016
+- name: Unknown_trojan_028
   network: ws
   password: MITIVPN
   port: 443
@@ -164,7 +245,7 @@ proxies:
     headers:
       Host: 95r.ir
     path: /MiTiVPN=De
-- name: Unknown_trojan_017
+- name: Unknown_trojan_029
   network: ws
   password: MiTiVPN
   port: 443
@@ -177,7 +258,7 @@ proxies:
     headers:
       Host: 95r.ir
     path: /MiTiVPN=Se
-- name: Unknown_trojan_018
+- name: Unknown_trojan_030
   network: ws
   password: Mitivpn
   port: 443
@@ -307,95 +388,103 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: Unknown_trojan_113
   network: tcp
-  password: bb839d14960b7a4fb1e95a3aef990528
-  port: 13118
-  server: 95.40.99.31
-  skip-cert-verify: true
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 32583
+  server: 54.46.117.102
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_114
   network: tcp
   password: BxceQaOe
-  port: 29443
-  server: 18.163.62.241
+  port: 27161
+  server: 54.46.14.230
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_115
   network: tcp
   password: BxceQaOe
-  port: 7674
-  server: 43.199.202.97
+  port: 29443
+  server: 43.199.252.80
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_116
   network: tcp
   password: BxceQaOe
-  port: 54411
-  server: 18.183.199.219
+  port: 10624
+  server: 43.199.31.196
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_117
   network: tcp
-  password: bb839d14960b7a4fb1e95a3aef990528
-  port: 24370
-  server: 95.40.99.31
-  skip-cert-verify: true
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 40138
+  server: 16.163.56.186
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_118
   network: tcp
-  password: bb839d14960b7a4fb1e95a3aef990528
-  port: 6357
-  server: 95.40.50.224
-  skip-cert-verify: true
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 40138
+  server: 18.166.63.229
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_119
   network: tcp
-  password: bb839d14960b7a4fb1e95a3aef990528
-  port: 6357
-  server: 95.40.99.31
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 48738
+  server: 18.166.63.229
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_120
   network: tcp
-  password: BxceQaOe
-  port: 51396
-  server: 43.199.202.97
-  skip-cert-verify: true
-  sni: t.me%252Fripaojiedian
-  type: trojan
-- name: Unknown_trojan_121
-  network: tcp
-  password: bb839d14960b7a4fb1e95a3aef990528
-  port: 17005
-  server: 95.40.99.31
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 6357
+  server: 16.163.56.186
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
+- name: Unknown_trojan_121
+  network: tcp
+  password: BxceQaOe
+  port: 41421
+  server: 43.199.31.196
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
+  type: trojan
 - name: Unknown_trojan_122
   network: tcp
-  password: bb839d14960b7a4fb1e95a3aef990528
+  password: b1a42ca60884057bf527d8d38b618cfb
   port: 17005
-  server: 43.199.215.77
+  server: 18.163.105.231
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_123
   network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 17005
+  server: 18.166.63.229
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_124
+  network: tcp
   password: BxceQaOe
-  port: 34638
-  server: 18.162.154.153
+  port: 44265
+  server: 18.163.115.109
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - alterId: 2
   cipher: auto
-  name: Unknown_vmess_124
+  name: Unknown_vmess_125
   network: tcp
   port: '30807'
   server: v10.hdacd.com
@@ -403,68 +492,64 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: Unknown_trojan_125
-  network: ws
-  password: '666'
-  port: '443'
-  server: 104.18.33.209
-  skip-cert-verify: false
-  sni: gdurt.ia6o.2s1.hh.penqiask.ccwu.cc
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/61.0.3163.79 Safari/537.36
-    path: /glasspanel/guest000_0_5de14443985f/
-- name: Unknown_trojan_126
-  network: ws
-  password: '666'
-  port: '443'
-  server: 104.18.39.216
-  skip-cert-verify: false
-  sni: gdurt.ia6o.2s1.hh.penqiask.ccwu.cc
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/68.0.3440.106 Safari/537.36
-    path: /glasspanel/guest000_0_5de14443985f/
-- name: Unknown_trojan_127
-  network: ws
-  password: '666'
-  port: '443'
-  server: saas.sin.fan
-  skip-cert-verify: false
-  sni: gdurt.ia6o.2s1.hh.penqiask.ccwu.cc
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/51.0.2704.106 Safari/537.36
-    path: /glasspanel/guest000_0_5de14443985f/
-- cipher: aes-256-cfb
-  name: Unknown_ss_128
-  password: amazonskr05
-  port: '443'
-  server: 13.193.101.147
-  type: ss
-  udp: true
-- alterId: 2
+- alterId: '0'
   cipher: auto
-  name: Unknown_vmess_129
+  name: Unknown_vmess_126
   network: tcp
-  port: 30808
-  server: v8.hdacd.com
+  port: '50000'
+  server: d1.trapxan.ir
   skip-cert-verify: false
   tls: false
   type: vmess
   udp: true
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  uuid: 294517f3-11cf-4add-8c82-e7d498e4139e
   xudp: true
-- name: Unknown_trojan_130
+- cipher: aes-256-cfb
+  name: Unknown_ss_127
+  password: amazonskr05
+  port: '443'
+  server: 35.77.98.65
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: Unknown_ss_128
+  password: amazonskr05
+  port: '443'
+  server: 35.180.199.237
+  type: ss
+  udp: true
+- alpn:
+  - ''
+  alterId: '0'
+  cipher: auto
+  name: Unknown_vmess_129
+  network: ws
+  port: '30080'
+  server: 143.198.235.98
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: d76c0edb-8097-4371-8d97-722723756012
+  ws-opts:
+    headers: {}
+    path: /vm
+  xudp: true
+- cipher: aes-256-cfb
+  name: Unknown_ss_130
+  password: amazonskr05
+  port: '443'
+  server: 18.189.145.175
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: Unknown_ss_131
+  password: amazonskr05
+  port: '443'
+  server: 18.119.164.101
+  type: ss
+  udp: true
+- name: Unknown_trojan_132
   network: ws
   password: MITIVPN
   port: 443
@@ -477,7 +562,7 @@ proxies:
     headers:
       Host: 95r.ir
     path: /MiTiVPN=Usa
-- name: Unknown_trojan_131
+- name: Unknown_trojan_133
   network: ws
   password: MITIVPN
   port: 443
@@ -490,7 +575,7 @@ proxies:
     headers:
       Host: 95r.ir
     path: /MiTiVPN=De
-- name: Unknown_trojan_132
+- name: Unknown_trojan_134
   network: ws
   password: MiTiVPN
   port: 443
@@ -503,7 +588,7 @@ proxies:
     headers:
       Host: 95r.ir
     path: /MiTiVPN=Se
-- name: Unknown_trojan_133
+- name: Unknown_trojan_135
   network: ws
   password: Mitivpn
   port: 443
@@ -54619,7 +54704,6 @@ proxies:
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: Unknown_trojan_83
-  network: tcp
   password: bb839d14960b7a4fb1e95a3aef990528
   port: 13118
   server: 95.40.99.31
@@ -54627,7 +54711,6 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_84
-  network: tcp
   password: BxceQaOe
   port: 29443
   server: 18.163.62.241
@@ -54635,7 +54718,6 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_85
-  network: tcp
   password: BxceQaOe
   port: 7674
   server: 43.199.202.97
@@ -54643,7 +54725,6 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_86
-  network: tcp
   password: BxceQaOe
   port: 54411
   server: 18.183.199.219
@@ -54651,7 +54732,6 @@ proxies:
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_87
-  network: tcp
   password: bb839d14960b7a4fb1e95a3aef990528
   port: 24370
   server: 95.40.99.31
@@ -54659,7 +54739,6 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_88
-  network: tcp
   password: bb839d14960b7a4fb1e95a3aef990528
   port: 6357
   server: 95.40.50.224
@@ -54667,7 +54746,6 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_89
-  network: tcp
   password: bb839d14960b7a4fb1e95a3aef990528
   port: 6357
   server: 95.40.99.31
@@ -54675,7 +54753,6 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_810
-  network: tcp
   password: BxceQaOe
   port: 51396
   server: 43.199.202.97
@@ -54683,7 +54760,6 @@ proxies:
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: Unknown_trojan_811
-  network: tcp
   password: bb839d14960b7a4fb1e95a3aef990528
   port: 17005
   server: 95.40.99.31
@@ -54691,7 +54767,6 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_812
-  network: tcp
   password: bb839d14960b7a4fb1e95a3aef990528
   port: 17005
   server: 43.199.215.77
@@ -54699,7 +54774,6 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_813
-  network: tcp
   password: BxceQaOe
   port: 34638
   server: 18.162.154.153
@@ -54717,6 +54791,98 @@ proxies:
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: Unknown_trojan_815
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 32583
+  server: 54.46.117.102
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_816
+  network: tcp
+  password: BxceQaOe
+  port: 27161
+  server: 54.46.14.230
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_817
+  network: tcp
+  password: BxceQaOe
+  port: 29443
+  server: 43.199.252.80
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_818
+  network: tcp
+  password: BxceQaOe
+  port: 10624
+  server: 43.199.31.196
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_819
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 40138
+  server: 16.163.56.186
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_820
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 40138
+  server: 18.166.63.229
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_821
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 48738
+  server: 18.166.63.229
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_822
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 6357
+  server: 16.163.56.186
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_823
+  network: tcp
+  password: BxceQaOe
+  port: 41421
+  server: 43.199.31.196
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_824
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 17005
+  server: 18.163.105.231
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_825
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 17005
+  server: 18.166.63.229
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_826
+  network: tcp
+  password: BxceQaOe
+  port: 44265
+  server: 18.163.115.109
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- name: Unknown_trojan_827
   network: ws
   password: MITIVPN
   port: 443
@@ -54729,7 +54895,7 @@ proxies:
     headers:
       Host: 95r.ir
     path: /MiTiVPN=Usa
-- name: Unknown_trojan_816
+- name: Unknown_trojan_828
   network: ws
   password: MITIVPN
   port: 443
@@ -54742,7 +54908,7 @@ proxies:
     headers:
       Host: 95r.ir
     path: /MiTiVPN=De
-- name: Unknown_trojan_817
+- name: Unknown_trojan_829
   network: ws
   password: MiTiVPN
   port: 443
@@ -54755,7 +54921,7 @@ proxies:
     headers:
       Host: 95r.ir
     path: /MiTiVPN=Se
-- name: Unknown_trojan_818
+- name: Unknown_trojan_830
   network: ws
   password: Mitivpn
   port: 443
@@ -55463,18 +55629,11 @@ proxies:
 - name: Unknown_hysteria2_1019
   password: 57c77d07-bec3-4bf7-9b72-70ece40450f6
   port: 5443
-  server: unic.hysteria.ltd
-  sni: unic.hysteria.ltd
-  tls: false
-  type: hysteria2
-- name: Unknown_hysteria2_1020
-  password: 57c77d07-bec3-4bf7-9b72-70ece40450f6
-  port: 5443
   server: vkmks.hysteria.ltd
   sni: vkmks.hysteria.ltd
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1021
+- name: Unknown_hysteria2_1020
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: 653m8mmiy7048p0f
@@ -55484,7 +55643,7 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1022
+- name: Unknown_hysteria2_1021
   obfs: salamander
   obfs-password: ngljeqgna3hmfr2s
   password: 91uokb9ud7raz0fk
@@ -55494,7 +55653,7 @@ proxies:
   sni: qg.easyiran.org
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1023
+- name: Unknown_hysteria2_1022
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: Dd8FfJSif0
@@ -55504,7 +55663,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1024
+- name: Unknown_hysteria2_1023
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 18.141.232.182
@@ -55512,15 +55671,7 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1025
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 18.190.219.163
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: Unknown_hysteria2_1026
+- name: Unknown_hysteria2_1024
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 34.212.146.99
@@ -55528,7 +55679,7 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1027
+- name: Unknown_hysteria2_1025
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 44.245.99.184
@@ -55536,7 +55687,7 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1028
+- name: Unknown_hysteria2_1026
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 44.249.61.233
@@ -55544,7 +55695,7 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1029
+- name: Unknown_hysteria2_1027
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 54.254.22.28
@@ -55552,7 +55703,17 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1030
+- name: Unknown_hysteria2_1028
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: KYFundefinedZYs4KB
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: Unknown_hysteria2_1029
   obfs: salamander
   obfs-password: KevinZakarian
   password: KevinZakarian
@@ -55562,7 +55723,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1031
+- name: Unknown_hysteria2_1030
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: MjLSEZj2IW
@@ -55572,7 +55733,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1032
+- name: Unknown_hysteria2_1031
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: QjdEEystFJ
@@ -55582,7 +55743,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1033
+- name: Unknown_hysteria2_1032
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: TGzLlWQaFb
@@ -55592,7 +55753,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1034
+- name: Unknown_hysteria2_1033
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: V2RayyNgvpn
@@ -55602,7 +55763,7 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1035
+- name: Unknown_hysteria2_1034
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -55612,7 +55773,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1036
+- name: Unknown_hysteria2_1035
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -55622,7 +55783,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1037
+- name: Unknown_hysteria2_1036
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: eltgrek81o6w5cd4
@@ -55632,7 +55793,7 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1038
+- name: Unknown_hysteria2_1037
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -55642,7 +55803,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1039
+- name: Unknown_hysteria2_1038
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
   password: rs2mR3g9bZiMloftx6lZQ59Um1Ld
@@ -55652,17 +55813,7 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1040
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: w1BoB6s3L3
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: Unknown_hysteria2_1041
+- name: Unknown_hysteria2_1039
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: y4nJ8poIsh
@@ -55672,7 +55823,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1042
+- name: Unknown_hysteria2_1040
   password: zhangyang
   port: 6443
   server: 130.61.50.75
@@ -55680,7 +55831,7 @@ proxies:
   sni: dash.cloudflare.com
   tls: false
   type: hysteria2
-- name: Unknown_hysteria2_1043
+- name: Unknown_hysteria2_1041
   password: zhangyang
   port: 6443
   server: 130.61.50.75
@@ -55689,111 +55840,119 @@ proxies:
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
-  name: Unknown_ss_1044
+  name: Unknown_ss_1042
   password: amazonskr05
   port: 443
   server: 63.180.254.10
   type: ss
 - alterId: 2
   cipher: auto
-  name: Unknown_vmess_1045
+  name: Unknown_vmess_1043
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- name: Unknown_trojan_1044
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 32583
+  server: 54.46.117.102
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_1045
+  network: tcp
+  password: BxceQaOe
+  port: 27161
+  server: 54.46.14.230
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
 - name: Unknown_trojan_1046
   network: tcp
-  password: bb839d14960b7a4fb1e95a3aef990528
-  port: 13118
-  server: 95.40.99.31
+  password: BxceQaOe
+  port: 29443
+  server: 43.199.252.80
   skip-cert-verify: true
-  sni: www.nintendogames.net
+  sni: t.me%2Fripaojiedian
   type: trojan
 - name: Unknown_trojan_1047
   network: tcp
   password: BxceQaOe
-  port: 29443
-  server: 18.163.62.241
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  type: trojan
-- name: Unknown_trojan_1048
-  network: tcp
-  password: BxceQaOe
-  port: 7674
-  server: 43.199.202.97
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  type: trojan
-- name: Unknown_trojan_1049
-  network: tcp
-  password: BxceQaOe
-  port: 54411
-  server: 18.183.199.219
+  port: 10624
+  server: 43.199.31.196
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
+- name: Unknown_trojan_1048
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 40138
+  server: 16.163.56.186
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: Unknown_trojan_1049
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 40138
+  server: 18.166.63.229
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
 - name: Unknown_trojan_1050
   network: tcp
-  password: bb839d14960b7a4fb1e95a3aef990528
-  port: 24370
-  server: 95.40.99.31
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 48738
+  server: 18.166.63.229
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_1051
   network: tcp
-  password: bb839d14960b7a4fb1e95a3aef990528
+  password: b1a42ca60884057bf527d8d38b618cfb
   port: 6357
-  server: 95.40.50.224
+  server: 16.163.56.186
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_1052
   network: tcp
-  password: bb839d14960b7a4fb1e95a3aef990528
-  port: 6357
-  server: 95.40.99.31
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
-- name: Unknown_trojan_1053
-  network: tcp
   password: BxceQaOe
-  port: 51396
-  server: 43.199.202.97
+  port: 41421
+  server: 43.199.31.196
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
+- name: Unknown_trojan_1053
+  network: tcp
+  password: b1a42ca60884057bf527d8d38b618cfb
+  port: 17005
+  server: 18.163.105.231
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
 - name: Unknown_trojan_1054
   network: tcp
-  password: bb839d14960b7a4fb1e95a3aef990528
+  password: b1a42ca60884057bf527d8d38b618cfb
   port: 17005
-  server: 95.40.99.31
-  skip-cert-verify: true
+  server: 18.166.63.229
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: Unknown_trojan_1055
   network: tcp
-  password: bb839d14960b7a4fb1e95a3aef990528
-  port: 17005
-  server: 43.199.215.77
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
-- name: Unknown_trojan_1056
-  network: tcp
   password: BxceQaOe
-  port: 34638
-  server: 18.162.154.153
+  port: 44265
+  server: 18.163.115.109
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - alterId: 2
   cipher: auto
-  name: Unknown_vmess_1057
+  name: Unknown_vmess_1056
   network: tcp
   port: '30807'
   server: v10.hdacd.com
@@ -55801,154 +55960,942 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- client-fingerprint: chrome
-  name: Unknown_trojan_1058
-  network: ws
-  password: '666'
-  port: '443'
-  server: 104.18.33.209
-  skip-cert-verify: false
-  sni: gdurt.ia6o.2s1.hh.penqiask.ccwu.cc
-  type: trojan
+- name: Unknown_http_1057
+  port: 9002
+  server: 84.239.49.225
+  skip-cert-verify: true
+  tls: true
+  type: http
   udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/61.0.3163.79 Safari/537.36
-    path: /glasspanel/guest000_0_5de14443985f/
-- name: Unknown_trojan_1059
-  network: ws
-  password: '666'
-  port: '443'
-  server: 104.18.39.216
-  skip-cert-verify: false
-  sni: gdurt.ia6o.2s1.hh.penqiask.ccwu.cc
-  type: trojan
+- name: Unknown_http_1058
+  port: 9002
+  server: 84.239.49.154
+  skip-cert-verify: true
+  tls: true
+  type: http
   udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/68.0.3440.106 Safari/537.36
-    path: /glasspanel/guest000_0_5de14443985f/
-- name: Unknown_trojan_1060
-  network: ws
-  password: '666'
-  port: '443'
-  server: saas.sin.fan
-  skip-cert-verify: false
-  sni: gdurt.ia6o.2s1.hh.penqiask.ccwu.cc
-  type: trojan
+- name: Unknown_http_1059
+  port: 9002
+  server: 84.239.14.149
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
   udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/51.0.2704.106 Safari/537.36
-    path: /glasspanel/guest000_0_5de14443985f/
-- cipher: aes-256-cfb
-  name: Unknown_ss_1061
-  password: amazonskr05
-  port: '443'
-  server: 13.193.101.147
-  type: ss
+- name: Unknown_http_1060
+  port: 9002
+  server: 84.239.49.191
+  skip-cert-verify: true
+  tls: true
+  type: http
   udp: true
-- client-fingerprint: chrome
-  encryption: none
+- name: Unknown_http_1061
+  port: 9002
+  server: 84.239.49.207
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1062
+  port: 9002
+  server: 84.239.49.253
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1063
+  port: 9002
+  server: 84.239.49.157
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1064
+  port: 9002
+  server: 84.239.49.239
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1065
+  port: 9002
+  server: 84.239.49.55
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1066
+  port: 9002
+  server: 84.239.49.57
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1067
+  port: 9002
+  server: 84.239.49.185
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1068
+  port: 9002
+  server: 84.239.49.247
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1069
+  port: 9002
+  server: 84.239.14.152
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1070
+  port: 9002
+  server: 84.239.49.219
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1071
+  port: 9002
+  server: 193.176.84.32
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: Unknown_vless_1062
-  network: raw
-  port: '443'
-  reality-opts:
-    public-key: 6pZxjabeHoyJlsc2cP3Q5YK7G0bIOQwzWFyiarbUQXc
-    short-id: c8af1462debbc1
-  server: kr2.miyazono-kaori.com
-  servername: www.coway.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 4442c33c-9889-4e0f-bff7-14f1f626dd6c
-  xudp: true
-- client-fingerprint: random
-  name: Unknown_vless_1063
-  network: ws
-  port: '443'
-  server: 13.193.106.143
-  servername: gy.hhawks.kdns.fr
-  tls: true
-  type: vless
-  udp: true
-  uuid: 552a071a-7a69-49b5-9a82-f353229d82ad
-  ws-opts:
-    headers:
-      Host: gy.hhawks.kdns.fr
-      User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/55.0.2883.87 Safari/537.36
-    path: /
-  xudp: true
-- client-fingerprint: chrome
-  encryption: none
-  name: Unknown_vless_1064
-  network: ws
-  port: '443'
-  server: 64.186.234.50
-  servername: t1s1.rittbo.kdns.fr
-  tls: true
-  type: vless
-  udp: true
-  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
-  ws-opts:
-    headers:
-      Host: t1s1.rittbo.kdns.fr
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/51.0.2704.63 Safari/537.36
-    path: /
-  xudp: true
-- alterId: 2
-  cipher: auto
-  name: Unknown_vmess_1065
+  name: Unknown_vless_1072
   network: tcp
-  port: 30808
-  server: v8.hdacd.com
+  port: 443
+  reality-opts:
+    public-key: Qse9gI7x_oaUtYpat3UdIMdIU8x_nYIGegq96omgXg0
+    short-id: fa1aa700
+  server: am.janvpn.ru
+  servername: vk-portal.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5c221de4-590b-41b8-8a3d-4c7dd6d0948f
+- alpn:
+  - h3
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: Unknown_vless_1073
+  network: xhttp
+  port: '443'
+  server: 45.80.111.1
+  servername: api-fr1.ipng.site
+  tls: true
+  type: vless
+  udp: true
+  uuid: 49fc7afe-82b2-4141-b548-08dd944e38ef
+  xhttp-opts:
+    host: api-fr.ipng.site
+    mode: auto
+    path: /random
+    x-padding-bytes: 100-1000
+  xudp: true
+- alterId: '0'
+  cipher: auto
+  name: Unknown_vmess_1074
+  network: tcp
+  port: '50000'
+  server: d1.trapxan.ir
   skip-cert-verify: false
   tls: false
   type: vmess
   udp: true
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  uuid: 294517f3-11cf-4add-8c82-e7d498e4139e
   xudp: true
-- client-fingerprint: random
-  name: Unknown_vless_1066
-  network: ws
-  port: '443'
-  server: cdn.9889888.xyz
-  servername: gy.hhawks.kdns.fr
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: mlkem768x25519plus.native.0rtt.KBGWRMDGYrWQgipXfVuTdtfBucHMihlxgZ86wHaASnU
+  name: Unknown_vless_1075
+  network: xhttp
+  port: '8443'
+  server: www.speedtest.net
+  servername: vip2.pro1.dpdns.org
   tls: true
   type: vless
   udp: true
-  uuid: 552a071a-7a69-49b5-9a82-f353229d82ad
+  uuid: 340e99a1-5987-411f-bf9c-ee9c69423e31
+  xhttp-opts:
+    host: vip2.pro1.dpdns.org
+    mode: auto
+    path: /Hi
+    x-padding-bytes: 100-1000
+  xudp: true
+- encryption: none
+  name: Unknown_vless_1076
+  network: ws
+  port: '80'
+  server: 146.75.119.82
+  type: vless
+  udp: true
+  uuid: 845e9093-fbd8-494d-aa21-05f1da232bc3
   ws-opts:
     headers:
-      Host: gy.hhawks.kdns.fr
-      User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/51.0.2704.63 Safari/537.36
+      Host: rb24.ir
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/49.0.2623.110 Safari/537.36
+    path: ws/?ed=2048/@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr/?2048
+  xudp: true
+- client-fingerprint: chrome
+  encryption: mlkem768x25519plus.native.0rtt.At2jbnJuJG3K6LecNH78rQf4fBPR5iHbtD7dTWS5axY
+  flow: xtls-rprx-vision
+  name: Unknown_vless_1077
+  network: xhttp
+  port: '443'
+  reality-opts:
+    public-key: EL3QUDoISPGWsTMd3uuqUXMpq1qshiyD2lk-LdScR0g
+    short-id: 541f
+  server: 184.174.97.211
+  servername: android.clients.google.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: f09d18a9-d778-4e00-a49a-c0063d1c1b11
+  xhttp-opts:
+    mode: auto
+    path: /
+    x-padding-bytes: 100-1000
+  xudp: true
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  grpc-opts:
+    grpc-service-name: media.session.poll
+  name: Unknown_vless_1078
+  network: grpc
+  port: '443'
+  server: argg6.auragg.org
+  servername: argg6.auragg.org
+  tls: true
+  type: vless
+  udp: true
+  uuid: 98dab41c-f18a-406b-8de2-3cc8bb797d5d
+  xudp: true
+- alpn:
+  - h3
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: Unknown_vless_1079
+  network: xhttp
+  port: '443'
+  server: www1.n.ahmadhamoumi.fun
+  servername: api-tr.ipng.site
+  tls: true
+  type: vless
+  udp: true
+  uuid: 49fc7afe-82b2-4141-b548-08dd944e38ef
+  xhttp-opts:
+    host: api-tr.ipng.site
+    mode: auto
+    path: /random
+    x-padding-bytes: 100-1000
+  xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: Unknown_vless_1080
+  network: ws
+  port: '443'
+  server: x4g-production-4ce4.up.railway.app
+  servername: x4g-production-4ce4.up.railway.app
+  tls: true
+  type: vless
+  udp: true
+  uuid: 98e1cafa-7d19-f164-9024-d4900c94b67d
+  ws-opts:
+    headers:
+      Host: x4g-production-4ce4.up.railway.app
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    path: /ws/98e1cafa-7d19-f164-9024-d4900c94b67d
+  xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: Unknown_vless_1081
+  network: ws
+  port: '443'
+  server: x4g-production-ffd1.up.railway.app
+  servername: x4g-production-ffd1.up.railway.app
+  tls: true
+  type: vless
+  udp: true
+  uuid: e878eed7-c3f7-cd5c-bb10-468bad9b936c
+  ws-opts:
+    headers:
+      Host: x4g-production-ffd1.up.railway.app
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; vivo 1603 Build/MMB29M) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36
+    path: /ws/e878eed7-c3f7-cd5c-bb10-468bad9b936c
+  xudp: true
+- name: Unknown_http_1082
+  port: 9002
+  server: 193.176.84.34
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1083
+  port: 9002
+  server: 84.239.49.238
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1084
+  password: ''
+  port: '9002'
+  server: 84.239.49.171
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+  username: ''
+- name: Unknown_http_1085
+  port: 9002
+  server: 84.239.14.154
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1086
+  port: 9002
+  server: 84.239.14.157
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1087
+  port: 9002
+  server: 84.239.49.249
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1088
+  port: 9002
+  server: 84.239.49.233
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1089
+  port: 9002
+  server: 84.239.14.148
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1090
+  port: 9002
+  server: 84.239.49.164
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1091
+  port: 9002
+  server: 84.239.49.176
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1092
+  port: 9002
+  server: 84.239.49.245
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1093
+  port: 9002
+  server: 84.239.49.199
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1094
+  port: 9002
+  server: 84.239.49.38
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1095
+  port: 9002
+  server: 84.239.49.212
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1096
+  port: 9002
+  server: 84.239.49.161
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1097
+  port: 9002
+  server: 84.239.49.170
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1098
+  port: 9002
+  server: 84.239.14.158
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1099
+  port: 9002
+  server: 84.239.49.173
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10100
+  port: 9002
+  server: 84.239.49.201
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10101
+  port: 9002
+  server: 84.239.49.254
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10102
+  port: 9002
+  server: 84.239.49.37
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10103
+  port: 9002
+  server: 193.176.84.39
+  skip-cert-verify: true
+  tls: true
+  type: http
+- cipher: aes-256-cfb
+  name: Unknown_ss_10104
+  password: amazonskr05
+  port: '443'
+  server: 35.77.98.65
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: Unknown_ss_10105
+  password: amazonskr05
+  port: '443'
+  server: 35.180.199.237
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  encryption: mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI
+  name: Unknown_vless_10106
+  network: xhttp
+  port: '2087'
+  server: 172.67.69.211
+  servername: vamosargentina.dpdns.org
+  tls: true
+  type: vless
+  udp: true
+  uuid: 88888888-8888-8888-8888-888888888888
+  xhttp-opts:
+    host: vamosargentina.dpdns.org
+    mode: auto
+    path: /
+    x-padding-bytes: 100-1000
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: Unknown_vless_10107
+  network: ws
+  port: '443'
+  server: 3x-ui-upgrade-production-1a93.up.railway.app
+  servername: 3x-ui-upgrade-production-1a93.up.railway.app
+  tls: true
+  type: vless
+  udp: true
+  uuid: 31ed3f3f-0a85-4ece-9c64-c673ae878adc
+  ws-opts:
+    headers:
+      Host: 3x-ui-upgrade-production-1a93.up.railway.app
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+    path: /ws
+  xudp: true
+- encryption: none
+  name: Unknown_vless_10108
+  network: ws
+  port: '80'
+  server: 151.101.168.11
+  type: vless
+  udp: true
+  uuid: 3b940e86-7b0d-40da-acf1-12d334e41023
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: Fastapi.Org
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    max-early-data: 2560
+    path: /
+  xudp: true
+- encryption: none
+  name: Unknown_vless_10109
+  network: ws
+  port: '80'
+  server: 199.232.152.11
+  type: vless
+  udp: true
+  uuid: 3b940e86-7b0d-40da-acf1-12d334e41023
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: Fastapi.Org
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/40.0.2214.111 Safari/537.36
+    max-early-data: 2560
+    path: /
+  xudp: true
+- encryption: none
+  name: Unknown_vless_10110
+  network: ws
+  port: '80'
+  server: 199.232.223.11
+  type: vless
+  udp: true
+  uuid: 3b940e86-7b0d-40da-acf1-12d334e41023
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: Fastapi.Org
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/59.0.3071.115 Safari/537.36
+    max-early-data: 2560
+    path: /
+  xudp: true
+- encryption: none
+  name: Unknown_vless_10111
+  network: ws
+  port: '80'
+  server: 199.232.238.11
+  type: vless
+  udp: true
+  uuid: 3b940e86-7b0d-40da-acf1-12d334e41023
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: Fastapi.Org
+      User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.3
+        (KHTML, like Gecko) Chrome/6.0.472.63 Safari/534.3
+    max-early-data: 2560
+    path: /
+  xudp: true
+- encryption: none
+  name: Unknown_vless_10112
+  network: ws
+  port: '80'
+  server: 199.232.251.11
+  type: vless
+  udp: true
+  uuid: 3b940e86-7b0d-40da-acf1-12d334e41023
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: Fastapi.Org
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/35.0.1916.153 Safari/537.36
+    max-early-data: 2560
     path: /
   xudp: true
 - client-fingerprint: chrome
-  name: Unknown_vless_1067
-  network: ws
+  encryption: none
+  name: Unknown_vless_10113
+  network: tcp
   port: '443'
-  server: cfd2.466688.xyz
-  servername: edge-e47d0df3.pages.dev
+  server: bot.sobhanpor.ir
+  servername: bot.sobhanpor.ir
   tls: true
   type: vless
   udp: true
-  uuid: 7ebbd929-720a-4782-8c6d-4d77a0a75ee4
+  uuid: 3df1fb85-a6be-455d-89ea-2c397bcbf9e4
+  xudp: true
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: Unknown_vless_10114
+  network: xhttp
+  port: '2083'
+  server: securitytrails.com
+  servername: log.beforenext.dpdns.org
+  tls: true
+  type: vless
+  udp: true
+  uuid: 58be4691-5430-417a-96e3-02736d151490
+  xhttp-opts:
+    host: log.beforenext.dpdns.org
+    mode: auto
+    path: /forall
+    x-padding-bytes: 100-1000
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: Unknown_vless_10115
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: aTPjxfJ5QPGxYRyQ8SRnYwyXUhuasda7i5Dc5VoKxVY
+    short-id: 4c9fbcb1
+  server: sg02.18adae16-f183-4aaf-9227-67dc4b27fec6.984b277d-718f-4ba8-9e06-0036b675c900.byteprivatelink.com
+  servername: www.samsung.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 66d0b230-3b09-421d-be15-ad2e27a90c00
+  xudp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: Unknown_vless_10116
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: KP-P4zenuMuYe3UxPCjDEVmgqI4GiRZ95UbsAfmL71g
+    short-id: 970098f31b96a3e8
+  server: 157.173.27.151
+  servername: travel.yandex.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 838de912-398a-4c0e-9228-0fd44b0d1f8b
+  xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: Unknown_vless_10117
+  network: ws
+  port: '443'
+  server: 69.46.46.16
+  servername: x4g-production-4ce4.up.railway.app
+  tls: true
+  type: vless
+  udp: true
+  uuid: 98e1cafa-7d19-f164-9024-d4900c94b67d
   ws-opts:
     headers:
-      Host: edge-e47d0df3.pages.dev
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/49.0.2623.110 Safari/537.36
-    path: /?ed=2048@https://t.me/QiangLieTuiJian
+      Host: x4g-production-4ce4.up.railway.app
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/54.0.2840.99 Safari/537.36
+    path: /ws/98e1cafa-7d19-f164-9024-d4900c94b67d
   xudp: true
-- name: Unknown_trojan_1068
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: Unknown_vless_10118
+  network: tcp
+  port: '40443'
+  reality-opts:
+    public-key: 6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY
+    short-id: ''
+  server: 77.221.159.165
+  servername: deepl.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: Unknown_vless_10119
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: Od_l3To6OKuXy19tY0Feep0qNZfWcDL8kW3dRQHW2AQ
+    short-id: '99'
+  server: us2.fast-cone.com
+  servername: us2.fast-cone.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: c99fdb9a-0cec-497d-9d29-d45ed770807b
+  xudp: true
+- encryption: none
+  name: Unknown_vless_10120
+  network: tcp
+  port: '2552'
+  server: 110.34.38.174
+  type: vless
+  udp: true
+  uuid: d8b42cd5-a149-4356-9e61-000000000000
+  xudp: true
+- encryption: none
+  name: Unknown_vless_10121
+  network: tcp
+  port: '1445'
+  server: 110.34.38.2
+  type: vless
+  udp: true
+  uuid: d8b42cd5-a149-4356-9e61-111111111111
+  xudp: true
+- client-fingerprint: chrome
+  name: Unknown_vless_10122
+  network: tcp
+  port: '443'
+  server: bot.sobhanpor.ir
+  tls: true
+  type: vless
+  udp: true
+  uuid: e4ed9804-1aee-4f60-9a07-0d1cd3fdabd9
+  xudp: true
+- client-fingerprint: chrome
+  encryption: mlkem768x25519plus.native.0rtt.fPamMrnyoRBAgbIO56QFrFLxt-1X-jiSj7gsBKddrB8
+  flow: xtls-rprx-vision
+  name: Unknown_vless_10123
+  network: xhttp
+  port: '443'
+  reality-opts:
+    public-key: GvxmgqCvG-o1x6V2huK5WlSmTbGxmGyQkT-IiDJuCGA
+    short-id: a2289eaf45db54
+  server: 150.251.112.40
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: f09d18a9-d778-4e00-a49a-c0063d1c1b11
+  xhttp-opts:
+    mode: auto
+    path: /
+    x-padding-bytes: 100-1000
+  xudp: true
+- alpn:
+  - ''
+  alterId: '0'
+  cipher: auto
+  name: Unknown_vmess_10124
+  network: ws
+  port: '30080'
+  server: 143.198.235.98
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: d76c0edb-8097-4371-8d97-722723756012
+  ws-opts:
+    headers: {}
+    path: /vm
+  xudp: true
+- cipher: aes-256-cfb
+  name: Unknown_ss_10125
+  password: amazonskr05
+  port: '443'
+  server: 18.189.145.175
+  type: ss
+  udp: true
+- name: Unknown_http_10126
+  password: ''
+  port: '9002'
+  server: 84.239.49.182
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: ''
+- cipher: aes-256-cfb
+  name: Unknown_ss_10127
+  password: amazonskr05
+  port: '443'
+  server: 18.119.164.101
+  type: ss
+  udp: true
+- name: Unknown_http_10128
+  port: 9002
+  server: 84.239.49.220
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10129
+  port: 9002
+  server: 193.176.84.22
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10130
+  port: 9002
+  server: 84.239.49.48
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10131
+  port: 9002
+  server: 84.239.49.192
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10132
+  port: 9002
+  server: 84.239.49.223
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10133
+  port: 9002
+  server: 84.239.49.58
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10134
+  port: 9002
+  server: 84.239.49.163
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10135
+  port: 9002
+  server: 84.239.49.234
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10136
+  port: 9002
+  server: 84.239.14.146
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10137
+  port: 9002
+  server: 84.239.49.49
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10138
+  port: 9002
+  server: 84.239.14.159
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10139
+  port: 9002
+  server: 84.239.49.187
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10140
+  port: 9002
+  server: 84.239.49.214
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10141
+  port: 9002
+  server: 84.239.49.165
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10142
+  port: 9002
+  server: 193.176.84.23
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10143
+  port: 9002
+  server: 84.239.49.229
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10144
+  port: 9002
+  server: 193.176.84.20
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10145
+  port: 9002
+  server: 84.239.49.189
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10146
+  port: 9002
+  server: 84.239.49.186
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10147
+  port: 9002
+  server: 193.176.84.25
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_socks5_10148
+  password: Private
+  port: '1080'
+  server: 85.17.179.81
+  skip-cert-verify: true
+  type: socks5
+  username: M_YOU_D
+- name: Unknown_http_10149
+  password: ''
+  port: '9002'
+  server: 84.239.49.59
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: ''
+- name: Unknown_trojan_10150
   network: ws
   password: MITIVPN
   port: 443
@@ -55963,7 +56910,7 @@ proxies:
     path: /MiTiVPN=Usa
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: Unknown_vless_1069
+  name: Unknown_vless_10151
   packet-encoding: xudp
   port: 443
   reality-opts:
@@ -55976,7 +56923,7 @@ proxies:
   type: vless
   udp: true
   uuid: e3e90161-fe65-443a-a3a4-e0e3a73704ca
-- name: Unknown_http_1070
+- name: Unknown_http_10152
   password: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
   port: 443
   server: fe01bdcc-t9zts0-tan99f-1rdqg.fr.oshuawei.com
@@ -55984,7 +56931,7 @@ proxies:
   type: http
   udp: true
   username: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
-- name: Unknown_trojan_1071
+- name: Unknown_trojan_10153
   network: ws
   password: MITIVPN
   port: 443
@@ -55997,7 +56944,7 @@ proxies:
     headers:
       Host: 95r.ir
     path: /MiTiVPN=De
-- name: Unknown_http_1072
+- name: Unknown_http_10154
   password: 25b2699a-e18e-11ec-8e69-f23c91cfbbc9
   port: 443
   server: 663a898a-t9zts0-tatrrz-yjq0.uk.oshuawei.com
@@ -56005,7 +56952,7 @@ proxies:
   type: http
   udp: true
   username: 25b2699a-e18e-11ec-8e69-f23c91cfbbc9
-- name: Unknown_http_1073
+- name: Unknown_http_10155
   password: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
   port: 443
   server: 48997541-t9zts0-tan99f-1rdqg.uk.oshuawei.com
@@ -56013,7 +56960,7 @@ proxies:
   type: http
   udp: true
   username: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
-- name: Unknown_http_1074
+- name: Unknown_http_10156
   password: 25b2699a-e18e-11ec-8e69-f23c91cfbbc9
   port: 8443
   server: 19016135-te7og0-tfo5nb-yjq0.hkt.cdnhuawei.com
@@ -56023,7 +56970,7 @@ proxies:
   username: 25b2699a-e18e-11ec-8e69-f23c91cfbbc9
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: Unknown_vless_1075
+  name: Unknown_vless_10157
   port: 8443
   reality-opts:
     public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg
@@ -56037,7 +56984,7 @@ proxies:
   uuid: 7896c501-248f-4068-bc2f-363c91ba5122
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: Unknown_vless_1076
+  name: Unknown_vless_10158
   port: 8443
   reality-opts:
     public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg
@@ -56051,7 +56998,7 @@ proxies:
   uuid: 7896c501-248f-4068-bc2f-363c91ba5122
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: Unknown_vless_1077
+  name: Unknown_vless_10159
   port: 8443
   reality-opts:
     public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg
@@ -56065,7 +57012,7 @@ proxies:
   uuid: 7896c501-248f-4068-bc2f-363c91ba5122
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: Unknown_vless_1078
+  name: Unknown_vless_10160
   port: 8443
   reality-opts:
     public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg
@@ -56079,7 +57026,7 @@ proxies:
   uuid: 7896c501-248f-4068-bc2f-363c91ba5122
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: Unknown_vless_1079
+  name: Unknown_vless_10161
   port: 8443
   reality-opts:
     public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg
@@ -56091,7 +57038,7 @@ proxies:
   type: vless
   udp: true
   uuid: 7896c501-248f-4068-bc2f-363c91ba5122
-- name: Unknown_http_1080
+- name: Unknown_http_10162
   password: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
   port: 31433
   server: 701489ed-t9zts0-tan99f-1rdqg.kr.oshuawei.com
@@ -56099,7 +57046,7 @@ proxies:
   type: http
   udp: true
   username: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
-- name: Unknown_trojan_1081
+- name: Unknown_trojan_10163
   network: ws
   password: MiTiVPN
   port: 443
@@ -56112,252 +57059,119 @@ proxies:
     headers:
       Host: 95r.ir
     path: /MiTiVPN=Se
-- name: Unknown_http_1082
-  port: 9002
-  server: 84.239.49.187
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_1083
-  port: 9002
-  server: 84.239.49.225
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_1084
-  port: 9002
-  server: 84.239.14.159
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_1085
-  port: 9002
-  server: 84.239.49.154
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_1086
-  port: 9002
-  server: 84.239.14.149
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_1087
+- name: Unknown_http_10164
   port: 9002
   server: 84.239.49.227
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_1088
-  port: 9002
-  server: 84.239.49.191
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_1089
-  port: 9002
-  server: 84.239.49.207
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_1090
+- name: Unknown_http_10165
   port: 9002
   server: 84.239.49.202
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_1091
-  port: 9002
-  server: 84.239.49.253
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_1092
+- name: Unknown_http_10166
   port: 9002
   server: 84.239.49.42
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_1093
+- name: Unknown_http_10167
   port: 9002
   server: 84.239.49.196
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_1094
+- name: Unknown_http_10168
   port: 9002
   server: 84.239.49.211
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_1095
+- name: Unknown_http_10169
   port: 9002
   server: 84.239.49.204
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_1096
-  port: 9002
-  server: 84.239.49.157
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_1097
+- name: Unknown_http_10170
   port: 9002
   server: 84.239.49.178
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_1098
+- name: Unknown_http_10171
   port: 9002
   server: 84.239.49.160
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_1099
-  port: 9002
-  server: 84.239.49.239
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10100
-  port: 9002
-  server: 84.239.49.234
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10101
+- name: Unknown_http_10172
   port: 9002
   server: 84.239.49.40
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10102
-  port: 9002
-  server: 84.239.49.55
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10103
-  port: 9002
-  server: 84.239.49.57
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10104
-  port: 9002
-  server: 84.239.49.245
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10105
+- name: Unknown_http_10173
   port: 9002
   server: 84.239.14.160
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10106
-  port: 9002
-  server: 84.239.49.185
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10107
+- name: Unknown_http_10174
   port: 9002
   server: 84.239.49.39
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10108
+- name: Unknown_http_10175
   port: 9002
   server: 84.239.49.175
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10109
+- name: Unknown_http_10176
   port: 9002
   server: 84.239.49.209
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10110
+- name: Unknown_http_10177
   port: 9002
   server: 84.239.49.159
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10111
-  port: 9002
-  server: 84.239.49.247
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10112
+- name: Unknown_http_10178
   port: 9002
   server: 84.239.49.235
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10113
-  port: 9002
-  server: 84.239.14.152
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10114
-  port: 9002
-  server: 84.239.49.219
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10115
-  port: 9002
-  server: 193.176.84.32
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10116
+- name: Unknown_http_10179
   port: 9002
   server: 193.176.84.31
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10117
+- name: Unknown_http_10180
   port: 9002
   server: 193.176.84.37
   skip-cert-verify: true
@@ -56366,7 +57180,7 @@ proxies:
   udp: true
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: Unknown_vless_10118
+  name: Unknown_vless_10181
   port: 8443
   reality-opts:
     public-key: dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8
@@ -56380,7 +57194,7 @@ proxies:
   uuid: 52faee73-e0fe-4661-992d-67259257170f
 - client-fingerprint: safari
   flow: xtls-rprx-vision
-  name: Unknown_vless_10119
+  name: Unknown_vless_10182
   port: 14005
   reality-opts:
     public-key: sKWozGVep6wrIm63253QviGBtMLVrGB_W1JJHLEHi0s
@@ -56394,7 +57208,7 @@ proxies:
   uuid: 3e06720a-86f0-49b9-8f00-062681e3b385
 - client-fingerprint: safari
   flow: xtls-rprx-vision
-  name: Unknown_vless_10120
+  name: Unknown_vless_10183
   port: 443
   reality-opts:
     public-key: JlcNtRODuC4k8GhBFuXwjps9cRe3asq453_RLd3o9E8
@@ -56406,7 +57220,7 @@ proxies:
   type: vless
   udp: true
   uuid: 057f3c26-0fe7-4315-aabc-90c79d413d70
-- name: Unknown_http_10121
+- name: Unknown_http_10184
   password: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
   port: 443
   server: e760451b-ta1og0-tan99f-1rdqg.jp.oshuawei.com
@@ -56414,7 +57228,7 @@ proxies:
   type: http
   udp: true
   username: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
-- name: Unknown_http_10122
+- name: Unknown_http_10185
   password: 1b609740-eec2-11ef-8543-f23c93136cb3
   port: 443
   server: 9420e530-te8ao0-tfnl0i-au6.fmtdc1.sghuawei.com
@@ -56422,7 +57236,7 @@ proxies:
   type: http
   udp: true
   username: 1b609740-eec2-11ef-8543-f23c93136cb3
-- name: Unknown_http_10123
+- name: Unknown_http_10186
   password: 25b2699a-e18e-11ec-8e69-f23c91cfbbc9
   port: 443
   server: cffa61bc-t9zts0-tatrrz-yjq0.jp.oshuawei.com
@@ -56430,7 +57244,7 @@ proxies:
   type: http
   udp: true
   username: 25b2699a-e18e-11ec-8e69-f23c91cfbbc9
-- name: Unknown_http_10124
+- name: Unknown_http_10187
   password: 25b2699a-e18e-11ec-8e69-f23c91cfbbc9
   port: 443
   server: 786f666d-t9zts0-tatrrz-yjq0.sjc.oshuawei.com
@@ -56438,7 +57252,7 @@ proxies:
   type: http
   udp: true
   username: 25b2699a-e18e-11ec-8e69-f23c91cfbbc9
-- name: Unknown_http_10125
+- name: Unknown_http_10188
   password: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
   port: 443
   server: d6a15dd2-tegxs0-tejxhc-1rdqg.se.oshuawei.com
@@ -56446,7 +57260,7 @@ proxies:
   type: http
   udp: true
   username: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
-- name: Unknown_trojan_10126
+- name: Unknown_trojan_10189
   network: ws
   password: Mitivpn
   port: 443
@@ -134430,104 +135244,50 @@ proxies:
   flow: xtls-rprx-vision
   name: Unknown_vless_131
   network: tcp
-  port: 443
+  port: 42576
   reality-opts:
-    public-key: egq3FRi4oqkJ-iJ40r-pk10g7tawGg6o9c4UDGOPDU4
-    short-id: 9824e11ad3a632f8
-  server: 3bd9.55dca.e048.f1-fef1f.yfjcs.com
-  servername: osxapps.itunes.apple.com
+    public-key: z8A9zDSdi94sN7KskpYmCoVeuCJOGCA8EHPI8dBZWxE
+    short-id: dfcfcb51
+  server: 3696b38bsg.murphyweb.sbs
+  servername: www.yahoo.com
   tls: true
   type: vless
   udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
+  uuid: d44ed678-88ff-4bb4-b170-1a397a2f7ee2
   xudp: true
-- client-fingerprint: safari
+- client-fingerprint: chrome
   encryption: none
   flow: xtls-rprx-vision
   name: Unknown_vless_132
   network: tcp
-  port: 443
+  port: 45701
   reality-opts:
-    public-key: SMnrjqT7vDwVYRL05E6qgSFkNpEyLpyZtWMHvhHr9BM
-    short-id: ab2909fe
-  server: 3bd9.55dca.e048.f7-fef1f.yfjcs.com
-  servername: updates.cdn-apple.com
+    public-key: 1Up61_Ml2SGi89jSqF7NOe8q1t9-qRdkau0nRXhFm1o
+    short-id: 72593ecf
+  server: 3696b38bsg.murphyweb.sbs
+  servername: buylite.music.apple.com
   tls: true
   type: vless
   udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
+  uuid: d44ed678-88ff-4bb4-b170-1a397a2f7ee2
   xudp: true
-- client-fingerprint: ios
+- client-fingerprint: chrome
   encryption: none
   flow: xtls-rprx-vision
   name: Unknown_vless_133
   network: tcp
-  port: 443
+  port: 32134
   reality-opts:
-    public-key: OpOPkgvdODyl87_5Yd4gJlaSD1Bc10TVjLlzKNHx40k
-    short-id: 5ab35065
-  server: 3bd9.55dca.e048.f6-fef1f.yfjcs.com
-  servername: osxapps.itunes.apple.com
+    public-key: OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4
+    short-id: 6c6c7c97
+  server: 3696b38bsg.murphyweb.sbs
+  servername: buylite.music.apple.com
   tls: true
   type: vless
   udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
+  uuid: d44ed678-88ff-4bb4-b170-1a397a2f7ee2
   xudp: true
-- client-fingerprint: chrome
-  name: Unknown_trojan_134
-  network: ws
-  password: '521314'
-  port: 443
-  server: 122.10.119.252
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/70.0.3538.77 Safari/537.36
-    path: /
-- client-fingerprint: chrome
-  name: Unknown_trojan_135
-  network: ws
-  password: '521314'
-  port: 2087
-  server: 220.135.92.105
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4A Build/MMB29M; wv) AppleWebKit/537.36
-        (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36
-    path: /
-- down: ''
-  fingerprint: ebc87915442b30b5c343cce4fa7f8f7a997de714f1aa41e8ad8f83e1bfad5ff9
-  name: Unknown_hysteria2_136
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 20000
-  server: 108.181.22.153
-  skip-cert-verify: false
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: d91617801efe30ae01a0ed47bbb77221176739c6d177c9ddb4a582a8c53f1223
-  name: Unknown_hysteria2_137
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 20000
-  server: 204.10.194.86
-  skip-cert-verify: false
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- name: Unknown_http_138
+- name: Unknown_http_134
   password: test.+
   port: 30446
   server: testkr3.ssv.vc
@@ -134536,148 +135296,743 @@ proxies:
   type: http
   udp: true
   username: test
-- down: ''
-  fingerprint: be1733baf0e2db7a98689da3a2ff141c5075b9216a5c58cc9f5056e192eeb8c6
-  name: Unknown_hysteria2_139
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 20000
-  server: 134.195.101.75
-  skip-cert-verify: false
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- multiplexing: MULTIPLEXING_LOW
-  name: Unknown_mieru_1310
-  password: dongtaiwang.com
-  port: 34567
-  server: 157.254.223.44
-  transport: TCP
-  type: mieru
-  username: dongtaiwang.com
-- name: Unknown_http_1311
-  password: a698c4a6-c3c9-11ee-9693-f23c91cfbbc9
-  port: 443
-  server: 5a4bdbc5-t9zts0-tairte-1m0fq.sj.oshuawei.com
-  sni: 5a4bdbc5-t9zts0-tairte-1m0fq.sj.oshuawei.com
-  tls: true
-  type: http
-  username: a698c4a6-c3c9-11ee-9693-f23c91cfbbc9
-- name: Unknown_http_1312
+- name: Unknown_http_135
   password: gs4BXwT6SW
   port: 10988
   server: 154.26.192.123
   tls: false
   type: http
   username: fQ67Dpe5dU
-- client-fingerprint: ios
-  encryption: none
-  flow: xtls-rprx-vision
-  name: Unknown_vless_1313
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: BU86Bh8IfiMcQllCNU2sFi4z1GfpPOaTxCepPpNmgC4
-    short-id: 710e95ee
-  server: 158.101.195.118
-  servername: tv.apple.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  xudp: true
-- name: Unknown_anytls_1314
-  password: b9c9905c-1627-11ec-a0fc-f23c913c8d2b
-  port: 443
-  server: 506ba549-temhs0-tg4a89-ach1.los.hyhuawei.com
-  skip-cert-verify: true
-  sni: 506ba549-temhs0-tg4a89-ach1.los.hyhuawei.com
-  type: anytls
-- client-fingerprint: firefox
-  encryption: none
-  flow: xtls-rprx-vision
-  http-opts:
-    headers: {}
-    path:
-    - /
-  name: Unknown_vless_1315
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA
-    short-id: a1b2c3d4e5f6
-  server: 2.27.14.29
-  servername: cloudflare.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 3ef170be-05d0-479c-9753-aa2f860964ea
-  xudp: true
-- client-fingerprint: chrome
-  name: Unknown_trojan_1316
-  network: ws
-  password: '521314'
-  port: 8443
-  server: 138.3.212.160
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/65.0.3325.181 Safari/537.36
-    path: /
 - down: ''
-  fingerprint: 46af02345f3f09e8ae63960f52ebc9eb48c08f92a9e6196149ca94129b61b6f2
-  name: Unknown_hysteria2_1317
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 20000
-  server: 168.138.184.187
+  fingerprint: ''
+  name: Unknown_hysteria2_136
+  obfs: salamander
+  obfs-password: eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=
+  password: f7cb07a0-e6f9-4d22-a60e-c61854450c89
+  port: 443
+  server: ff2.yuntong.click
   skip-cert-verify: false
-  sni: www.bing.com
+  sni: ff2.yuntong.click
   type: hysteria2
   up: ''
-- name: Unknown_http_1318
-  password: b9c9905c-1627-11ec-a0fc-f23c913c8d2b
+- name: Unknown_http_137
+  password: 5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b
   port: 443
-  server: a439f5e5-t9zts0-tbdyji-ach1.se.oshuawei.com
-  sni: a439f5e5-t9zts0-tbdyji-ach1.se.oshuawei.com
+  server: 973547bf-t9zts0-tcop2n-tl32.sj.oshuawei.com
+  sni: 973547bf-t9zts0-tcop2n-tl32.sj.oshuawei.com
   tls: true
   type: http
-  username: b9c9905c-1627-11ec-a0fc-f23c913c8d2b
-- name: Unknown_http_1319
+  username: 5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b
+- name: Unknown_http_138
+  password: 1ec223c0-1ed9-11ec-a8bf-f23c91cfbbc9
+  port: 443
+  server: 2fc6bd20-t9zts0-tsjk4v-1atkp.sj.oshuawei.com
+  sni: 2fc6bd20-t9zts0-tsjk4v-1atkp.sj.oshuawei.com
+  tls: true
+  type: http
+  username: 1ec223c0-1ed9-11ec-a8bf-f23c91cfbbc9
+- multiplexing: MULTIPLEXING_LOW
+  name: Unknown_mieru_139
+  password: dongtaiwang.com
+  port: 34567
+  server: 157.254.223.44
+  transport: TCP
+  type: mieru
+  username: dongtaiwang.com
+- down: ''
+  fingerprint: ''
+  name: Unknown_hysteria2_1310
+  obfs: ''
+  obfs-password: ''
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: vpn-de-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-de-002.fastervpn.world
+  type: hysteria2
+  up: ''
+- alterId: 0
+  cipher: auto
+  client-fingerprint: safari
+  name: Unknown_vmess_1311
+  network: tcp
+  port: 443
+  server: guanwang.awsno.com
+  servername: gw.alicdn.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 6a89a215-22bf-4bd7-9642-b95b2e09583a
+- name: Unknown_http_1312
   port: 9002
   server: 193.176.84.34
   skip-cert-verify: true
   tls: true
   type: http
-- name: Unknown_http_1320
+- name: Unknown_http_1313
   port: 9002
-  server: 84.239.49.238
+  server: 193.176.84.31
   skip-cert-verify: true
   sni: www.bing.com
   tls: true
   type: http
-- name: Unknown_http_1321
+- name: Unknown_http_1314
   port: 9002
-  server: 84.239.49.184
+  server: 193.176.84.24
   skip-cert-verify: true
-  sni: www.bing.com
   tls: true
   type: http
-- name: Unknown_http_1322
+- name: Unknown_http_1315
+  port: 9002
+  server: 84.239.49.170
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1316
   port: 9002
   server: 193.176.84.27
   skip-cert-verify: true
   sni: www.bing.com
   tls: true
   type: http
+- client-fingerprint: qq
+  encryption: none
+  flow: xtls-rprx-vision
+  name: Unknown_vless_1317
+  network: tcp
+  port: 9443
+  reality-opts:
+    public-key: zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw
+    short-id: ''
+  server: 81.90.21.104
+  servername: se.realitynetwork.eu
+  tls: true
+  type: vless
+  udp: true
+  uuid: fe604665-7c82-44cf-a067-869fe9b2abae
+  xudp: true
+- name: Unknown_http_1318
+  port: 9002
+  server: 84.239.49.187
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1319
+  port: 9002
+  server: 84.239.49.196
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1320
+  port: 9002
+  server: 193.176.84.25
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1321
+  port: 9002
+  server: 84.239.49.155
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1322
+  port: 9002
+  server: 84.239.49.199
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1323
+  port: 9002
+  server: 84.239.49.207
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1324
+  port: 9002
+  server: 84.239.49.160
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1325
+  port: 9002
+  server: 84.239.49.245
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1326
+  port: 9002
+  server: 193.176.84.36
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1327
+  port: 9002
+  server: 84.239.49.171
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1328
+  port: 9002
+  server: 84.239.14.146
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1329
+  port: 9002
+  server: 84.239.49.227
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1330
+  port: 9002
+  server: 84.239.49.231
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1331
+  password: f93486ce-cc84-11ed-9e98-f23c913c8d2b
+  port: 443
+  server: 5af25128-t9zts0-tlvq5w-1jcwu.uk.oshuawei.com
+  sni: 5af25128-t9zts0-tlvq5w-1jcwu.uk.oshuawei.com
+  tls: true
+  type: http
+  username: f93486ce-cc84-11ed-9e98-f23c913c8d2b
+- name: Unknown_http_1332
+  port: 9002
+  server: 193.176.84.37
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1333
+  port: 9002
+  server: 84.239.14.158
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_1334
+  port: 9002
+  server: 84.239.49.185
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1335
+  port: 9002
+  server: 84.239.14.148
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1336
+  port: 9002
+  server: 84.239.49.211
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1337
+  port: 9002
+  server: 84.239.49.201
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1338
+  port: 9002
+  server: 84.239.14.160
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1339
+  port: 9002
+  server: 84.239.14.159
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1340
+  port: 9002
+  server: 84.239.49.215
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1341
+  port: 9002
+  server: 84.239.49.183
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1342
+  port: 9002
+  server: 84.239.49.161
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1343
+  port: 9002
+  server: 84.239.49.173
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1344
+  port: 9002
+  server: 84.239.49.247
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1345
+  password: 1469e09e-027c-11ec-a0fc-f23c913c8d2b
+  port: 443
+  server: 09dc9ac8-t9zts0-to8xn3-l4nv.jp.oshuawei.com
+  sni: 09dc9ac8-t9zts0-to8xn3-l4nv.jp.oshuawei.com
+  tls: true
+  type: http
+  username: 1469e09e-027c-11ec-a0fc-f23c913c8d2b
+- name: Unknown_http_1346
+  port: 9002
+  server: 84.239.49.159
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1347
+  port: 9002
+  server: 84.239.49.224
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1348
+  port: 9002
+  server: 84.239.49.42
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1349
+  port: 9002
+  server: 84.239.49.154
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1350
+  port: 9002
+  server: 84.239.49.55
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1351
+  port: 9002
+  server: 84.239.49.240
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1352
+  port: 9002
+  server: 84.239.49.234
+  skip-cert-verify: true
+  tls: true
+  type: http
+- cipher: 2022-blake3-aes-128-gcm
+  name: Unknown_ss_1353
+  password: YTE1ZWU4ZTEyZjc3YmEzZA==:Y2JhZTU3ODYtZjg3MC00NA==
+  plugin: gost-plugin
+  plugin-opts:
+    host: one.local
+    mode: websocket
+    mux: true
+    path: /ws
+    tls: false
+  port: 20090
+  server: 172.96.161.152
+  type: ss
+  udp: true
+- name: Unknown_http_1354
+  port: 9002
+  server: 84.239.49.39
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1355
+  port: 9002
+  server: 84.239.14.157
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1356
+  port: 9002
+  server: 84.239.49.157
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1357
+  port: 9002
+  server: 84.239.14.149
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1358
+  port: 9002
+  server: 84.239.49.180
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1359
+  port: 9002
+  server: 84.239.49.166
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1360
+  port: 9002
+  server: 84.239.49.233
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1361
+  port: 9002
+  server: 84.239.49.182
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1362
+  port: 9002
+  server: 84.239.49.219
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1363
+  port: 9002
+  server: 84.239.49.156
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1364
+  port: 9002
+  server: 84.239.49.38
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1365
+  port: 9002
+  server: 84.239.49.223
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1366
+  port: 9002
+  server: 84.239.49.238
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1367
+  port: 9002
+  server: 84.239.49.184
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1368
+  port: 9002
+  server: 84.239.49.202
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1369
+  port: 9002
+  server: 84.239.49.204
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1370
+  port: 9002
+  server: 84.239.49.191
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1371
+  port: 9002
+  server: 84.239.49.162
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1372
+  password: 88f6e3c4-1d01-11ef-812c-f23c91cfbbc9
+  port: 443
+  server: 11273790-t9zts0-thmjbt-1rk9y.se.oshuawei.com
+  sni: 11273790-t9zts0-thmjbt-1rk9y.se.oshuawei.com
+  tls: true
+  type: http
+  username: 88f6e3c4-1d01-11ef-812c-f23c91cfbbc9
+- name: Unknown_http_1373
+  port: 9002
+  server: 193.176.84.26
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1374
+  password: 88f6e3c4-1d01-11ef-812c-f23c91cfbbc9
+  port: 443
+  server: d5d5f7ac-t9zts0-thmjbt-1rk9y.uk.oshuawei.com
+  sni: d5d5f7ac-t9zts0-thmjbt-1rk9y.uk.oshuawei.com
+  tls: true
+  type: http
+  username: 88f6e3c4-1d01-11ef-812c-f23c91cfbbc9
+- name: Unknown_http_1375
+  port: 9002
+  server: 84.239.49.214
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1376
+  port: 9002
+  server: 84.239.14.147
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1377
+  port: 9002
+  server: 84.239.49.37
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1378
+  port: 9002
+  server: 84.239.49.164
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1379
+  port: 9002
+  server: 84.239.49.175
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1380
+  port: 9002
+  server: 193.176.84.39
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1381
+  port: 9002
+  server: 84.239.49.57
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1382
+  port: 9002
+  server: 84.239.49.254
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1383
+  port: 9002
+  server: 193.176.84.32
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1384
+  port: 9002
+  server: 193.176.84.19
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1385
+  port: 9002
+  server: 84.239.14.152
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1386
+  port: 9002
+  server: 84.239.49.40
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1387
+  port: 9002
+  server: 84.239.49.242
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1388
+  password: 1ec223c0-1ed9-11ec-a8bf-f23c91cfbbc9
+  port: 31433
+  server: b0e5a712-t9zts0-tsjk4v-1atkp.kr.oshuawei.com
+  sni: b0e5a712-t9zts0-tsjk4v-1atkp.kr.oshuawei.com
+  tls: true
+  type: http
+  username: 1ec223c0-1ed9-11ec-a8bf-f23c91cfbbc9
+- name: Unknown_http_1389
+  port: 9002
+  server: 84.239.49.253
+  skip-cert-verify: true
+  tls: true
+  type: http
 - client-fingerprint: chrome
-  name: Unknown_trojan_1323
+  name: Unknown_vless_1390
+  network: ws
+  port: 2053
+  server: 31.133.0.240
+  servername: nrfiqiut.vmimv9k58ynejo2errhz.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd
+  ws-opts:
+    headers:
+      Host: nrfiqiut.vmimv9k58ynejo2errhz.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/52.0.2743.116 Safari/537.36
+    path: /lib/tag/mfp=chrome
+  xudp: true
+- name: Unknown_http_1391
+  port: 9002
+  server: 84.239.49.235
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1392
+  port: 9002
+  server: 84.239.49.212
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1393
+  port: 9002
+  server: 84.239.49.225
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1394
+  port: 9002
+  server: 84.239.49.249
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_socks5_1395
+  port: 1080
+  server: 5.255.99.75
+  type: socks5
+- name: Unknown_http_1396
+  password: 5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b
+  port: 443
+  server: 6c846b23-t9zts0-tcop2n-tl32.se.oshuawei.com
+  sni: 6c846b23-t9zts0-tcop2n-tl32.se.oshuawei.com
+  tls: true
+  type: http
+  username: 5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b
+- name: Unknown_http_1397
+  port: 9002
+  server: 84.239.14.154
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_1398
+  port: 9002
+  server: 84.239.49.198
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_1399
+  port: 9002
+  server: 84.239.49.178
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_13100
+  port: 9002
+  server: 84.239.49.163
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_13101
+  port: 9002
+  server: 84.239.49.209
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_13102
+  port: 9002
+  server: 84.239.49.176
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_13103
+  port: 9002
+  server: 84.239.49.239
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_13104
+  port: 443
+  server: 103.62.50.130
+  skip-cert-verify: true
+  tls: true
+  type: http
+- client-fingerprint: chrome
+  encryption: none
+  name: Unknown_vless_13105
+  network: ws
+  port: 443
+  server: betty.ns.cloudflare.com
+  servername: vangoghhh.info
+  tls: true
+  type: vless
+  udp: true
+  uuid: 14b59caf-a196-4ec2-8c70-c7b388062f5b
+  ws-opts:
+    headers:
+      Host: vangoghhh.info
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/51.0.2704.106 Safari/537.36
+    path: /rdfgtws
+  xudp: true
+- client-fingerprint: chrome
+  name: Unknown_trojan_13106
   network: ws
   password: HutaoCloud
   port: 11543
@@ -134691,949 +136046,18 @@ proxies:
       User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36
         (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
     path: /api
-- client-fingerprint: ios
-  encryption: none
-  flow: xtls-rprx-vision
-  name: Unknown_vless_1324
+- client-fingerprint: chrome
+  name: Unknown_trojan_13107
   network: tcp
-  port: 443
-  reality-opts:
-    public-key: gkl6bqL44xulia53I8gd_BtiVRzU1rsIu4WeffywLBY
-    short-id: 78f5a5a5
-  server: 141.253.124.138
-  servername: tv.apple.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  xudp: true
-- name: Unknown_http_1325
-  password: 19dd9c70-e4a5-11ed-8347-f23c9164ca5d
-  port: 443
-  server: 4a5864a9-t9zts0-tbicd9-1go3q.se.oshuawei.com
-  sni: 4a5864a9-t9zts0-tbicd9-1go3q.se.oshuawei.com
-  tls: true
-  type: http
-  username: 19dd9c70-e4a5-11ed-8347-f23c9164ca5d
-- name: Unknown_http_1326
-  port: 9002
-  server: 193.176.84.36
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- down: ''
-  fingerprint: 26ba37c47ee60b3c24781f1aa929c77e2a40294dde7800d9a785c48e861cfd72
-  name: Unknown_hysteria2_1327
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 20000
-  server: 160.202.167.53
+  password: OccIqeORGQwiNkwS
+  port: 19128
+  server: jpbgp.netvigor.cc
   skip-cert-verify: false
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: 25da54b2e8b5475e464d2b0f33d6b75b2ac663339446d42eee1b41b173b8b03d
-  name: Unknown_hysteria2_1328
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 20000
-  server: 108.181.23.255
-  skip-cert-verify: false
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- name: Unknown_http_1329
-  port: 9002
-  server: 84.239.49.171
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1330
-  port: 9002
-  server: 193.176.84.24
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1331
-  port: 9002
-  server: 84.239.49.183
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1332
-  port: 9002
-  server: 84.239.49.209
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- down: ''
-  fingerprint: 720d0ff6eb97df99088d75a640ff952e6cce1b28d137f0b4dc194beb87f4e258
-  name: Unknown_hysteria2_1333
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 50000
-  server: 203.10.99.59
-  skip-cert-verify: false
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- name: Unknown_http_1334
-  port: 9002
-  server: 84.239.49.55
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1335
-  port: 9002
-  server: 84.239.49.159
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1336
-  port: 9002
-  server: 84.239.14.154
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1337
-  port: 9002
-  server: 84.239.49.204
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1338
-  port: 9002
-  server: 84.239.49.180
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- down: ''
-  fingerprint: ebc87915442b30b5c343cce4fa7f8f7a997de714f1aa41e8ad8f83e1bfad5ff9
-  name: Unknown_hysteria2_1339
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 20000
-  server: 152.70.106.67
-  skip-cert-verify: false
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- name: Unknown_http_1340
-  password: 88f6e3c4-1d01-11ef-812c-f23c91cfbbc9
-  port: 443
-  server: d5d5f7ac-t9zts0-thmjbt-1rk9y.uk.oshuawei.com
-  sni: d5d5f7ac-t9zts0-thmjbt-1rk9y.uk.oshuawei.com
-  tls: true
-  type: http
-  username: 88f6e3c4-1d01-11ef-812c-f23c91cfbbc9
-- name: Unknown_http_1341
-  port: 9002
-  server: 84.239.49.175
-  skip-cert-verify: true
-  tls: true
-  type: http
-- client-fingerprint: chrome
-  name: Unknown_trojan_1342
-  network: ws
-  password: '666'
-  port: 443
-  server: saas.sin.fan
-  skip-cert-verify: false
-  sni: gdurt.ia6o.2s1.hh.penqiask.ccwu.cc
+  sni: yazhou10.dynu.net
   type: trojan
   udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/52.0.2743.116 Safari/537.36
-    path: /glasspanel/guest000_0_5de14443985f/
-- name: Unknown_http_1343
-  port: 9002
-  server: 84.239.14.157
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1344
-  port: 9002
-  server: 84.239.49.42
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1345
-  port: 9002
-  server: 84.239.49.249
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1346
-  port: 9002
-  server: 84.239.49.215
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- client-fingerprint: ios
-  encryption: none
-  flow: xtls-rprx-vision
-  name: Unknown_vless_1347
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: BiwY7Que5N4TjVfseuMWWC2AO1U8G196O1fEFocOK0w
-    short-id: 8004932d
-  server: 43.245.223.34
-  servername: cdn-dynmedia-1.microsoft.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  xudp: true
-- name: Unknown_http_1348
-  password: f93486ce-cc84-11ed-9e98-f23c913c8d2b
-  port: 443
-  server: 5af25128-t9zts0-tlvq5w-1jcwu.uk.oshuawei.com
-  sni: 5af25128-t9zts0-tlvq5w-1jcwu.uk.oshuawei.com
-  tls: true
-  type: http
-  username: f93486ce-cc84-11ed-9e98-f23c913c8d2b
-- down: ''
-  fingerprint: 8b030ede752eaba310e57045724bb5c9d53091b83407f0284b99c0e5f3e01695
-  name: Unknown_hysteria2_1349
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 50000
-  server: 203.10.99.51
-  skip-cert-verify: false
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- name: Unknown_http_1350
-  port: 9002
-  server: 84.239.49.233
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1351
-  port: 9002
-  server: 84.239.49.225
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1352
-  port: 9002
-  server: 84.239.14.147
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1353
-  port: 9002
-  server: 84.239.14.149
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1354
-  port: 9002
-  server: 84.239.49.223
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1355
-  port: 9002
-  server: 84.239.14.148
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1356
-  port: 9002
-  server: 84.239.49.57
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1357
-  port: 9002
-  server: 84.239.49.234
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1358
-  port: 9002
-  server: 84.239.49.227
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1359
-  port: 9002
-  server: 84.239.49.242
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1360
-  port: 9002
-  server: 84.239.49.164
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1361
-  port: 9002
-  server: 84.239.49.235
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1362
-  password: 19dd9c70-e4a5-11ed-8347-f23c9164ca5d
-  port: 443
-  server: af84ae3a-t9zts0-tbicd9-1go3q.jp.oshuawei.com
-  sni: af84ae3a-t9zts0-tbicd9-1go3q.jp.oshuawei.com
-  tls: true
-  type: http
-  username: 19dd9c70-e4a5-11ed-8347-f23c9164ca5d
-- name: Unknown_http_1363
-  port: 9002
-  server: 84.239.49.176
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1364
-  port: 9002
-  server: 84.239.49.160
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1365
-  port: 9002
-  server: 84.239.49.157
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1366
-  port: 9002
-  server: 84.239.49.40
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1367
-  port: 9002
-  server: 84.239.49.214
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1368
-  port: 9002
-  server: 84.239.49.245
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1369
-  port: 9002
-  server: 84.239.49.196
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1370
-  port: 9002
-  server: 84.239.14.160
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1371
-  port: 9002
-  server: 84.239.14.146
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1372
-  port: 9002
-  server: 84.239.49.199
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
 - client-fingerprint: chrome
-  name: Unknown_trojan_1373
-  network: ws
-  password: '521314'
-  port: 8443
-  server: 161.33.76.218
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/51.0.2704.103 Safari/537.36
-    path: /
-- down: ''
-  fingerprint: f766ff8b412486b706865c6cbc3db24958b60748cefdb9d4e5a1799a75034b3d
-  name: Unknown_hysteria2_1374
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 50000
-  server: 203.27.106.140
-  skip-cert-verify: false
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- name: Unknown_http_1375
-  port: 9002
-  server: 193.176.84.25
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1376
-  port: 9002
-  server: 84.239.49.162
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1377
-  port: 9002
-  server: 84.239.49.207
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1378
-  port: 9002
-  server: 84.239.49.202
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- client-fingerprint: safari
-  encryption: none
-  flow: xtls-rprx-vision
-  name: Unknown_vless_1379
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: bup-dr56at91n37SQwAMnsNtcmk44UQBGCYN8hkU0nQ
-    short-id: 903a1801
-  server: 140.238.101.15
-  servername: buylite.music.apple.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  xudp: true
-- name: Unknown_http_1380
-  port: 9002
-  server: 193.176.84.37
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1381
-  port: 9002
-  server: 84.239.49.253
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1382
-  port: 9002
-  server: 193.176.84.26
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1383
-  port: 9002
-  server: 84.239.49.38
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1384
-  port: 9002
-  server: 84.239.49.163
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1385
-  port: 9002
-  server: 84.239.49.156
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1386
-  port: 9002
-  server: 84.239.49.155
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1387
-  port: 9002
-  server: 84.239.49.166
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1388
-  port: 9002
-  server: 84.239.49.211
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1389
-  port: 9002
-  server: 84.239.49.39
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1390
-  port: 9002
-  server: 84.239.49.182
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1391
-  port: 9002
-  server: 84.239.49.219
-  skip-cert-verify: true
-  tls: true
-  type: http
-- client-fingerprint: qq
-  encryption: none
-  flow: xtls-rprx-vision
-  name: Unknown_vless_1392
-  network: tcp
-  port: 9443
-  reality-opts:
-    public-key: zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw
-    short-id: ''
-  server: 81.90.21.104
-  servername: se.realitynetwork.eu
-  tls: true
-  type: vless
-  udp: true
-  uuid: fe604665-7c82-44cf-a067-869fe9b2abae
-  xudp: true
-- name: Unknown_http_1393
-  port: 9002
-  server: 84.239.49.212
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_1394
-  port: 9002
-  server: 84.239.49.187
-  skip-cert-verify: true
-  tls: true
-  type: http
-- down: ''
-  fingerprint: 1d7995901a93bada6d17f10289441793e8ec54ee314d9f04f3a9d05daa622331
-  name: Unknown_hysteria2_1395
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 443
-  server: 203.10.98.186
-  skip-cert-verify: false
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- name: Unknown_http_1396
-  port: 9002
-  server: 84.239.49.247
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_1397
-  port: 9002
-  server: 84.239.49.161
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- client-fingerprint: chrome
-  name: Unknown_trojan_1398
-  network: ws
-  password: '521314'
-  port: 443
-  server: 126.220.82.161
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/56.0.2924.87 Safari/537.36
-    path: /
-- name: Unknown_http_1399
-  port: 9002
-  server: 84.239.49.239
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_13100
-  port: 9002
-  server: 84.239.49.170
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_13101
-  port: 9002
-  server: 84.239.14.158
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_13102
-  port: 9002
-  server: 84.239.49.231
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- cipher: 2022-blake3-aes-128-gcm
-  name: Unknown_ss_13103
-  password: YTE1ZWU4ZTEyZjc3YmEzZA==:Y2JhZTU3ODYtZjg3MC00NA==
-  plugin: gost-plugin
-  plugin-opts:
-    host: one.local
-    mode: websocket
-    mux: true
-    path: /ws
-    tls: false
-  port: 80
-  server: 104.128.72.119
-  type: ss
-  udp: true
-- client-fingerprint: chrome
-  name: Unknown_trojan_13104
-  network: ws
-  password: '521314'
-  port: 443
-  server: 129.212.232.171
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/63.0.3239.132 Safari/537.36
-    path: /
-- client-fingerprint: chrome
-  name: Unknown_trojan_13105
-  network: ws
-  password: '521314'
-  port: 443
-  server: 103.193.172.164
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/48.0.2564.116 Safari/537.36
-    path: /
-- name: Unknown_http_13106
-  port: 9002
-  server: 84.239.49.173
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_13107
-  port: 9002
-  server: 84.239.49.191
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_13108
-  password: a698c4a6-c3c9-11ee-9693-f23c91cfbbc9
-  port: 8443
-  server: b45e9721-te9j40-tfpmu9-1m0fq.isp.cdnkuaishou.com
-  sni: b45e9721-te9j40-tfpmu9-1m0fq.isp.cdnkuaishou.com
-  tls: true
-  type: http
-  username: a698c4a6-c3c9-11ee-9693-f23c91cfbbc9
-- name: Unknown_http_13109
-  password: e4499a62-0cfe-11eb-ad8c-f23c9164ca5d
-  port: 443
-  server: cac921d0-t9zts0-tpftcp-13x18.sjc.oshuawei.com
-  sni: cac921d0-t9zts0-tpftcp-13x18.sjc.oshuawei.com
-  tls: true
-  type: http
-  username: e4499a62-0cfe-11eb-ad8c-f23c9164ca5d
-- name: Unknown_http_13110
-  port: 9002
-  server: 84.239.49.185
-  skip-cert-verify: true
-  tls: true
-  type: http
-- client-fingerprint: safari
-  encryption: none
-  flow: xtls-rprx-vision
-  name: Unknown_vless_13111
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: ohHYewuCouiKzI-fFvhKzYY62m_oDtElS23sosvA6Wc
-    short-id: fbb5600c
-  server: 43.245.223.80
-  servername: osxapps.itunes.apple.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  xudp: true
-- name: Unknown_http_13112
-  password: aed1cc24-351d-11ef-ba52-f23c9164ca5d
-  port: 443
-  server: 3ce483da-t9zts0-tawg6w-1rfon.se.oshuawei.com
-  sni: 3ce483da-t9zts0-tawg6w-1rfon.se.oshuawei.com
-  tls: true
-  type: http
-  username: aed1cc24-351d-11ef-ba52-f23c9164ca5d
-- name: Unknown_http_13113
-  port: 9002
-  server: 84.239.49.201
-  skip-cert-verify: true
-  tls: true
-  type: http
-- down: ''
-  fingerprint: e4259572cf6be30b4a0bb58bf9be604d581683228ed1b8eb53c2e962bf351505
-  name: Unknown_hysteria2_13114
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 20000
-  server: 129.148.39.249
-  skip-cert-verify: false
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- name: Unknown_http_13115
-  port: 9002
-  server: 193.176.84.32
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- client-fingerprint: chrome
-  name: Unknown_trojan_13116
-  network: ws
-  password: '521314'
-  port: 8443
-  server: 116.251.216.23
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Linux; Android 6.0; vivo 1610 Build/MMB29M) AppleWebKit/537.36
-        (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36
-    path: /
-- name: Unknown_http_13117
-  port: 9002
-  server: 84.239.49.178
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- down: ''
-  fingerprint: e9dc6fe1a6e5314159f78fe1c4da3495dc8d39e792c0d692a612da7fc4807262
-  name: Unknown_hysteria2_13118
-  obfs: ''
-  obfs-password: ''
-  password: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  port: 20000
-  server: 108.181.23.249
-  skip-cert-verify: false
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- name: Unknown_http_13119
-  port: 9002
-  server: 84.239.49.240
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_13120
-  port: 9002
-  server: 84.239.49.254
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- client-fingerprint: chrome
-  name: Unknown_trojan_13121
-  network: ws
-  password: '521314'
-  port: 443
-  server: 129.212.239.178
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-        Chrome/65.0.3325.181 Safari/537.36
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: safari
-  name: Unknown_vmess_13122
-  network: tcp
-  port: 443
-  server: guanwang.awsno.com
-  servername: gw.alicdn.com
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 6a89a215-22bf-4bd7-9642-b95b2e09583a
-- client-fingerprint: chrome
-  name: Unknown_trojan_13123
-  network: ws
-  password: '521314'
-  port: 443
-  server: 134.209.101.154
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-        Chrome/70.0.3538.77 Safari/537.36
-    path: /
-- name: Unknown_http_13124
-  password: f7d95364-607b-11ee-93af-f23c91369f2d
-  port: 443
-  server: 326a16fe-tegxs0-tv7zgh-1ijh5.se.oshuawei.com
-  sni: 326a16fe-tegxs0-tv7zgh-1ijh5.se.oshuawei.com
-  tls: true
-  type: http
-  username: f7d95364-607b-11ee-93af-f23c91369f2d
-- client-fingerprint: chrome
-  name: Unknown_trojan_13125
-  network: ws
-  password: '521314'
-  port: 443
-  server: 128.199.82.20
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-        Chrome/70.0.3538.77 Safari/537.36
-    path: /
-- name: Unknown_http_13126
-  port: 9002
-  server: 84.239.14.159
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_13127
-  port: 9002
-  server: 193.176.84.19
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_http_13128
-  port: 9002
-  server: 84.239.14.152
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- name: Unknown_socks5_13129
-  port: 1080
-  server: 5.255.99.75
-  type: socks5
-- name: Unknown_http_13130
-  port: 9002
-  server: 84.239.49.37
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_13131
-  port: 9002
-  server: 84.239.49.224
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_13132
-  port: 9002
-  server: 193.176.84.31
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: true
-  type: http
-- alpn:
-  - h3
-  auth-str: dongtaiwang.com
-  down: '1000'
-  name: Unknown_hysteria_13133
-  port: 20088
-  protocol: udp
-  server: 5.83.129.153
-  skip-cert-verify: true
-  sni: apple.com
-  type: hysteria
-  up: '500'
-- down: ''
-  fingerprint: ''
-  name: Unknown_hysteria2_13134
-  obfs: ''
-  obfs-password: ''
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: vpn-de-002.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-de-002.fastervpn.world
-  type: hysteria2
-  up: ''
-- client-fingerprint: chrome
-  name: Unknown_trojan_13135
+  name: Unknown_trojan_13108
   network: ws
   password: '521314'
   port: 8443
@@ -135647,42 +136071,23 @@ proxies:
       User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
         like Gecko) Chrome/70.0.3538.67 Safari/537.36
     path: /
-- name: Unknown_http_13136
-  port: 9002
-  server: 84.239.49.198
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_socks5_13137
-  password: ''
-  port: 1090
-  server: 121.169.46.116
-  skip-cert-verify: true
-  type: socks5
-  username: ''
-- name: Unknown_http_13138
-  port: 9002
-  server: 84.239.49.154
-  skip-cert-verify: true
-  tls: true
-  type: http
 - down: ''
   fingerprint: ''
-  name: Unknown_hysteria2_13139
-  obfs: salamander
-  obfs-password: eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=
-  password: f7cb07a0-e6f9-4d22-a60e-c61854450c89
-  port: 443
-  server: vn2.yuntong.click
-  skip-cert-verify: false
-  sni: vn2.yuntong.click
+  name: Unknown_hysteria2_13109
+  obfs: ''
+  obfs-password: ''
+  password: 35415e5e-3666-4454-8c45-903af0fcddf4
+  port: 47257
+  server: 85.120.228.208
+  skip-cert-verify: true
+  sni: www.bing.com
   type: hysteria2
   up: ''
 - alpn:
   - h3
   auth_str: dongtaiwang.com
   down: '1000'
-  name: Unknown_hysteria_13140
+  name: Unknown_hysteria_13110
   obfs: ''
   port: 54177
   protocol: udp
@@ -135691,35 +136096,38 @@ proxies:
   sni: apple.com
   type: hysteria
   up: '500'
-- client-fingerprint: chrome
-  name: Unknown_trojan_13141
-  network: ws
-  password: '521314'
-  port: 443
-  server: 104.253.175.202
+- alpn:
+  - h3
+  auth-str: dongtaiwang.com
+  down: '1000'
+  name: Unknown_hysteria_13111
+  port: 20088
+  protocol: udp
+  server: 5.83.129.153
   skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
+  sni: apple.com
+  type: hysteria
+  up: '500'
+- name: Unknown_socks5_13112
+  port: 1090
+  server: 121.169.46.116
+  tls: false
+  type: socks5
+  username: Og%3D%3D
+- cipher: 2022-blake3-aes-128-gcm
+  name: Unknown_ss_13113
+  password: YTE1ZWU4ZTEyZjc3YmEzZA==:Y2JhZTU3ODYtZjg3MC00NA==
+  plugin: gost-plugin
+  plugin-opts:
+    host: one.local
+    mode: websocket
+    mux: true
+    path: /ws
+    tls: false
+  port: 80
+  server: 104.128.72.119
+  type: ss
   udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/45.0.2454.101 Safari/537.36
-    path: /
-- name: Unknown_http_13142
-  port: 9002
-  server: 193.176.84.39
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_13143
-  password: 5dc6fa05-a601-aba6-7761-ecde22d2b0fc
-  port: 443
-  server: eac88fe8-t9zts0-tonrmx-8n27.fr.oshuawei.com
-  sni: eac88fe8-t9zts0-tonrmx-8n27.fr.oshuawei.com
-  tls: true
-  type: http
-  username: 5dc6fa05-a601-aba6-7761-ecde22d2b0fc
 - client-fingerprint: firefox
   encryption: none
   flow: xtls-rprx-vision
@@ -135727,7 +136135,7 @@ proxies:
     headers: {}
     path:
     - /
-  name: Unknown_vless_13144
+  name: Unknown_vless_13114
   network: tcp
   port: 443
   reality-opts:
@@ -135740,128 +136148,44 @@ proxies:
   udp: true
   uuid: a5ea9247-79f3-4655-aece-3fb51e1e669e
   xudp: true
-- client-fingerprint: safari
-  encryption: none
-  flow: xtls-rprx-vision
-  name: Unknown_vless_13145
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: CxZKPoPJmBg2SSXYFRoasAPw-f_ESjRxr1fySPgrG3g
-    short-id: e3a0f28a
-  server: 141.147.33.180
-  servername: music.apple.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  xudp: true
 - down: ''
   fingerprint: ''
-  name: Unknown_hysteria2_13146
+  name: Unknown_hysteria2_13115
   obfs: salamander
   obfs-password: eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=
   password: f7cb07a0-e6f9-4d22-a60e-c61854450c89
   port: 443
-  server: ff2.yuntong.click
+  server: vn2.yuntong.click
   skip-cert-verify: false
-  sni: ff2.yuntong.click
+  sni: vn2.yuntong.click
   type: hysteria2
   up: ''
-- client-fingerprint: safari
-  encryption: none
-  flow: xtls-rprx-vision
-  name: Unknown_vless_13147
+- alterId: 2
+  cipher: auto
+  name: Unknown_vmess_13116
   network: tcp
-  port: 443
-  reality-opts:
-    public-key: cu2H4WP9LU3ZdD85MNr8w4jUS79Wx6YVUxVeRGVBQyc
-    short-id: be05a235
-  server: 144.24.206.147
-  servername: tv.apple.com
-  tls: true
-  type: vless
+  port: 30845
+  server: v45.hdacd.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
   udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   xudp: true
 - client-fingerprint: chrome
   encryption: none
-  flow: xtls-rprx-vision
-  name: Unknown_vless_13148
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 1utdJ0YWFpPYbH-bfIkfGgSebhByfttArVtO9iSlwFM
-    short-id: '30194285'
-  server: 192.9.142.185
-  servername: www.mi.com
+  grpc-opts:
+    grpc-service-name: ljfxz
+  name: Unknown_vless_13117
+  network: grpc
+  port: 46783
+  server: t1.hhaakk9922.com
+  servername: t1.hhaakk9922.com
   tls: true
   type: vless
   udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
+  uuid: eefe7517-7167-33e0-8f1d-8ea1aaca7098
   xudp: true
-- client-fingerprint: chrome
-  name: Unknown_trojan_13149
-  network: ws
-  password: '521314'
-  port: 443
-  server: 109.121.39.70
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/57.0.2987.133 Safari/537.36
-    path: /
-- client-fingerprint: chrome
-  encryption: none
-  flow: xtls-rprx-vision
-  name: Unknown_vless_13150
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 48Fc8APUOtIJDFrpdULD7Sr7Z7NVp_0K1H9u4LcmfmE
-    short-id: 67fed015
-  server: 165.1.68.155
-  servername: www.mi.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  xudp: true
-- client-fingerprint: chrome
-  encryption: none
-  flow: xtls-rprx-vision
-  name: Unknown_vless_13151
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 9G1Wl-72Sn9N5kjgUm4LGPkG1f6EjJUxbpGqIxUChXo
-    short-id: c07250e9
-  server: 43.245.223.56
-  servername: iosapps.itunes.apple.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9fabd059-3e9a-49da-abcf-077faf0b451f
-  xudp: true
-- client-fingerprint: chrome
-  name: Unknown_trojan_13152
-  network: ws
-  password: '521314'
-  port: 443
-  server: 129.212.225.217
-  skip-cert-verify: true
-  sni: tjplay.lxdxo.kdns.fr
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; SM-J111M Build/LMY47V) AppleWebKit/537.36
-        (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
-    path: /
 - name: Unknown_trojan_141
   server: concise-buck.rooster465.autos
   type: trojan
@@ -137596,6 +137920,18 @@ proxy-groups:
   - Unknown_trojan_016
   - Unknown_trojan_017
   - Unknown_trojan_018
+  - Unknown_trojan_019
+  - Unknown_trojan_020
+  - Unknown_trojan_021
+  - Unknown_trojan_022
+  - Unknown_trojan_023
+  - Unknown_trojan_024
+  - Unknown_trojan_025
+  - Unknown_trojan_026
+  - Unknown_trojan_027
+  - Unknown_trojan_028
+  - Unknown_trojan_029
+  - Unknown_trojan_030
   - Unknown_vmess_11
   - Unknown_vmess_12
   - Unknown_vmess_13
@@ -137619,16 +137955,18 @@ proxy-groups:
   - Unknown_trojan_121
   - Unknown_trojan_122
   - Unknown_trojan_123
-  - Unknown_vmess_124
-  - Unknown_trojan_125
-  - Unknown_trojan_126
-  - Unknown_trojan_127
+  - Unknown_trojan_124
+  - Unknown_vmess_125
+  - Unknown_vmess_126
+  - Unknown_ss_127
   - Unknown_ss_128
   - Unknown_vmess_129
-  - Unknown_trojan_130
-  - Unknown_trojan_131
+  - Unknown_ss_130
+  - Unknown_ss_131
   - Unknown_trojan_132
   - Unknown_trojan_133
+  - Unknown_trojan_134
+  - Unknown_trojan_135
   - Unknown_vless_41
   - Unknown_vless_42
   - Unknown_vmess_43
@@ -143146,6 +143484,18 @@ proxy-groups:
   - Unknown_trojan_816
   - Unknown_trojan_817
   - Unknown_trojan_818
+  - Unknown_trojan_819
+  - Unknown_trojan_820
+  - Unknown_trojan_821
+  - Unknown_trojan_822
+  - Unknown_trojan_823
+  - Unknown_trojan_824
+  - Unknown_trojan_825
+  - Unknown_trojan_826
+  - Unknown_trojan_827
+  - Unknown_trojan_828
+  - Unknown_trojan_829
+  - Unknown_trojan_830
   - Unknown_trojan_91
   - Unknown_vless_92
   - Unknown_ss_93
@@ -143248,10 +143598,10 @@ proxy-groups:
   - Unknown_hysteria2_1039
   - Unknown_hysteria2_1040
   - Unknown_hysteria2_1041
-  - Unknown_hysteria2_1042
-  - Unknown_hysteria2_1043
-  - Unknown_ss_1044
-  - Unknown_vmess_1045
+  - Unknown_ss_1042
+  - Unknown_vmess_1043
+  - Unknown_trojan_1044
+  - Unknown_trojan_1045
   - Unknown_trojan_1046
   - Unknown_trojan_1047
   - Unknown_trojan_1048
@@ -143262,32 +143612,32 @@ proxy-groups:
   - Unknown_trojan_1053
   - Unknown_trojan_1054
   - Unknown_trojan_1055
-  - Unknown_trojan_1056
-  - Unknown_vmess_1057
-  - Unknown_trojan_1058
-  - Unknown_trojan_1059
-  - Unknown_trojan_1060
-  - Unknown_ss_1061
-  - Unknown_vless_1062
-  - Unknown_vless_1063
-  - Unknown_vless_1064
-  - Unknown_vmess_1065
-  - Unknown_vless_1066
-  - Unknown_vless_1067
-  - Unknown_trojan_1068
-  - Unknown_vless_1069
+  - Unknown_vmess_1056
+  - Unknown_http_1057
+  - Unknown_http_1058
+  - Unknown_http_1059
+  - Unknown_http_1060
+  - Unknown_http_1061
+  - Unknown_http_1062
+  - Unknown_http_1063
+  - Unknown_http_1064
+  - Unknown_http_1065
+  - Unknown_http_1066
+  - Unknown_http_1067
+  - Unknown_http_1068
+  - Unknown_http_1069
   - Unknown_http_1070
-  - Unknown_trojan_1071
-  - Unknown_http_1072
-  - Unknown_http_1073
-  - Unknown_http_1074
+  - Unknown_http_1071
+  - Unknown_vless_1072
+  - Unknown_vless_1073
+  - Unknown_vmess_1074
   - Unknown_vless_1075
   - Unknown_vless_1076
   - Unknown_vless_1077
   - Unknown_vless_1078
   - Unknown_vless_1079
-  - Unknown_http_1080
-  - Unknown_trojan_1081
+  - Unknown_vless_1080
+  - Unknown_vless_1081
   - Unknown_http_1082
   - Unknown_http_1083
   - Unknown_http_1084
@@ -143310,29 +143660,92 @@ proxy-groups:
   - Unknown_http_10101
   - Unknown_http_10102
   - Unknown_http_10103
-  - Unknown_http_10104
-  - Unknown_http_10105
-  - Unknown_http_10106
-  - Unknown_http_10107
-  - Unknown_http_10108
-  - Unknown_http_10109
-  - Unknown_http_10110
-  - Unknown_http_10111
-  - Unknown_http_10112
-  - Unknown_http_10113
-  - Unknown_http_10114
-  - Unknown_http_10115
-  - Unknown_http_10116
-  - Unknown_http_10117
+  - Unknown_ss_10104
+  - Unknown_ss_10105
+  - Unknown_vless_10106
+  - Unknown_vless_10107
+  - Unknown_vless_10108
+  - Unknown_vless_10109
+  - Unknown_vless_10110
+  - Unknown_vless_10111
+  - Unknown_vless_10112
+  - Unknown_vless_10113
+  - Unknown_vless_10114
+  - Unknown_vless_10115
+  - Unknown_vless_10116
+  - Unknown_vless_10117
   - Unknown_vless_10118
   - Unknown_vless_10119
   - Unknown_vless_10120
-  - Unknown_http_10121
-  - Unknown_http_10122
-  - Unknown_http_10123
-  - Unknown_http_10124
-  - Unknown_http_10125
-  - Unknown_trojan_10126
+  - Unknown_vless_10121
+  - Unknown_vless_10122
+  - Unknown_vless_10123
+  - Unknown_vmess_10124
+  - Unknown_ss_10125
+  - Unknown_http_10126
+  - Unknown_ss_10127
+  - Unknown_http_10128
+  - Unknown_http_10129
+  - Unknown_http_10130
+  - Unknown_http_10131
+  - Unknown_http_10132
+  - Unknown_http_10133
+  - Unknown_http_10134
+  - Unknown_http_10135
+  - Unknown_http_10136
+  - Unknown_http_10137
+  - Unknown_http_10138
+  - Unknown_http_10139
+  - Unknown_http_10140
+  - Unknown_http_10141
+  - Unknown_http_10142
+  - Unknown_http_10143
+  - Unknown_http_10144
+  - Unknown_http_10145
+  - Unknown_http_10146
+  - Unknown_http_10147
+  - Unknown_socks5_10148
+  - Unknown_http_10149
+  - Unknown_trojan_10150
+  - Unknown_vless_10151
+  - Unknown_http_10152
+  - Unknown_trojan_10153
+  - Unknown_http_10154
+  - Unknown_http_10155
+  - Unknown_http_10156
+  - Unknown_vless_10157
+  - Unknown_vless_10158
+  - Unknown_vless_10159
+  - Unknown_vless_10160
+  - Unknown_vless_10161
+  - Unknown_http_10162
+  - Unknown_trojan_10163
+  - Unknown_http_10164
+  - Unknown_http_10165
+  - Unknown_http_10166
+  - Unknown_http_10167
+  - Unknown_http_10168
+  - Unknown_http_10169
+  - Unknown_http_10170
+  - Unknown_http_10171
+  - Unknown_http_10172
+  - Unknown_http_10173
+  - Unknown_http_10174
+  - Unknown_http_10175
+  - Unknown_http_10176
+  - Unknown_http_10177
+  - Unknown_http_10178
+  - Unknown_http_10179
+  - Unknown_http_10180
+  - Unknown_vless_10181
+  - Unknown_vless_10182
+  - Unknown_vless_10183
+  - Unknown_http_10184
+  - Unknown_http_10185
+  - Unknown_http_10186
+  - Unknown_http_10187
+  - Unknown_http_10188
+  - Unknown_trojan_10189
   - Unknown_vmess_111
   - Unknown_vmess_112
   - Unknown_vmess_113
@@ -149212,56 +149625,56 @@ proxy-groups:
   - Unknown_vless_131
   - Unknown_vless_132
   - Unknown_vless_133
-  - Unknown_trojan_134
-  - Unknown_trojan_135
+  - Unknown_http_134
+  - Unknown_http_135
   - Unknown_hysteria2_136
-  - Unknown_hysteria2_137
+  - Unknown_http_137
   - Unknown_http_138
-  - Unknown_hysteria2_139
-  - Unknown_mieru_1310
-  - Unknown_http_1311
+  - Unknown_mieru_139
+  - Unknown_hysteria2_1310
+  - Unknown_vmess_1311
   - Unknown_http_1312
-  - Unknown_vless_1313
-  - Unknown_anytls_1314
-  - Unknown_vless_1315
-  - Unknown_trojan_1316
-  - Unknown_hysteria2_1317
+  - Unknown_http_1313
+  - Unknown_http_1314
+  - Unknown_http_1315
+  - Unknown_http_1316
+  - Unknown_vless_1317
   - Unknown_http_1318
   - Unknown_http_1319
   - Unknown_http_1320
   - Unknown_http_1321
   - Unknown_http_1322
-  - Unknown_trojan_1323
-  - Unknown_vless_1324
+  - Unknown_http_1323
+  - Unknown_http_1324
   - Unknown_http_1325
   - Unknown_http_1326
-  - Unknown_hysteria2_1327
-  - Unknown_hysteria2_1328
+  - Unknown_http_1327
+  - Unknown_http_1328
   - Unknown_http_1329
   - Unknown_http_1330
   - Unknown_http_1331
   - Unknown_http_1332
-  - Unknown_hysteria2_1333
+  - Unknown_http_1333
   - Unknown_http_1334
   - Unknown_http_1335
   - Unknown_http_1336
   - Unknown_http_1337
   - Unknown_http_1338
-  - Unknown_hysteria2_1339
+  - Unknown_http_1339
   - Unknown_http_1340
   - Unknown_http_1341
-  - Unknown_trojan_1342
+  - Unknown_http_1342
   - Unknown_http_1343
   - Unknown_http_1344
   - Unknown_http_1345
   - Unknown_http_1346
-  - Unknown_vless_1347
+  - Unknown_http_1347
   - Unknown_http_1348
-  - Unknown_hysteria2_1349
+  - Unknown_http_1349
   - Unknown_http_1350
   - Unknown_http_1351
   - Unknown_http_1352
-  - Unknown_http_1353
+  - Unknown_ss_1353
   - Unknown_http_1354
   - Unknown_http_1355
   - Unknown_http_1356
@@ -149281,13 +149694,13 @@ proxy-groups:
   - Unknown_http_1370
   - Unknown_http_1371
   - Unknown_http_1372
-  - Unknown_trojan_1373
-  - Unknown_hysteria2_1374
+  - Unknown_http_1373
+  - Unknown_http_1374
   - Unknown_http_1375
   - Unknown_http_1376
   - Unknown_http_1377
   - Unknown_http_1378
-  - Unknown_vless_1379
+  - Unknown_http_1379
   - Unknown_http_1380
   - Unknown_http_1381
   - Unknown_http_1382
@@ -149298,69 +149711,34 @@ proxy-groups:
   - Unknown_http_1387
   - Unknown_http_1388
   - Unknown_http_1389
-  - Unknown_http_1390
+  - Unknown_vless_1390
   - Unknown_http_1391
-  - Unknown_vless_1392
+  - Unknown_http_1392
   - Unknown_http_1393
   - Unknown_http_1394
-  - Unknown_hysteria2_1395
+  - Unknown_socks5_1395
   - Unknown_http_1396
   - Unknown_http_1397
-  - Unknown_trojan_1398
+  - Unknown_http_1398
   - Unknown_http_1399
   - Unknown_http_13100
   - Unknown_http_13101
   - Unknown_http_13102
-  - Unknown_ss_13103
-  - Unknown_trojan_13104
-  - Unknown_trojan_13105
-  - Unknown_http_13106
-  - Unknown_http_13107
-  - Unknown_http_13108
-  - Unknown_http_13109
-  - Unknown_http_13110
-  - Unknown_vless_13111
-  - Unknown_http_13112
-  - Unknown_http_13113
-  - Unknown_hysteria2_13114
-  - Unknown_http_13115
-  - Unknown_trojan_13116
-  - Unknown_http_13117
-  - Unknown_hysteria2_13118
-  - Unknown_http_13119
-  - Unknown_http_13120
-  - Unknown_trojan_13121
-  - Unknown_vmess_13122
-  - Unknown_trojan_13123
-  - Unknown_http_13124
-  - Unknown_trojan_13125
-  - Unknown_http_13126
-  - Unknown_http_13127
-  - Unknown_http_13128
-  - Unknown_socks5_13129
-  - Unknown_http_13130
-  - Unknown_http_13131
-  - Unknown_http_13132
-  - Unknown_hysteria_13133
-  - Unknown_hysteria2_13134
-  - Unknown_trojan_13135
-  - Unknown_http_13136
-  - Unknown_socks5_13137
-  - Unknown_http_13138
-  - Unknown_hysteria2_13139
-  - Unknown_hysteria_13140
-  - Unknown_trojan_13141
-  - Unknown_http_13142
-  - Unknown_http_13143
-  - Unknown_vless_13144
-  - Unknown_vless_13145
-  - Unknown_hysteria2_13146
-  - Unknown_vless_13147
-  - Unknown_vless_13148
-  - Unknown_trojan_13149
-  - Unknown_vless_13150
-  - Unknown_vless_13151
-  - Unknown_trojan_13152
+  - Unknown_http_13103
+  - Unknown_http_13104
+  - Unknown_vless_13105
+  - Unknown_trojan_13106
+  - Unknown_trojan_13107
+  - Unknown_trojan_13108
+  - Unknown_hysteria2_13109
+  - Unknown_hysteria_13110
+  - Unknown_hysteria_13111
+  - Unknown_socks5_13112
+  - Unknown_ss_13113
+  - Unknown_vless_13114
+  - Unknown_hysteria2_13115
+  - Unknown_vmess_13116
+  - Unknown_vless_13117
   - Unknown_trojan_141
   - Unknown_trojan_142
   - Unknown_ss_143
@@ -149508,6 +149886,18 @@ proxy-groups:
   - Unknown_trojan_016
   - Unknown_trojan_017
   - Unknown_trojan_018
+  - Unknown_trojan_019
+  - Unknown_trojan_020
+  - Unknown_trojan_021
+  - Unknown_trojan_022
+  - Unknown_trojan_023
+  - Unknown_trojan_024
+  - Unknown_trojan_025
+  - Unknown_trojan_026
+  - Unknown_trojan_027
+  - Unknown_trojan_028
+  - Unknown_trojan_029
+  - Unknown_trojan_030
   - Unknown_vmess_11
   - Unknown_vmess_12
   - Unknown_vmess_13
@@ -149531,16 +149921,18 @@ proxy-groups:
   - Unknown_trojan_121
   - Unknown_trojan_122
   - Unknown_trojan_123
-  - Unknown_vmess_124
-  - Unknown_trojan_125
-  - Unknown_trojan_126
-  - Unknown_trojan_127
+  - Unknown_trojan_124
+  - Unknown_vmess_125
+  - Unknown_vmess_126
+  - Unknown_ss_127
   - Unknown_ss_128
   - Unknown_vmess_129
-  - Unknown_trojan_130
-  - Unknown_trojan_131
+  - Unknown_ss_130
+  - Unknown_ss_131
   - Unknown_trojan_132
   - Unknown_trojan_133
+  - Unknown_trojan_134
+  - Unknown_trojan_135
   - Unknown_vless_41
   - Unknown_vless_42
   - Unknown_vmess_43
@@ -155058,6 +155450,18 @@ proxy-groups:
   - Unknown_trojan_816
   - Unknown_trojan_817
   - Unknown_trojan_818
+  - Unknown_trojan_819
+  - Unknown_trojan_820
+  - Unknown_trojan_821
+  - Unknown_trojan_822
+  - Unknown_trojan_823
+  - Unknown_trojan_824
+  - Unknown_trojan_825
+  - Unknown_trojan_826
+  - Unknown_trojan_827
+  - Unknown_trojan_828
+  - Unknown_trojan_829
+  - Unknown_trojan_830
   - Unknown_trojan_91
   - Unknown_vless_92
   - Unknown_ss_93
@@ -155160,10 +155564,10 @@ proxy-groups:
   - Unknown_hysteria2_1039
   - Unknown_hysteria2_1040
   - Unknown_hysteria2_1041
-  - Unknown_hysteria2_1042
-  - Unknown_hysteria2_1043
-  - Unknown_ss_1044
-  - Unknown_vmess_1045
+  - Unknown_ss_1042
+  - Unknown_vmess_1043
+  - Unknown_trojan_1044
+  - Unknown_trojan_1045
   - Unknown_trojan_1046
   - Unknown_trojan_1047
   - Unknown_trojan_1048
@@ -155174,32 +155578,32 @@ proxy-groups:
   - Unknown_trojan_1053
   - Unknown_trojan_1054
   - Unknown_trojan_1055
-  - Unknown_trojan_1056
-  - Unknown_vmess_1057
-  - Unknown_trojan_1058
-  - Unknown_trojan_1059
-  - Unknown_trojan_1060
-  - Unknown_ss_1061
-  - Unknown_vless_1062
-  - Unknown_vless_1063
-  - Unknown_vless_1064
-  - Unknown_vmess_1065
-  - Unknown_vless_1066
-  - Unknown_vless_1067
-  - Unknown_trojan_1068
-  - Unknown_vless_1069
+  - Unknown_vmess_1056
+  - Unknown_http_1057
+  - Unknown_http_1058
+  - Unknown_http_1059
+  - Unknown_http_1060
+  - Unknown_http_1061
+  - Unknown_http_1062
+  - Unknown_http_1063
+  - Unknown_http_1064
+  - Unknown_http_1065
+  - Unknown_http_1066
+  - Unknown_http_1067
+  - Unknown_http_1068
+  - Unknown_http_1069
   - Unknown_http_1070
-  - Unknown_trojan_1071
-  - Unknown_http_1072
-  - Unknown_http_1073
-  - Unknown_http_1074
+  - Unknown_http_1071
+  - Unknown_vless_1072
+  - Unknown_vless_1073
+  - Unknown_vmess_1074
   - Unknown_vless_1075
   - Unknown_vless_1076
   - Unknown_vless_1077
   - Unknown_vless_1078
   - Unknown_vless_1079
-  - Unknown_http_1080
-  - Unknown_trojan_1081
+  - Unknown_vless_1080
+  - Unknown_vless_1081
   - Unknown_http_1082
   - Unknown_http_1083
   - Unknown_http_1084
@@ -155222,29 +155626,92 @@ proxy-groups:
   - Unknown_http_10101
   - Unknown_http_10102
   - Unknown_http_10103
-  - Unknown_http_10104
-  - Unknown_http_10105
-  - Unknown_http_10106
-  - Unknown_http_10107
-  - Unknown_http_10108
-  - Unknown_http_10109
-  - Unknown_http_10110
-  - Unknown_http_10111
-  - Unknown_http_10112
-  - Unknown_http_10113
-  - Unknown_http_10114
-  - Unknown_http_10115
-  - Unknown_http_10116
-  - Unknown_http_10117
+  - Unknown_ss_10104
+  - Unknown_ss_10105
+  - Unknown_vless_10106
+  - Unknown_vless_10107
+  - Unknown_vless_10108
+  - Unknown_vless_10109
+  - Unknown_vless_10110
+  - Unknown_vless_10111
+  - Unknown_vless_10112
+  - Unknown_vless_10113
+  - Unknown_vless_10114
+  - Unknown_vless_10115
+  - Unknown_vless_10116
+  - Unknown_vless_10117
   - Unknown_vless_10118
   - Unknown_vless_10119
   - Unknown_vless_10120
-  - Unknown_http_10121
-  - Unknown_http_10122
-  - Unknown_http_10123
-  - Unknown_http_10124
-  - Unknown_http_10125
-  - Unknown_trojan_10126
+  - Unknown_vless_10121
+  - Unknown_vless_10122
+  - Unknown_vless_10123
+  - Unknown_vmess_10124
+  - Unknown_ss_10125
+  - Unknown_http_10126
+  - Unknown_ss_10127
+  - Unknown_http_10128
+  - Unknown_http_10129
+  - Unknown_http_10130
+  - Unknown_http_10131
+  - Unknown_http_10132
+  - Unknown_http_10133
+  - Unknown_http_10134
+  - Unknown_http_10135
+  - Unknown_http_10136
+  - Unknown_http_10137
+  - Unknown_http_10138
+  - Unknown_http_10139
+  - Unknown_http_10140
+  - Unknown_http_10141
+  - Unknown_http_10142
+  - Unknown_http_10143
+  - Unknown_http_10144
+  - Unknown_http_10145
+  - Unknown_http_10146
+  - Unknown_http_10147
+  - Unknown_socks5_10148
+  - Unknown_http_10149
+  - Unknown_trojan_10150
+  - Unknown_vless_10151
+  - Unknown_http_10152
+  - Unknown_trojan_10153
+  - Unknown_http_10154
+  - Unknown_http_10155
+  - Unknown_http_10156
+  - Unknown_vless_10157
+  - Unknown_vless_10158
+  - Unknown_vless_10159
+  - Unknown_vless_10160
+  - Unknown_vless_10161
+  - Unknown_http_10162
+  - Unknown_trojan_10163
+  - Unknown_http_10164
+  - Unknown_http_10165
+  - Unknown_http_10166
+  - Unknown_http_10167
+  - Unknown_http_10168
+  - Unknown_http_10169
+  - Unknown_http_10170
+  - Unknown_http_10171
+  - Unknown_http_10172
+  - Unknown_http_10173
+  - Unknown_http_10174
+  - Unknown_http_10175
+  - Unknown_http_10176
+  - Unknown_http_10177
+  - Unknown_http_10178
+  - Unknown_http_10179
+  - Unknown_http_10180
+  - Unknown_vless_10181
+  - Unknown_vless_10182
+  - Unknown_vless_10183
+  - Unknown_http_10184
+  - Unknown_http_10185
+  - Unknown_http_10186
+  - Unknown_http_10187
+  - Unknown_http_10188
+  - Unknown_trojan_10189
   - Unknown_vmess_111
   - Unknown_vmess_112
   - Unknown_vmess_113
@@ -161124,56 +161591,56 @@ proxy-groups:
   - Unknown_vless_131
   - Unknown_vless_132
   - Unknown_vless_133
-  - Unknown_trojan_134
-  - Unknown_trojan_135
+  - Unknown_http_134
+  - Unknown_http_135
   - Unknown_hysteria2_136
-  - Unknown_hysteria2_137
+  - Unknown_http_137
   - Unknown_http_138
-  - Unknown_hysteria2_139
-  - Unknown_mieru_1310
-  - Unknown_http_1311
+  - Unknown_mieru_139
+  - Unknown_hysteria2_1310
+  - Unknown_vmess_1311
   - Unknown_http_1312
-  - Unknown_vless_1313
-  - Unknown_anytls_1314
-  - Unknown_vless_1315
-  - Unknown_trojan_1316
-  - Unknown_hysteria2_1317
+  - Unknown_http_1313
+  - Unknown_http_1314
+  - Unknown_http_1315
+  - Unknown_http_1316
+  - Unknown_vless_1317
   - Unknown_http_1318
   - Unknown_http_1319
   - Unknown_http_1320
   - Unknown_http_1321
   - Unknown_http_1322
-  - Unknown_trojan_1323
-  - Unknown_vless_1324
+  - Unknown_http_1323
+  - Unknown_http_1324
   - Unknown_http_1325
   - Unknown_http_1326
-  - Unknown_hysteria2_1327
-  - Unknown_hysteria2_1328
+  - Unknown_http_1327
+  - Unknown_http_1328
   - Unknown_http_1329
   - Unknown_http_1330
   - Unknown_http_1331
   - Unknown_http_1332
-  - Unknown_hysteria2_1333
+  - Unknown_http_1333
   - Unknown_http_1334
   - Unknown_http_1335
   - Unknown_http_1336
   - Unknown_http_1337
   - Unknown_http_1338
-  - Unknown_hysteria2_1339
+  - Unknown_http_1339
   - Unknown_http_1340
   - Unknown_http_1341
-  - Unknown_trojan_1342
+  - Unknown_http_1342
   - Unknown_http_1343
   - Unknown_http_1344
   - Unknown_http_1345
   - Unknown_http_1346
-  - Unknown_vless_1347
+  - Unknown_http_1347
   - Unknown_http_1348
-  - Unknown_hysteria2_1349
+  - Unknown_http_1349
   - Unknown_http_1350
   - Unknown_http_1351
   - Unknown_http_1352
-  - Unknown_http_1353
+  - Unknown_ss_1353
   - Unknown_http_1354
   - Unknown_http_1355
   - Unknown_http_1356
@@ -161193,13 +161660,13 @@ proxy-groups:
   - Unknown_http_1370
   - Unknown_http_1371
   - Unknown_http_1372
-  - Unknown_trojan_1373
-  - Unknown_hysteria2_1374
+  - Unknown_http_1373
+  - Unknown_http_1374
   - Unknown_http_1375
   - Unknown_http_1376
   - Unknown_http_1377
   - Unknown_http_1378
-  - Unknown_vless_1379
+  - Unknown_http_1379
   - Unknown_http_1380
   - Unknown_http_1381
   - Unknown_http_1382
@@ -161210,69 +161677,34 @@ proxy-groups:
   - Unknown_http_1387
   - Unknown_http_1388
   - Unknown_http_1389
-  - Unknown_http_1390
+  - Unknown_vless_1390
   - Unknown_http_1391
-  - Unknown_vless_1392
+  - Unknown_http_1392
   - Unknown_http_1393
   - Unknown_http_1394
-  - Unknown_hysteria2_1395
+  - Unknown_socks5_1395
   - Unknown_http_1396
   - Unknown_http_1397
-  - Unknown_trojan_1398
+  - Unknown_http_1398
   - Unknown_http_1399
   - Unknown_http_13100
   - Unknown_http_13101
   - Unknown_http_13102
-  - Unknown_ss_13103
-  - Unknown_trojan_13104
-  - Unknown_trojan_13105
-  - Unknown_http_13106
-  - Unknown_http_13107
-  - Unknown_http_13108
-  - Unknown_http_13109
-  - Unknown_http_13110
-  - Unknown_vless_13111
-  - Unknown_http_13112
-  - Unknown_http_13113
-  - Unknown_hysteria2_13114
-  - Unknown_http_13115
-  - Unknown_trojan_13116
-  - Unknown_http_13117
-  - Unknown_hysteria2_13118
-  - Unknown_http_13119
-  - Unknown_http_13120
-  - Unknown_trojan_13121
-  - Unknown_vmess_13122
-  - Unknown_trojan_13123
-  - Unknown_http_13124
-  - Unknown_trojan_13125
-  - Unknown_http_13126
-  - Unknown_http_13127
-  - Unknown_http_13128
-  - Unknown_socks5_13129
-  - Unknown_http_13130
-  - Unknown_http_13131
-  - Unknown_http_13132
-  - Unknown_hysteria_13133
-  - Unknown_hysteria2_13134
-  - Unknown_trojan_13135
-  - Unknown_http_13136
-  - Unknown_socks5_13137
-  - Unknown_http_13138
-  - Unknown_hysteria2_13139
-  - Unknown_hysteria_13140
-  - Unknown_trojan_13141
-  - Unknown_http_13142
-  - Unknown_http_13143
-  - Unknown_vless_13144
-  - Unknown_vless_13145
-  - Unknown_hysteria2_13146
-  - Unknown_vless_13147
-  - Unknown_vless_13148
-  - Unknown_trojan_13149
-  - Unknown_vless_13150
-  - Unknown_vless_13151
-  - Unknown_trojan_13152
+  - Unknown_http_13103
+  - Unknown_http_13104
+  - Unknown_vless_13105
+  - Unknown_trojan_13106
+  - Unknown_trojan_13107
+  - Unknown_trojan_13108
+  - Unknown_hysteria2_13109
+  - Unknown_hysteria_13110
+  - Unknown_hysteria_13111
+  - Unknown_socks5_13112
+  - Unknown_ss_13113
+  - Unknown_vless_13114
+  - Unknown_hysteria2_13115
+  - Unknown_vmess_13116
+  - Unknown_vless_13117
   - Unknown_trojan_141
   - Unknown_trojan_142
   - Unknown_ss_143
