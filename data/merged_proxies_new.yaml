@@ -335,524 +335,576 @@ proxies:
   name: Unknown_ss_047
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.63
+  server: 149.50.215.234
   type: ss
-  udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_048
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.54
+  server: 202.50.253.63
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_049
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.72
+  server: 202.50.253.54
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_050
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.18
+  server: 202.50.253.72
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_051
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.99
+  server: 202.50.253.18
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_052
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.45
+  server: 202.50.253.99
   type: ss
-  udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_053
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.36
+  server: 202.50.253.45
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_054
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.81
+  server: 202.50.253.36
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_055
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.90
+  server: 202.50.253.81
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_056
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.27
+  server: 202.50.253.90
   type: ss
+  udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_057
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.27
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: Unknown_ss_058
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 185.164.175.81
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_058
+  name: Unknown_ss_059
   password: BeaUf9c0AEWH40Pu
   port: 8388
   server: 154.36.158.197
   type: ss
-  udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_059
+  name: Unknown_ss_060
   password: 3eOFeNssde7PYYMv
   port: 443
   server: 84.247.155.196
   type: ss
 - cipher: aes-128-gcm
-  name: Unknown_ss_060
+  name: Unknown_ss_061
   password: shadowsocks
   port: 443
   server: 149.22.87.204
   type: ss
 - cipher: aes-128-gcm
-  name: Unknown_ss_061
+  name: Unknown_ss_062
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
+- cipher: aes-128-gcm
+  name: Unknown_ss_063
+  password: shadowsocks
+  port: 443
+  server: 149.22.87.241
+  type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_062
+  name: Unknown_ss_064
   password: Y6R9pAtvxxzmGC
-  port: 9090
+  port: 8888
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_063
+  name: Unknown_ss_065
   password: BWyPPTusFKhGgzKh
   port: 8388
   server: 64.177.90.30
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_064
+  name: Unknown_ss_066
   password: 28789988-887e-4e41-83cd-27bbfb7999ad
   port: 40006
   server: xunlinknode.csdjhajkshdjkas.com
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Unknown_ss_067
+  password: hCgbUnMaoAfSgvE8IKdnGu
+  port: 24759
+  server: 77.221.132.206
+  type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_065
+  name: Unknown_ss_068
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 151.241.19.36
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_066
+  name: Unknown_ss_069
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 151.241.19.29
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_067
+  name: Unknown_ss_070
   password: v1c-i5SSFXP8n4g1Wbc0L9gX82x5O2Qa
   port: 8044
   server: 185.4.115.146
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_068
+  name: Unknown_ss_071
   password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
   port: 990
   server: 185.213.23.63
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_069
+  name: Unknown_ss_072
   password: 6heexyz
   port: 443
   server: 54.36.174.140
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_070
+  name: Unknown_ss_073
   password: 6heexyz
   port: 443
   server: pl134.vpnbook.com
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_071
+  name: Unknown_ss_074
   password: U83u9OGpvSatIUW7LsWffr
   port: 64546
   server: 194.68.44.42
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_072
+  name: Unknown_ss_075
   password: QFWzCw2uX9B9i6qAYeFBIE
   port: 443
   server: 154.46.31.106
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_073
+  name: Unknown_ss_076
   password: v1c-i5SSFXP8n4g1Wbc0L9gX82x5O2Qa
   port: 1355
   server: dns27.m3hrzd.ir
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_074
+  name: Unknown_ss_077
   password: VVlAff77CnAU43Aoc5j15Y
   port: 5112
   server: 90.156.203.62
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_075
+  name: Unknown_ss_078
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 138.199.55.243
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_076
+  name: Unknown_ss_079
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 51.79.228.131
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_077
+  name: Unknown_ss_080
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 15.235.182.183
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_078
+  name: Unknown_ss_081
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 15.235.164.133
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_079
+  name: Unknown_ss_082
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.106.74
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_080
+  name: Unknown_ss_083
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.107.74
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_081
+  name: Unknown_ss_084
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.107.47
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_082
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 23.150.152.38
-  type: ss
-- cipher: aes-256-gcm
-  name: Unknown_ss_083
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 167.88.62.203
-  type: ss
-- cipher: aes-256-gcm
-  name: Unknown_ss_084
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 167.88.63.99
-  type: ss
-- cipher: aes-256-gcm
   name: Unknown_ss_085
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.121.43.231
+  server: 38.91.107.188
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_086
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 149.40.57.138
+  server: 23.150.152.38
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_087
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.121.43.225
+  server: 167.88.62.203
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_088
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.22.17.219
+  server: 167.88.63.99
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_089
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 149.40.57.133
+  server: 38.121.43.231
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_090
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 216.106.178.169
+  server: 149.40.57.138
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_091
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 169.197.142.68
+  server: 38.121.43.225
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_092
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 162.251.62.31
+  server: 38.22.17.219
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_093
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.121.43.18
+  server: 149.40.57.133
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_094
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 137.184.89.151
+  server: 216.106.178.169
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_095
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.91.100.39
+  server: 169.197.142.68
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_096
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.128.66.32
+  server: 162.251.62.31
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_097
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 84.20.27.183
+  server: 38.121.43.18
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_098
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 172.111.36.123
+  server: 137.184.89.151
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_099
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.22.17.129
+  server: 38.91.100.39
+  type: ss
+- cipher: aes-256-gcm
+  name: Unknown_ss_0100
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 38.128.66.32
+  type: ss
+- cipher: aes-256-gcm
+  name: Unknown_ss_0101
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 84.20.27.183
+  type: ss
+- cipher: aes-256-gcm
+  name: Unknown_ss_0102
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 172.111.36.123
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_0100
+  name: Unknown_ss_0103
   password: aduB9HGxQHjA2SBMRjkHX6
   port: 443
   server: 102.37.156.224
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_0101
+  name: Unknown_ss_0104
   password: Xsy8Ox4yOV3xLlpxtjzs3X
   port: 16233
   server: 102.133.165.160
   type: ss
-- name: Unknown_trojan_0102
+- name: Unknown_trojan_0105
+  password: d9064589-74af-432a-9390-5d8a9da281bf
+  port: 20086
+  server: sclass-c1.catcat321.com
+  type: trojan
+- name: Unknown_trojan_0106
+  password: d9064589-74af-432a-9390-5d8a9da281bf
+  port: 20123
+  server: sclass-00.catcat321.com
+  skip-cert-verify: true
+  sni: hk.catxstar.com
+  type: trojan
+- name: Unknown_trojan_0107
+  password: d9064589-74af-432a-9390-5d8a9da281bf
+  port: 20086
+  server: sclass-c1.catcat321.com
+  skip-cert-verify: true
+  sni: hk.catxstar.com
+  type: trojan
+- name: Unknown_trojan_0108
+  network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 45.63.30.142
+  skip-cert-verify: true
   sni: connectwithemployerstohireyouridealteam.com
   type: trojan
-- name: Unknown_trojan_0103
-  network: tcp
-  password: 5t6i121em5lkmsmk
-  port: 39533
-  server: br001.zestapp778.com
-  sni: br001.zestapp778.com
-  type: trojan
-- name: Unknown_trojan_0104
+- name: Unknown_trojan_0109
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.238.104.154
   type: trojan
-- name: Unknown_trojan_0105
+- name: Unknown_trojan_0110
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 216.152.147.201
+  sni: resources.connectingpeoplewithgreatjobs.com
+  type: trojan
+- name: Unknown_trojan_0111
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.152.147.89
+  sni: www.connectingpeoplewithgreatjobs.com
   type: trojan
-- name: Unknown_trojan_0106
+- name: Unknown_trojan_0112
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.152.147.74
+  sni: api.connectingpeoplewithgreatjobs.com
   type: trojan
-- name: Unknown_trojan_0107
+- name: Unknown_trojan_0113
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
-  server: 216.152.147.152
-  sni: learn.connectingpeoplewithgreatjobs.com
+  server: 216.152.147.93
+  sni: connectingpeoplewithgreatjobs.com
   type: trojan
-- name: Unknown_trojan_0108
+- name: Unknown_trojan_0114
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 216.152.147.79
+  type: trojan
+- name: Unknown_trojan_0115
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.152.147.79
   sni: blog.connectingpeoplewithgreatjobs.com
   type: trojan
-- name: Unknown_trojan_0109
+- name: Unknown_trojan_0116
   password: 5t6i121em5lkmsmk
   port: 46977
   server: ca001.zestapp778.com
   sni: ca001.zestapp778.com
   type: trojan
-- name: Unknown_trojan_0110
+- name: Unknown_trojan_0117
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 208.69.78.19
   type: trojan
-- name: Unknown_trojan_0111
+- name: Unknown_trojan_0118
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 208.69.78.33
   skip-cert-verify: true
   sni: courses.yourultimateprofessionalcareerhub.com
   type: trojan
-- name: Unknown_trojan_0112
+- name: Unknown_trojan_0119
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 64.176.7.205
   type: trojan
-- name: Unknown_trojan_0113
+- name: Unknown_trojan_0120
   password: happybirthdaydaniel
   port: 25267
   server: de-bots4.h1cloud.net
   type: trojan
-- name: Unknown_trojan_0114
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  port: 443
-  server: 193.108.119.78
-  type: trojan
-- name: Unknown_trojan_0115
+- name: Unknown_trojan_0121
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 193.108.119.96
   sni: learn.iloverussia2026.com
   type: trojan
-- name: Unknown_trojan_0116
+- name: Unknown_trojan_0122
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 193.108.119.193
   type: trojan
-- name: Unknown_trojan_0117
+- name: Unknown_trojan_0123
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 193.108.119.193
+  sni: resources.iloverussia2026.com
+  type: trojan
+- name: Unknown_trojan_0124
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 193.108.119.78
+  type: trojan
+- name: Unknown_trojan_0125
+  network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 64.176.163.182
   sni: exploreeducationsectoropportunitiestodayandadvancecareers.com
   type: trojan
-- name: Unknown_trojan_0118
-  password: 5t6i121em5lkmsmk
-  port: 48851
-  server: kr002.zestapp778.com
-  skip-cert-verify: true
-  sni: kr002.zestapp778.com
-  type: trojan
-- name: Unknown_trojan_0119
+- name: Unknown_trojan_0126
   password: 5931134d1cde66bf83a54acdfebe7ab2
   port: 443
   server: 47.250.84.25
   sni: moltbot.doctoroyy.net
   type: trojan
-- name: Unknown_trojan_0120
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  port: 443
-  server: 66.163.127.215
-  type: trojan
-- name: Unknown_trojan_0121
+- name: Unknown_trojan_0127
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 66.163.127.155
   type: trojan
-- name: Unknown_trojan_0122
+- name: Unknown_trojan_0128
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 66.163.127.215
+  type: trojan
+- name: Unknown_trojan_0129
   network: tcp
   password: 5t6i121em5lkmsmk
   port: 46298
   server: ph001.zestapp778.com
   sni: ph001.zestapp778.com
   type: trojan
-- name: Unknown_trojan_0123
+- name: Unknown_trojan_0130
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 70.34.252.255
   sni: browseexecutivejobopeningsandenhanceleadershipcareer.com
   type: trojan
-- name: Unknown_trojan_0124
+- name: Unknown_trojan_0131
+  network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 70.34.207.14
   sni: searchhealthcarejobsandbuildmedicalcareerpathway.com
   type: trojan
-- name: Unknown_trojan_0125
+- name: Unknown_trojan_0132
   password: FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF
   port: 443
   server: connect-se.mimowhat.online
   sni: connect-se.mimowhat.online
   type: trojan
-- name: Unknown_trojan_0126
+- name: Unknown_trojan_0133
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 149.28.130.108
   sni: searchcreativejobsandshowcaseyourartistictalents.com
   type: trojan
-- name: Unknown_trojan_0127
+- name: Unknown_trojan_0134
   password: e26a229d-e8f2-4ff9-8c7d-58a9d83ee437
   port: 8886
   server: 139.180.146.200
   type: trojan
-- name: Unknown_trojan_0128
+- name: Unknown_trojan_0135
   network: tcp
   password: 5t6i121em5lkmsmk
   port: 33079
   server: th001.zestapp778.com
   sni: th001.zestapp778.com
   type: trojan
-- name: Unknown_trojan_0129
+- name: Unknown_trojan_0136
   network: tcp
   password: 5t6i121em5lkmsmk
   port: 57277
   server: us001.zestapp778.com
   sni: us001.zestapp778.com
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: Unknown_vmess_0130
-  network: ws
-  port: 36703
-  server: 47.244.120.197
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
-  ws-opts:
-    path: /arki
 - alpn:
   - ''
   alterId: 0
   cipher: auto
-  name: Unknown_vmess_0131
+  http-opts:
+    headers:
+      Host:
+      - down-cdn.dingtalk.com
+    method: GET
+    path:
+    - /QQqun-737805443
+  name: Unknown_vmess_0137
+  network: http
+  port: 1288
+  server: 107.175.76.215
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 29a72eac-a4d1-4526-8fa0-d3ecc4e38b44
+- alpn:
+  - ''
+  alterId: 0
+  cipher: auto
+  name: Unknown_vmess_0138
   network: ws
   port: 44867
   server: 47.244.120.197
@@ -865,7 +917,7 @@ proxies:
     path: /arki
 - alterId: 0
   cipher: auto
-  name: Unknown_vmess_0132
+  name: Unknown_vmess_0139
   network: ws
   port: 23026
   server: 47.244.120.197
@@ -878,33 +930,56 @@ proxies:
     headers:
       Host: 47.244.120.197
     path: /arki
-- cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_0133
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 8443
-  server: 13.125.82.209
-  type: ss
-  udp: true
-- alpn:
-  - ''
-  alterId: 0
+- alterId: 0
   cipher: auto
-  http-opts:
-    headers:
-      Host:
-      - down-cdn.dingtalk.com
-    method: GET
-    path:
-    - /QQqun-737805443
-  name: Unknown_vmess_0134
-  network: http
-  port: 1288
-  server: 107.175.76.215
+  name: Unknown_vmess_0140
+  network: ws
+  port: 36703
+  server: 47.244.120.197
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 29a72eac-a4d1-4526-8fa0-d3ecc4e38b44
+  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
+  ws-opts:
+    path: /arki
+- cipher: chacha20-ietf-poly1305
+  name: Unknown_ss_0141
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 3.38.104.26
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: Unknown_ss_0142
+  password: cCMJgJTA3BA489YUYrFq7XHXSiSpWlLa
+  port: 18443
+  server: 46.17.47.58
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: Unknown_ss_0143
+  password: V7WLaYdujkwnj6xxXq-2BSxGWEcSJtTA
+  port: 1080
+  server: 88.216.254.18
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: Unknown_vmess_0144
+  network: ws
+  port: 443
+  server: 104.21.7.133
+  servername: vmess.lbw666.dpdns.org
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 0cf6d970-3f1d-4aae-a989-92a8f76ae3db
+  ws-opts:
+    headers:
+      Host: vmess.lbw666.dpdns.org
+    path: /ws
 - alterId: 0
   cipher: auto
   name: Unknown_vmess_11
@@ -1215,524 +1290,576 @@ proxies:
   name: Unknown_ss_147
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.63
+  server: 149.50.215.234
   type: ss
-  udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_148
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.54
+  server: 202.50.253.63
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_149
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.72
+  server: 202.50.253.54
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_150
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.18
+  server: 202.50.253.72
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_151
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.99
+  server: 202.50.253.18
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_152
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.45
+  server: 202.50.253.99
   type: ss
-  udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_153
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.36
+  server: 202.50.253.45
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_154
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.81
+  server: 202.50.253.36
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_155
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.90
+  server: 202.50.253.81
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_156
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.27
+  server: 202.50.253.90
   type: ss
+  udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_157
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.27
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: Unknown_ss_158
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 185.164.175.81
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_158
+  name: Unknown_ss_159
   password: BeaUf9c0AEWH40Pu
   port: 8388
   server: 154.36.158.197
   type: ss
-  udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_159
+  name: Unknown_ss_160
   password: 3eOFeNssde7PYYMv
   port: 443
   server: 84.247.155.196
   type: ss
 - cipher: aes-128-gcm
-  name: Unknown_ss_160
+  name: Unknown_ss_161
   password: shadowsocks
   port: 443
   server: 149.22.87.204
   type: ss
 - cipher: aes-128-gcm
-  name: Unknown_ss_161
+  name: Unknown_ss_162
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
+- cipher: aes-128-gcm
+  name: Unknown_ss_163
+  password: shadowsocks
+  port: 443
+  server: 149.22.87.241
+  type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_162
+  name: Unknown_ss_164
   password: Y6R9pAtvxxzmGC
-  port: 9090
+  port: 8888
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_163
+  name: Unknown_ss_165
   password: BWyPPTusFKhGgzKh
   port: 8388
   server: 64.177.90.30
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_164
+  name: Unknown_ss_166
   password: 28789988-887e-4e41-83cd-27bbfb7999ad
   port: 40006
   server: xunlinknode.csdjhajkshdjkas.com
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Unknown_ss_167
+  password: hCgbUnMaoAfSgvE8IKdnGu
+  port: 24759
+  server: 77.221.132.206
+  type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_165
+  name: Unknown_ss_168
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 151.241.19.36
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_166
+  name: Unknown_ss_169
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 151.241.19.29
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_167
+  name: Unknown_ss_170
   password: v1c-i5SSFXP8n4g1Wbc0L9gX82x5O2Qa
   port: 8044
   server: 185.4.115.146
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_168
+  name: Unknown_ss_171
   password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
   port: 990
   server: 185.213.23.63
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_169
+  name: Unknown_ss_172
   password: 6heexyz
   port: 443
   server: 54.36.174.140
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_170
+  name: Unknown_ss_173
   password: 6heexyz
   port: 443
   server: pl134.vpnbook.com
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_171
+  name: Unknown_ss_174
   password: U83u9OGpvSatIUW7LsWffr
   port: 64546
   server: 194.68.44.42
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_172
+  name: Unknown_ss_175
   password: QFWzCw2uX9B9i6qAYeFBIE
   port: 443
   server: 154.46.31.106
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_173
+  name: Unknown_ss_176
   password: v1c-i5SSFXP8n4g1Wbc0L9gX82x5O2Qa
   port: 1355
   server: dns27.m3hrzd.ir
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_174
+  name: Unknown_ss_177
   password: VVlAff77CnAU43Aoc5j15Y
   port: 5112
   server: 90.156.203.62
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_175
+  name: Unknown_ss_178
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 138.199.55.243
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_176
+  name: Unknown_ss_179
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 51.79.228.131
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_177
+  name: Unknown_ss_180
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 15.235.182.183
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_178
+  name: Unknown_ss_181
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 15.235.164.133
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_179
+  name: Unknown_ss_182
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.106.74
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_180
+  name: Unknown_ss_183
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.107.74
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_181
+  name: Unknown_ss_184
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.107.47
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_182
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 23.150.152.38
-  type: ss
-- cipher: aes-256-gcm
-  name: Unknown_ss_183
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 167.88.62.203
-  type: ss
-- cipher: aes-256-gcm
-  name: Unknown_ss_184
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 167.88.63.99
-  type: ss
-- cipher: aes-256-gcm
   name: Unknown_ss_185
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.121.43.231
+  server: 38.91.107.188
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_186
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 149.40.57.138
+  server: 23.150.152.38
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_187
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.121.43.225
+  server: 167.88.62.203
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_188
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.22.17.219
+  server: 167.88.63.99
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_189
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 149.40.57.133
+  server: 38.121.43.231
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_190
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 216.106.178.169
+  server: 149.40.57.138
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_191
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 169.197.142.68
+  server: 38.121.43.225
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_192
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 162.251.62.31
+  server: 38.22.17.219
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_193
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.121.43.18
+  server: 149.40.57.133
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_194
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 137.184.89.151
+  server: 216.106.178.169
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_195
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.91.100.39
+  server: 169.197.142.68
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_196
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.128.66.32
+  server: 162.251.62.31
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_197
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 84.20.27.183
+  server: 38.121.43.18
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_198
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 172.111.36.123
+  server: 137.184.89.151
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_199
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.22.17.129
+  server: 38.91.100.39
+  type: ss
+- cipher: aes-256-gcm
+  name: Unknown_ss_1100
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 38.128.66.32
+  type: ss
+- cipher: aes-256-gcm
+  name: Unknown_ss_1101
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 84.20.27.183
+  type: ss
+- cipher: aes-256-gcm
+  name: Unknown_ss_1102
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 172.111.36.123
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_1100
+  name: Unknown_ss_1103
   password: aduB9HGxQHjA2SBMRjkHX6
   port: 443
   server: 102.37.156.224
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_1101
+  name: Unknown_ss_1104
   password: Xsy8Ox4yOV3xLlpxtjzs3X
   port: 16233
   server: 102.133.165.160
   type: ss
-- name: Unknown_trojan_1102
+- name: Unknown_trojan_1105
+  password: d9064589-74af-432a-9390-5d8a9da281bf
+  port: 20086
+  server: sclass-c1.catcat321.com
+  type: trojan
+- name: Unknown_trojan_1106
+  password: d9064589-74af-432a-9390-5d8a9da281bf
+  port: 20123
+  server: sclass-00.catcat321.com
+  skip-cert-verify: true
+  sni: hk.catxstar.com
+  type: trojan
+- name: Unknown_trojan_1107
+  password: d9064589-74af-432a-9390-5d8a9da281bf
+  port: 20086
+  server: sclass-c1.catcat321.com
+  skip-cert-verify: true
+  sni: hk.catxstar.com
+  type: trojan
+- name: Unknown_trojan_1108
+  network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 45.63.30.142
+  skip-cert-verify: true
   sni: connectwithemployerstohireyouridealteam.com
   type: trojan
-- name: Unknown_trojan_1103
-  network: tcp
-  password: 5t6i121em5lkmsmk
-  port: 39533
-  server: br001.zestapp778.com
-  sni: br001.zestapp778.com
-  type: trojan
-- name: Unknown_trojan_1104
+- name: Unknown_trojan_1109
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.238.104.154
   type: trojan
-- name: Unknown_trojan_1105
+- name: Unknown_trojan_1110
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 216.152.147.201
+  sni: resources.connectingpeoplewithgreatjobs.com
+  type: trojan
+- name: Unknown_trojan_1111
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.152.147.89
+  sni: www.connectingpeoplewithgreatjobs.com
   type: trojan
-- name: Unknown_trojan_1106
+- name: Unknown_trojan_1112
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.152.147.74
+  sni: api.connectingpeoplewithgreatjobs.com
   type: trojan
-- name: Unknown_trojan_1107
+- name: Unknown_trojan_1113
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
-  server: 216.152.147.152
-  sni: learn.connectingpeoplewithgreatjobs.com
+  server: 216.152.147.93
+  sni: connectingpeoplewithgreatjobs.com
   type: trojan
-- name: Unknown_trojan_1108
+- name: Unknown_trojan_1114
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 216.152.147.79
+  type: trojan
+- name: Unknown_trojan_1115
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.152.147.79
   sni: blog.connectingpeoplewithgreatjobs.com
   type: trojan
-- name: Unknown_trojan_1109
+- name: Unknown_trojan_1116
   password: 5t6i121em5lkmsmk
   port: 46977
   server: ca001.zestapp778.com
   sni: ca001.zestapp778.com
   type: trojan
-- name: Unknown_trojan_1110
+- name: Unknown_trojan_1117
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 208.69.78.19
   type: trojan
-- name: Unknown_trojan_1111
+- name: Unknown_trojan_1118
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 208.69.78.33
   skip-cert-verify: true
   sni: courses.yourultimateprofessionalcareerhub.com
   type: trojan
-- name: Unknown_trojan_1112
+- name: Unknown_trojan_1119
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 64.176.7.205
   type: trojan
-- name: Unknown_trojan_1113
+- name: Unknown_trojan_1120
   password: happybirthdaydaniel
   port: 25267
   server: de-bots4.h1cloud.net
   type: trojan
-- name: Unknown_trojan_1114
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  port: 443
-  server: 193.108.119.78
-  type: trojan
-- name: Unknown_trojan_1115
+- name: Unknown_trojan_1121
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 193.108.119.96
   sni: learn.iloverussia2026.com
   type: trojan
-- name: Unknown_trojan_1116
+- name: Unknown_trojan_1122
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 193.108.119.193
   type: trojan
-- name: Unknown_trojan_1117
+- name: Unknown_trojan_1123
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 193.108.119.193
+  sni: resources.iloverussia2026.com
+  type: trojan
+- name: Unknown_trojan_1124
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 193.108.119.78
+  type: trojan
+- name: Unknown_trojan_1125
+  network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 64.176.163.182
   sni: exploreeducationsectoropportunitiestodayandadvancecareers.com
   type: trojan
-- name: Unknown_trojan_1118
-  password: 5t6i121em5lkmsmk
-  port: 48851
-  server: kr002.zestapp778.com
-  skip-cert-verify: true
-  sni: kr002.zestapp778.com
-  type: trojan
-- name: Unknown_trojan_1119
+- name: Unknown_trojan_1126
   password: 5931134d1cde66bf83a54acdfebe7ab2
   port: 443
   server: 47.250.84.25
   sni: moltbot.doctoroyy.net
   type: trojan
-- name: Unknown_trojan_1120
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  port: 443
-  server: 66.163.127.215
-  type: trojan
-- name: Unknown_trojan_1121
+- name: Unknown_trojan_1127
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 66.163.127.155
   type: trojan
-- name: Unknown_trojan_1122
+- name: Unknown_trojan_1128
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 66.163.127.215
+  type: trojan
+- name: Unknown_trojan_1129
   network: tcp
   password: 5t6i121em5lkmsmk
   port: 46298
   server: ph001.zestapp778.com
   sni: ph001.zestapp778.com
   type: trojan
-- name: Unknown_trojan_1123
+- name: Unknown_trojan_1130
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 70.34.252.255
   sni: browseexecutivejobopeningsandenhanceleadershipcareer.com
   type: trojan
-- name: Unknown_trojan_1124
+- name: Unknown_trojan_1131
+  network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 70.34.207.14
   sni: searchhealthcarejobsandbuildmedicalcareerpathway.com
   type: trojan
-- name: Unknown_trojan_1125
+- name: Unknown_trojan_1132
   password: FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF
   port: 443
   server: connect-se.mimowhat.online
   sni: connect-se.mimowhat.online
   type: trojan
-- name: Unknown_trojan_1126
+- name: Unknown_trojan_1133
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 149.28.130.108
   sni: searchcreativejobsandshowcaseyourartistictalents.com
   type: trojan
-- name: Unknown_trojan_1127
+- name: Unknown_trojan_1134
   password: e26a229d-e8f2-4ff9-8c7d-58a9d83ee437
   port: 8886
   server: 139.180.146.200
   type: trojan
-- name: Unknown_trojan_1128
+- name: Unknown_trojan_1135
   network: tcp
   password: 5t6i121em5lkmsmk
   port: 33079
   server: th001.zestapp778.com
   sni: th001.zestapp778.com
   type: trojan
-- name: Unknown_trojan_1129
+- name: Unknown_trojan_1136
   network: tcp
   password: 5t6i121em5lkmsmk
   port: 57277
   server: us001.zestapp778.com
   sni: us001.zestapp778.com
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: Unknown_vmess_1130
-  network: ws
-  port: 36703
-  server: 47.244.120.197
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
-  ws-opts:
-    path: /arki
 - alpn:
   - ''
   alterId: 0
   cipher: auto
-  name: Unknown_vmess_1131
+  http-opts:
+    headers:
+      Host:
+      - down-cdn.dingtalk.com
+    method: GET
+    path:
+    - /QQqun-737805443
+  name: Unknown_vmess_1137
+  network: http
+  port: 1288
+  server: 107.175.76.215
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 29a72eac-a4d1-4526-8fa0-d3ecc4e38b44
+- alpn:
+  - ''
+  alterId: 0
+  cipher: auto
+  name: Unknown_vmess_1138
   network: ws
   port: 44867
   server: 47.244.120.197
@@ -1745,7 +1872,7 @@ proxies:
     path: /arki
 - alterId: 0
   cipher: auto
-  name: Unknown_vmess_1132
+  name: Unknown_vmess_1139
   network: ws
   port: 23026
   server: 47.244.120.197
@@ -1758,33 +1885,56 @@ proxies:
     headers:
       Host: 47.244.120.197
     path: /arki
-- cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_1133
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 8443
-  server: 13.125.82.209
-  type: ss
-  udp: true
-- alpn:
-  - ''
-  alterId: 0
+- alterId: 0
   cipher: auto
-  http-opts:
-    headers:
-      Host:
-      - down-cdn.dingtalk.com
-    method: GET
-    path:
-    - /QQqun-737805443
-  name: Unknown_vmess_1134
-  network: http
-  port: 1288
-  server: 107.175.76.215
+  name: Unknown_vmess_1140
+  network: ws
+  port: 36703
+  server: 47.244.120.197
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 29a72eac-a4d1-4526-8fa0-d3ecc4e38b44
+  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
+  ws-opts:
+    path: /arki
+- cipher: chacha20-ietf-poly1305
+  name: Unknown_ss_1141
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 3.38.104.26
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: Unknown_ss_1142
+  password: cCMJgJTA3BA489YUYrFq7XHXSiSpWlLa
+  port: 18443
+  server: 46.17.47.58
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: Unknown_ss_1143
+  password: V7WLaYdujkwnj6xxXq-2BSxGWEcSJtTA
+  port: 1080
+  server: 88.216.254.18
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: Unknown_vmess_1144
+  network: ws
+  port: 443
+  server: 104.21.7.133
+  servername: vmess.lbw666.dpdns.org
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 0cf6d970-3f1d-4aae-a989-92a8f76ae3db
+  ws-opts:
+    headers:
+      Host: vmess.lbw666.dpdns.org
+    path: /ws
 - client-fingerprint: chrome
   name: Unknown_vless_41
   network: ws
@@ -50626,524 +50776,576 @@ proxies:
   name: Unknown_ss_847
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.63
+  server: 149.50.215.234
   type: ss
-  udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_848
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.54
+  server: 202.50.253.63
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_849
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.72
+  server: 202.50.253.54
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_850
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.18
+  server: 202.50.253.72
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_851
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.99
+  server: 202.50.253.18
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_852
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.45
+  server: 202.50.253.99
   type: ss
-  udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_853
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.36
+  server: 202.50.253.45
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_854
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.81
+  server: 202.50.253.36
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_855
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.90
+  server: 202.50.253.81
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_856
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.27
+  server: 202.50.253.90
   type: ss
+  udp: true
 - cipher: aes-256-gcm
   name: Unknown_ss_857
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.27
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: Unknown_ss_858
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 185.164.175.81
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_858
+  name: Unknown_ss_859
   password: BeaUf9c0AEWH40Pu
   port: 8388
   server: 154.36.158.197
   type: ss
-  udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_859
+  name: Unknown_ss_860
   password: 3eOFeNssde7PYYMv
   port: 443
   server: 84.247.155.196
   type: ss
 - cipher: aes-128-gcm
-  name: Unknown_ss_860
+  name: Unknown_ss_861
   password: shadowsocks
   port: 443
   server: 149.22.87.204
   type: ss
 - cipher: aes-128-gcm
-  name: Unknown_ss_861
+  name: Unknown_ss_862
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
+- cipher: aes-128-gcm
+  name: Unknown_ss_863
+  password: shadowsocks
+  port: 443
+  server: 149.22.87.241
+  type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_862
+  name: Unknown_ss_864
   password: Y6R9pAtvxxzmGC
-  port: 9090
+  port: 8888
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_863
+  name: Unknown_ss_865
   password: BWyPPTusFKhGgzKh
   port: 8388
   server: 64.177.90.30
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_864
+  name: Unknown_ss_866
   password: 28789988-887e-4e41-83cd-27bbfb7999ad
   port: 40006
   server: xunlinknode.csdjhajkshdjkas.com
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Unknown_ss_867
+  password: hCgbUnMaoAfSgvE8IKdnGu
+  port: 24759
+  server: 77.221.132.206
+  type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_865
+  name: Unknown_ss_868
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 151.241.19.36
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_866
+  name: Unknown_ss_869
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 151.241.19.29
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_867
+  name: Unknown_ss_870
   password: v1c-i5SSFXP8n4g1Wbc0L9gX82x5O2Qa
   port: 8044
   server: 185.4.115.146
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_868
+  name: Unknown_ss_871
   password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
   port: 990
   server: 185.213.23.63
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_869
+  name: Unknown_ss_872
   password: 6heexyz
   port: 443
   server: 54.36.174.140
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_870
+  name: Unknown_ss_873
   password: 6heexyz
   port: 443
   server: pl134.vpnbook.com
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_871
+  name: Unknown_ss_874
   password: U83u9OGpvSatIUW7LsWffr
   port: 64546
   server: 194.68.44.42
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_872
+  name: Unknown_ss_875
   password: QFWzCw2uX9B9i6qAYeFBIE
   port: 443
   server: 154.46.31.106
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_873
+  name: Unknown_ss_876
   password: v1c-i5SSFXP8n4g1Wbc0L9gX82x5O2Qa
   port: 1355
   server: dns27.m3hrzd.ir
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_874
+  name: Unknown_ss_877
   password: VVlAff77CnAU43Aoc5j15Y
   port: 5112
   server: 90.156.203.62
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_875
+  name: Unknown_ss_878
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 138.199.55.243
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_876
+  name: Unknown_ss_879
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 51.79.228.131
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_877
+  name: Unknown_ss_880
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 15.235.182.183
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_878
+  name: Unknown_ss_881
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 15.235.164.133
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_879
+  name: Unknown_ss_882
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.106.74
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_880
+  name: Unknown_ss_883
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.107.74
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_881
+  name: Unknown_ss_884
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.107.47
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_882
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 23.150.152.38
-  type: ss
-- cipher: aes-256-gcm
-  name: Unknown_ss_883
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 167.88.62.203
-  type: ss
-- cipher: aes-256-gcm
-  name: Unknown_ss_884
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 167.88.63.99
-  type: ss
-- cipher: aes-256-gcm
   name: Unknown_ss_885
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.121.43.231
+  server: 38.91.107.188
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_886
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 149.40.57.138
+  server: 23.150.152.38
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_887
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.121.43.225
+  server: 167.88.62.203
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_888
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.22.17.219
+  server: 167.88.63.99
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_889
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 149.40.57.133
+  server: 38.121.43.231
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_890
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 216.106.178.169
+  server: 149.40.57.138
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_891
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 169.197.142.68
+  server: 38.121.43.225
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_892
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 162.251.62.31
+  server: 38.22.17.219
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_893
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.121.43.18
+  server: 149.40.57.133
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_894
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 137.184.89.151
+  server: 216.106.178.169
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_895
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.91.100.39
+  server: 169.197.142.68
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_896
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.128.66.32
+  server: 162.251.62.31
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_897
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 84.20.27.183
+  server: 38.121.43.18
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_898
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 172.111.36.123
+  server: 137.184.89.151
   type: ss
 - cipher: aes-256-gcm
   name: Unknown_ss_899
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.22.17.129
+  server: 38.91.100.39
+  type: ss
+- cipher: aes-256-gcm
+  name: Unknown_ss_8100
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 38.128.66.32
+  type: ss
+- cipher: aes-256-gcm
+  name: Unknown_ss_8101
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 84.20.27.183
+  type: ss
+- cipher: aes-256-gcm
+  name: Unknown_ss_8102
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 172.111.36.123
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_8100
+  name: Unknown_ss_8103
   password: aduB9HGxQHjA2SBMRjkHX6
   port: 443
   server: 102.37.156.224
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_8101
+  name: Unknown_ss_8104
   password: Xsy8Ox4yOV3xLlpxtjzs3X
   port: 16233
   server: 102.133.165.160
   type: ss
-- name: Unknown_trojan_8102
+- name: Unknown_trojan_8105
+  password: d9064589-74af-432a-9390-5d8a9da281bf
+  port: 20086
+  server: sclass-c1.catcat321.com
+  type: trojan
+- name: Unknown_trojan_8106
+  password: d9064589-74af-432a-9390-5d8a9da281bf
+  port: 20123
+  server: sclass-00.catcat321.com
+  skip-cert-verify: true
+  sni: hk.catxstar.com
+  type: trojan
+- name: Unknown_trojan_8107
+  password: d9064589-74af-432a-9390-5d8a9da281bf
+  port: 20086
+  server: sclass-c1.catcat321.com
+  skip-cert-verify: true
+  sni: hk.catxstar.com
+  type: trojan
+- name: Unknown_trojan_8108
+  network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 45.63.30.142
+  skip-cert-verify: true
   sni: connectwithemployerstohireyouridealteam.com
   type: trojan
-- name: Unknown_trojan_8103
-  network: tcp
-  password: 5t6i121em5lkmsmk
-  port: 39533
-  server: br001.zestapp778.com
-  sni: br001.zestapp778.com
-  type: trojan
-- name: Unknown_trojan_8104
+- name: Unknown_trojan_8109
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.238.104.154
   type: trojan
-- name: Unknown_trojan_8105
+- name: Unknown_trojan_8110
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 216.152.147.201
+  sni: resources.connectingpeoplewithgreatjobs.com
+  type: trojan
+- name: Unknown_trojan_8111
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.152.147.89
+  sni: www.connectingpeoplewithgreatjobs.com
   type: trojan
-- name: Unknown_trojan_8106
+- name: Unknown_trojan_8112
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.152.147.74
+  sni: api.connectingpeoplewithgreatjobs.com
   type: trojan
-- name: Unknown_trojan_8107
+- name: Unknown_trojan_8113
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
-  server: 216.152.147.152
-  sni: learn.connectingpeoplewithgreatjobs.com
+  server: 216.152.147.93
+  sni: connectingpeoplewithgreatjobs.com
   type: trojan
-- name: Unknown_trojan_8108
+- name: Unknown_trojan_8114
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 216.152.147.79
+  type: trojan
+- name: Unknown_trojan_8115
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.152.147.79
   sni: blog.connectingpeoplewithgreatjobs.com
   type: trojan
-- name: Unknown_trojan_8109
+- name: Unknown_trojan_8116
   password: 5t6i121em5lkmsmk
   port: 46977
   server: ca001.zestapp778.com
   sni: ca001.zestapp778.com
   type: trojan
-- name: Unknown_trojan_8110
+- name: Unknown_trojan_8117
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 208.69.78.19
   type: trojan
-- name: Unknown_trojan_8111
+- name: Unknown_trojan_8118
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 208.69.78.33
   skip-cert-verify: true
   sni: courses.yourultimateprofessionalcareerhub.com
   type: trojan
-- name: Unknown_trojan_8112
+- name: Unknown_trojan_8119
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 64.176.7.205
   type: trojan
-- name: Unknown_trojan_8113
+- name: Unknown_trojan_8120
   password: happybirthdaydaniel
   port: 25267
   server: de-bots4.h1cloud.net
   type: trojan
-- name: Unknown_trojan_8114
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  port: 443
-  server: 193.108.119.78
-  type: trojan
-- name: Unknown_trojan_8115
+- name: Unknown_trojan_8121
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 193.108.119.96
   sni: learn.iloverussia2026.com
   type: trojan
-- name: Unknown_trojan_8116
+- name: Unknown_trojan_8122
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 193.108.119.193
   type: trojan
-- name: Unknown_trojan_8117
+- name: Unknown_trojan_8123
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 193.108.119.193
+  sni: resources.iloverussia2026.com
+  type: trojan
+- name: Unknown_trojan_8124
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 193.108.119.78
+  type: trojan
+- name: Unknown_trojan_8125
+  network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 64.176.163.182
   sni: exploreeducationsectoropportunitiestodayandadvancecareers.com
   type: trojan
-- name: Unknown_trojan_8118
-  password: 5t6i121em5lkmsmk
-  port: 48851
-  server: kr002.zestapp778.com
-  skip-cert-verify: true
-  sni: kr002.zestapp778.com
-  type: trojan
-- name: Unknown_trojan_8119
+- name: Unknown_trojan_8126
   password: 5931134d1cde66bf83a54acdfebe7ab2
   port: 443
   server: 47.250.84.25
   sni: moltbot.doctoroyy.net
   type: trojan
-- name: Unknown_trojan_8120
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  port: 443
-  server: 66.163.127.215
-  type: trojan
-- name: Unknown_trojan_8121
+- name: Unknown_trojan_8127
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 66.163.127.155
   type: trojan
-- name: Unknown_trojan_8122
+- name: Unknown_trojan_8128
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 66.163.127.215
+  type: trojan
+- name: Unknown_trojan_8129
   network: tcp
   password: 5t6i121em5lkmsmk
   port: 46298
   server: ph001.zestapp778.com
   sni: ph001.zestapp778.com
   type: trojan
-- name: Unknown_trojan_8123
+- name: Unknown_trojan_8130
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 70.34.252.255
   sni: browseexecutivejobopeningsandenhanceleadershipcareer.com
   type: trojan
-- name: Unknown_trojan_8124
+- name: Unknown_trojan_8131
+  network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 70.34.207.14
   sni: searchhealthcarejobsandbuildmedicalcareerpathway.com
   type: trojan
-- name: Unknown_trojan_8125
+- name: Unknown_trojan_8132
   password: FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF
   port: 443
   server: connect-se.mimowhat.online
   sni: connect-se.mimowhat.online
   type: trojan
-- name: Unknown_trojan_8126
+- name: Unknown_trojan_8133
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 149.28.130.108
   sni: searchcreativejobsandshowcaseyourartistictalents.com
   type: trojan
-- name: Unknown_trojan_8127
+- name: Unknown_trojan_8134
   password: e26a229d-e8f2-4ff9-8c7d-58a9d83ee437
   port: 8886
   server: 139.180.146.200
   type: trojan
-- name: Unknown_trojan_8128
+- name: Unknown_trojan_8135
   network: tcp
   password: 5t6i121em5lkmsmk
   port: 33079
   server: th001.zestapp778.com
   sni: th001.zestapp778.com
   type: trojan
-- name: Unknown_trojan_8129
+- name: Unknown_trojan_8136
   network: tcp
   password: 5t6i121em5lkmsmk
   port: 57277
   server: us001.zestapp778.com
   sni: us001.zestapp778.com
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: Unknown_vmess_8130
-  network: ws
-  port: 36703
-  server: 47.244.120.197
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
-  ws-opts:
-    path: /arki
 - alpn:
   - ''
   alterId: 0
   cipher: auto
-  name: Unknown_vmess_8131
+  http-opts:
+    headers:
+      Host:
+      - down-cdn.dingtalk.com
+    method: GET
+    path:
+    - /QQqun-737805443
+  name: Unknown_vmess_8137
+  network: http
+  port: 1288
+  server: 107.175.76.215
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 29a72eac-a4d1-4526-8fa0-d3ecc4e38b44
+- alpn:
+  - ''
+  alterId: 0
+  cipher: auto
+  name: Unknown_vmess_8138
   network: ws
   port: 44867
   server: 47.244.120.197
@@ -51156,7 +51358,7 @@ proxies:
     path: /arki
 - alterId: 0
   cipher: auto
-  name: Unknown_vmess_8132
+  name: Unknown_vmess_8139
   network: ws
   port: 23026
   server: 47.244.120.197
@@ -51169,33 +51371,56 @@ proxies:
     headers:
       Host: 47.244.120.197
     path: /arki
-- cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_8133
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 8443
-  server: 13.125.82.209
-  type: ss
-  udp: true
-- alpn:
-  - ''
-  alterId: 0
+- alterId: 0
   cipher: auto
-  http-opts:
-    headers:
-      Host:
-      - down-cdn.dingtalk.com
-    method: GET
-    path:
-    - /QQqun-737805443
-  name: Unknown_vmess_8134
-  network: http
-  port: 1288
-  server: 107.175.76.215
+  name: Unknown_vmess_8140
+  network: ws
+  port: 36703
+  server: 47.244.120.197
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 29a72eac-a4d1-4526-8fa0-d3ecc4e38b44
+  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
+  ws-opts:
+    path: /arki
+- cipher: chacha20-ietf-poly1305
+  name: Unknown_ss_8141
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 3.38.104.26
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: Unknown_ss_8142
+  password: cCMJgJTA3BA489YUYrFq7XHXSiSpWlLa
+  port: 18443
+  server: 46.17.47.58
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: Unknown_ss_8143
+  password: V7WLaYdujkwnj6xxXq-2BSxGWEcSJtTA
+  port: 1080
+  server: 88.216.254.18
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: Unknown_vmess_8144
+  network: ws
+  port: 443
+  server: 104.21.7.133
+  servername: vmess.lbw666.dpdns.org
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 0cf6d970-3f1d-4aae-a989-92a8f76ae3db
+  ws-opts:
+    headers:
+      Host: vmess.lbw666.dpdns.org
+    path: /ws
 - name: Unknown_vless_91
   server: au2.pad-sservice.lat
   port: 8443
@@ -51723,6 +51948,7 @@ proxies:
 - alpn:
   - h3
   auth-str: dongtaiwang.com
+  auth_str: dongtaiwang.com
   down: 55 Mbps
   name: Unknown_hysteria_1011
   port: 24667
@@ -52143,23 +52369,8 @@ proxies:
     headers:
       Host: free.cndyw.ggff.net
     path: pyip=bpb.yousef.isegaro.comfp=random
-- client-fingerprint: unsafe
-  encryption: none
-  name: Unknown_vless_1056
-  network: ws
-  port: 443
-  server: 104.21.221.158
-  servername: ccc.010304.xyz
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: d342d11e-d224-4463-b982-532309285094
-  ws-opts:
-    headers:
-      Host: ccc.010304.xyz
-    path: /fp=chrome
 - client-fingerprint: chrome
-  name: Unknown_vless_1057
+  name: Unknown_vless_1056
   network: ws
   port: 443
   server: 203.202.232.110
@@ -52172,7 +52383,7 @@ proxies:
       Host: vlso5.1d.mom
     path: /socks5=888:888@hkip.1d.mom:1080fp=chrome
 - client-fingerprint: chrome
-  name: Unknown_vless_1058
+  name: Unknown_vless_1057
   network: ws
   port: 443
   server: 155.103.71.142
@@ -52184,7 +52395,7 @@ proxies:
     headers:
       Host: ccc.010304.xyz
     path: /fp=chrome
-- name: Unknown_vless_1059
+- name: Unknown_vless_1058
   network: ws
   port: 443
   server: 155.103.71.142
@@ -52198,7 +52409,7 @@ proxies:
     path: /fp=chromefp=chrome
 - client-fingerprint: chrome
   encryption: none
-  name: Unknown_vless_1060
+  name: Unknown_vless_1059
   network: ws
   port: 443
   server: 104.21.94.161
@@ -52210,7 +52421,7 @@ proxies:
     headers:
       Host: ccc.010304.xyz
     path: /
-- name: Unknown_vless_1061
+- name: Unknown_vless_1060
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -52223,7 +52434,7 @@ proxies:
       Host: hhlfy.twiladaphne.ndjp.net
     path: /sg-melbi
 - client-fingerprint: chrome
-  name: Unknown_vless_1062
+  name: Unknown_vless_1061
   network: ws
   port: 443
   server: cf.090227.xyz
@@ -52235,7 +52446,7 @@ proxies:
     headers:
       Host: ccc.010304.xyz
     path: /fp=chrome
-- name: Unknown_vless_1063
+- name: Unknown_vless_1062
   network: ws
   port: 14430
   server: 178.172.227.228
@@ -52247,7 +52458,7 @@ proxies:
       Host: 178.172.227.228
     path: /vless
 - encryption: none
-  name: Unknown_vless_1064
+  name: Unknown_vless_1063
   network: tcp
   port: 10443
   server: 178.172.227.124
@@ -52256,7 +52467,7 @@ proxies:
   type: vless
   uuid: 1af36694-b548-4b18-89a0-bc076eab4ed7
 - encryption: none
-  name: Unknown_vless_1065
+  name: Unknown_vless_1064
   network: ws
   port: 14430
   server: 95.128.71.79
@@ -52268,20 +52479,7 @@ proxies:
     headers:
       Host: 95.128.71.79
     path: /vless
-- client-fingerprint: chrome
-  name: Unknown_vless_1066
-  network: ws
-  port: 443
-  server: 198.211.123.90
-  servername: ccc.010304.xyz
-  tls: true
-  type: vless
-  uuid: d342d11e-d224-4463-b982-532309285094
-  ws-opts:
-    headers:
-      Host: ccc.010304.xyz
-    path: /fp=unsafe
-- name: Unknown_vless_1067
+- name: Unknown_vless_1065
   network: ws
   port: 80
   server: 104.18.109.147
@@ -52294,7 +52492,7 @@ proxies:
     path: /Telegram-XV2ry2?ed=2048
 - client-fingerprint: chrome
   encryption: none
-  name: Unknown_vless_1068
+  name: Unknown_vless_1066
   network: ws
   port: 443
   server: 172.64.147.154
@@ -52307,7 +52505,7 @@ proxies:
       Host: powered-by-surena.configfarsi695fcfe8a2e58.workers.dev
     path: /
 - client-fingerprint: chrome
-  name: Unknown_vless_1069
+  name: Unknown_vless_1067
   network: ws
   port: 443
   server: 188.114.98.0
@@ -52321,7 +52519,7 @@ proxies:
     path: /id-pusat
 - client-fingerprint: chrome
   encryption: none
-  name: Unknown_vless_1070
+  name: Unknown_vless_1068
   network: ws
   port: 443
   server: 213.111.177.107
@@ -52333,7 +52531,7 @@ proxies:
     headers:
       Host: vlso5.1d.mom
     path: /socks5=888:888@hkip.1d.mom:1080
-- name: Unknown_vless_1071
+- name: Unknown_vless_1069
   port: 443
   server: 188.114.97.62
   tls: false
@@ -52341,7 +52539,7 @@ proxies:
   uuid: b15f187e-9b34-437c-8243-8651a8ada76c
   ws-opts:
     path: /stream/DEVCOP/8651a8ada76c/loc-1
-- name: Unknown_vless_1072
+- name: Unknown_vless_1070
   port: 465
   server: 91.107.244.35
   tls: false
@@ -52349,14 +52547,8 @@ proxies:
   uuid: a356fa77-7199-417a-80dd-0c0925789161
   ws-opts:
     path: /
-- name: Unknown_vless_1073
-  port: 25362
-  server: 193.148.253.194
-  tls: false
-  type: vless
-  uuid: 36fb6650-8a50-42b5-9f66-06538806f32c
 - encryption: none
-  name: Unknown_vless_1074
+  name: Unknown_vless_1071
   network: ws
   port: 80
   server: 104.27.88.172
@@ -52369,20 +52561,26 @@ proxies:
       Host: web-app-nr6wpa.app-tp57xz.workers.dev
     path: /api/ws
 - encryption: none
-  name: Unknown_vless_1075
+  name: Unknown_vless_1072
   network: tcp
   port: 16443
   server: 45.86.60.174
   tls: false
   type: vless
   uuid: 13e541f3-d09d-4633-89df-8513db0ced20
-- name: Unknown_vless_1076
+- name: Unknown_vless_1073
   port: 443
   server: 185.225.205.53
   tls: false
   type: vless
   uuid: 3d526c7f-059c-4e2b-b09a-8569b268935b
-- name: Unknown_vless_1077
+- name: Unknown_vless_1074
+  port: 443
+  server: 217.144.188.185
+  tls: false
+  type: vless
+  uuid: 8d954cbe-7ca9-402d-bfaf-aca6c92c04c3
+- name: Unknown_vless_1075
   network: ws
   port: 14430
   server: 45.144.234.157
@@ -52397,15 +52595,15 @@ proxies:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: Unknown_vless_1078
+  name: Unknown_vless_1076
   network: tcp
   port: 2053
-  server: 15.236.109.186
+  server: w.geogame.ir
   servername: w.geogame.ir
   tls: true
   type: vless
   uuid: fbda2834-b1e7-4148-afb9-deda31036a30
-- name: Unknown_vless_1079
+- name: Unknown_vless_1077
   network: ws
   port: 14430
   server: 138.124.70.41
@@ -52417,7 +52615,7 @@ proxies:
       Host: 138.124.70.41
     path: /vless
 - client-fingerprint: chrome
-  name: Unknown_vless_1080
+  name: Unknown_vless_1078
   network: ws
   port: 443
   server: 199.232.78.160
@@ -52429,13 +52627,15 @@ proxies:
     headers:
       Host: Appxdn.global.ssl.fastly.net
     path: /
-- name: Unknown_vless_1081
+- name: Unknown_vless_1079
   port: 443
   server: 161.97.160.224
   tls: false
   type: vless
   uuid: b81b4d1b-7f20-48f1-82dc-d24bef898cab
-- name: Unknown_vless_1082
+- encryption: none
+  name: Unknown_vless_1080
+  network: ws
   port: 80
   server: 152.228.162.19
   tls: false
@@ -52443,21 +52643,8 @@ proxies:
   uuid: f5c47e9c-914a-4a91-a81e-a5a77bc10fc1
   ws-opts:
     path: /vless/
-- client-fingerprint: chrome
-  name: Unknown_vless_1083
-  network: ws
-  port: 443
-  server: cf.130519.xyz
-  servername: ccc.010304.xyz
-  tls: true
-  type: vless
-  uuid: d342d11e-d224-4463-b982-532309285094
-  ws-opts:
-    headers:
-      Host: ccc.010304.xyz
-    path: /
 - client-fingerprint: firefox
-  name: Unknown_vless_1084
+  name: Unknown_vless_1081
   network: ws
   port: 443
   server: 178.104.70.11
@@ -52469,20 +52656,7 @@ proxies:
     headers:
       Host: parsa-panel-dy55x.railway1385-2a46.workers.dev
     path: /
-- client-fingerprint: chrome
-  name: Unknown_vless_1085
-  network: ws
-  port: 443
-  server: 172.67.76.40
-  servername: ccc.010304.xyz
-  tls: true
-  type: vless
-  uuid: d342d11e-d224-4463-b982-532309285094
-  ws-opts:
-    headers:
-      Host: ccc.010304.xyz
-    path: /
-- name: Unknown_vless_1086
+- name: Unknown_vless_1082
   network: ws
   port: 443
   server: 178.104.70.11
@@ -52495,7 +52669,7 @@ proxies:
       Host: parsa-panel-dy55x.railway1385-2a46.workers.dev
     path: /fp=firefox
 - client-fingerprint: chrome
-  name: Unknown_vless_1087
+  name: Unknown_vless_1083
   network: ws
   port: 443
   server: 172.67.138.17
@@ -52507,11 +52681,24 @@ proxies:
     headers:
       Host: ccc.010304.xyz
     path: /
+- client-fingerprint: unsafe
+  name: Unknown_vless_1084
+  network: ws
+  port: 443
+  server: 104.27.93.208
+  servername: ccc.010304.xyz
+  tls: true
+  type: vless
+  uuid: d342d11e-d224-4463-b982-532309285094
+  ws-opts:
+    headers:
+      Host: ccc.010304.xyz
+    path: /fp
 - alpn:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: Unknown_vless_1088
+  name: Unknown_vless_1085
   network: tcp
   port: 8443
   server: node-uk.connectsuite.org
@@ -52519,9 +52706,7 @@ proxies:
   tls: true
   type: vless
   uuid: c08f0056-7a6d-4931-813b-aaa3cdd00aed
-- client-fingerprint: chrome
-  encryption: none
-  name: Unknown_vless_1089
+- name: Unknown_vless_1086
   network: ws
   port: 443
   server: 159.65.51.189
@@ -52533,32 +52718,32 @@ proxies:
   ws-opts:
     headers:
       Host: ccc.010304.xyz
+    path: /fp=chrome
+- client-fingerprint: chrome
+  name: Unknown_vless_1087
+  network: ws
+  port: 443
+  server: 159.65.51.189
+  servername: ccc.010304.xyz
+  tls: true
+  type: vless
+  uuid: d342d11e-d224-4463-b982-532309285094
+  ws-opts:
+    headers:
+      Host: ccc.010304.xyz
     path: /
 - client-fingerprint: firefox
-  encryption: none
-  name: Unknown_vless_1090
+  name: Unknown_vless_1088
   network: tcp
   port: 31884
   server: 152.175.6.229
   servername: hk010.zestapp778.com
   tls: true
   type: vless
-  udp: true
   uuid: e9a8144e-5237-488a-afb1-9ca3d8d54c80
   ws-opts:
     path: /
-- name: Unknown_vless_1091
-  network: ws
-  port: 1443
-  server: 38.76.180.144
-  tls: false
-  type: vless
-  uuid: d98b67d4-024a-4bba-91e2-e6ebece6df11
-  ws-opts:
-    headers:
-      Host: 38.76.180.144
-    path: /vless-ws
-- name: Unknown_vless_1092
+- name: Unknown_vless_1089
   port: 443
   server: 188.114.98.0
   tls: false
@@ -52566,7 +52751,7 @@ proxies:
   uuid: 326227e2-f2d1-4f43-8715-9da854f5f4c0
   ws-opts:
     path: /326227e2-f2d1-4f43-8715-9da854f5f4c0
-- name: Unknown_vless_1093
+- name: Unknown_vless_1090
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -52578,18 +52763,20 @@ proxies:
     headers:
       Host: fornewiran.ade-1000.workers.dev
     path: /vl/yLWNcuUuw1jlJpkDhGy?ed=2560
-- client-fingerprint: firefox
-  name: Unknown_vless_1094
-  network: tcp
-  port: 57353
-  server: 130.94.95.198
-  servername: in001.zestapp778.com
-  skip-cert-verify: true
-  tls: true
+- name: Unknown_vless_1091
+  network: ws
+  port: 8080
+  server: 104.21.70.21
+  tls: false
   type: vless
-  uuid: e9a8144e-5237-488a-afb1-9ca3d8d54c80
-- client-fingerprint: firefox
-  name: Unknown_vless_1095
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  ws-opts:
+    headers:
+      Host: vms.lifetime11.workers.dev
+    path: /
+- client-fingerprint: chrome
+  encryption: none
+  name: Unknown_vless_1092
   network: ws
   port: 443
   server: 122.176.216.52
@@ -52601,11 +52788,11 @@ proxies:
     headers:
       Host: app-6ada5023.deploy.meerasolution.com
     path: /ws/16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88
-- encryption: none
-  name: Unknown_vless_1096
+- name: Unknown_vless_1093
   network: ws
   port: 14430
   server: 13.140.56.100
+  servername: 13.140.56.100
   tls: false
   type: vless
   uuid: 68512eac-cd53-4de3-8d1e-08f6e04af1a9
@@ -52613,21 +52800,8 @@ proxies:
     headers:
       Host: 13.140.56.100
     path: /vless
-- client-fingerprint: chrome
-  name: Unknown_vless_1097
-  network: ws
-  port: 443
-  server: cf.090227.xyz
-  servername: ccc.010304.xyz
-  tls: true
-  type: vless
-  uuid: d342d11e-d224-4463-b982-532309285094
-  ws-opts:
-    headers:
-      Host: ccc.010304.xyz
-    path: /
 - encryption: none
-  name: Unknown_vless_1098
+  name: Unknown_vless_1094
   network: ws
   port: 8080
   server: 104.21.70.21
@@ -52639,7 +52813,7 @@ proxies:
     headers:
       Host: nautica-cff.kloningstrife002.workers.dev
     path: /138.2.74.219-28616
-- name: Unknown_vless_1099
+- name: Unknown_vless_1095
   network: ws
   port: 443
   server: 207.148.115.152
@@ -52653,7 +52827,7 @@ proxies:
     path: /socks5=888:888@hkip.1d.mom:1080fp=chrome
 - client-fingerprint: chrome
   encryption: none
-  name: Unknown_vless_10100
+  name: Unknown_vless_1096
   network: ws
   port: 443
   server: 207.148.115.152
@@ -52666,10 +52840,10 @@ proxies:
       Host: vlso5.1d.mom
     path: /socks5=888:888@hkip.1d.mom:1080
 - client-fingerprint: chrome
-  name: Unknown_vless_10101
+  name: Unknown_vless_1097
   network: ws
   port: 443
-  server: 104.17.210.74
+  server: 104.16.10.234
   servername: jp3.yohototo.top
   tls: true
   type: vless
@@ -52678,7 +52852,7 @@ proxies:
     headers:
       Host: jp3.yohototo.top
     path: /tyxyws
-- name: Unknown_vless_10102
+- name: Unknown_vless_1098
   network: tcp
   port: 47878
   server: 152.69.195.67
@@ -52687,7 +52861,7 @@ proxies:
   uuid: eb8613e3-8393-4cff-a3ad-6501fd4adc63
 - client-fingerprint: unsafe
   encryption: none
-  name: Unknown_vless_10103
+  name: Unknown_vless_1099
   network: ws
   port: 443
   server: 188.114.97.6
@@ -52699,23 +52873,9 @@ proxies:
     headers:
       Host: nautica-cff.kloningstrife002.workers.dev
     path: /138.2.74.219-28616
-- client-fingerprint: unsafe
-  encryption: none
-  name: Unknown_vless_10104
-  network: ws
-  port: 443
-  server: 172.67.231.28
-  servername: ccc.010304.xyz
-  tls: true
-  type: vless
-  uuid: d342d11e-d224-4463-b982-532309285094
-  ws-opts:
-    headers:
-      Host: ccc.010304.xyz
-    path: /fp=chrome
 - client-fingerprint: ios
   encryption: none
-  name: Unknown_vless_10105
+  name: Unknown_vless_10100
   network: ws
   port: 443
   server: 104.21.73.135
@@ -52727,50 +52887,38 @@ proxies:
     headers:
       Host: web-app-ji3j1z.app-wuuhuw.workers.dev
     path: /api/ws
-- name: Unknown_vless_10106
+- encryption: none
+  name: Unknown_vless_10101
   network: ws
-  port: 443
-  server: 104.21.221.158
-  servername: ccc.010304.xyz
+  port: 11424
+  server: 38.47.96.220
+  servername: notls.lukongtou.eu.org
   skip-cert-verify: false
   tls: true
   type: vless
-  uuid: d342d11e-d224-4463-b982-532309285094
+  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
   ws-opts:
     headers:
-      Host: ccc.010304.xyz
-    path: /fp=unsafefp=unsafe
+      Host: notls.lukongtou.eu.org
+    path: Telegram-WangCai2🇨🇳
 - client-fingerprint: chrome
   encryption: none
-  name: Unknown_vless_10107
+  name: Unknown_vless_10102
   network: ws
-  port: 443
-  server: 172.67.155.148
-  servername: ccc.010304.xyz
+  port: 2096
+  server: courses.mftplus.qzz.io
+  servername: courses.mftplus.qzz.io
   tls: true
   type: vless
-  uuid: d342d11e-d224-4463-b982-532309285094
+  uuid: b9ede7a5-5b4b-4aee-ac37-2c307e587e47
   ws-opts:
     headers:
-      Host: ccc.010304.xyz
-    path: /fp
-- name: Unknown_vless_10108
-  network: ws
-  port: 8080
-  server: 188.114.99.0
-  servername: hhlfy.twiladaphne.ndjp.net
-  tls: false
-  type: vless
-  uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b
-  ws-opts:
-    headers:
-      Host: hhlfy.twiladaphne.ndjp.net
-    path: /sg-melbi
-- name: Unknown_vless_10109
+      Host: courses.mftplus.qzz.io
+    path: /eyJqdW5rIjoidVkzQm1ROUg4dyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=
+- name: Unknown_vless_10103
   network: ws
   port: 25555
   server: 152.69.226.63
-  servername: 152.69.226.63
   tls: false
   type: vless
   uuid: 27c5483f-17f4-48ae-9a04-def53d88440d
@@ -52778,7 +52926,7 @@ proxies:
     path: /
 - client-fingerprint: chrome
   encryption: none
-  name: Unknown_vless_10110
+  name: Unknown_vless_10104
   network: ws
   port: 443
   server: 38.180.38.137
@@ -52794,7 +52942,7 @@ proxies:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: Unknown_vless_10111
+  name: Unknown_vless_10105
   network: tcp
   port: 443
   server: free.vkehi.store
@@ -52811,7 +52959,7 @@ proxies:
   - http/1.1
   client-fingerprint: chrome
   encryption: none
-  name: Unknown_vless_10112
+  name: Unknown_vless_10106
   network: ws
   port: 2087
   server: news.zoom.us
@@ -52825,7 +52973,7 @@ proxies:
     path: /
 - client-fingerprint: chrome
   encryption: none
-  name: Unknown_vless_10113
+  name: Unknown_vless_10107
   network: ws
   port: 443
   server: 185.153.198.86
@@ -52837,11 +52985,11 @@ proxies:
     headers:
       Host: vlso5.1d.mom
     path: /socks5=888:888@hkip.1d.mom:1080
-- client-fingerprint: chrome
-  name: Unknown_vless_10114
+- client-fingerprint: unsafe
+  name: Unknown_vless_10108
   network: ws
   port: 443
-  server: 172.67.166.188
+  server: vpn.cintaku.qzz.io
   servername: vpn.cintaku.qzz.io
   tls: true
   type: vless
@@ -52850,25 +52998,10 @@ proxies:
     headers:
       Host: vpn.cintaku.qzz.io
     path: /vlessws
-- client-fingerprint: chrome
-  encryption: none
-  name: Unknown_vless_10115
-  network: ws
-  port: 443
-  server: 216.173.67.59
-  servername: ccc.010304.xyz
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: d342d11e-d224-4463-b982-532309285094
-  ws-opts:
-    headers:
-      Host: ccc.010304.xyz
-    path: /
 - alpn:
   - http/1.1
   client-fingerprint: firefox
-  name: Unknown_vless_10116
+  name: Unknown_vless_10109
   network: ws
   port: 8444
   server: 95.142.32.42
@@ -52880,13 +53013,13 @@ proxies:
     headers:
       Host: nl18.meshbeat.online
     path: /api/v1/devices/86f81c4330/telemetry
-- name: Unknown_vless_10117
+- name: Unknown_vless_10110
   port: 443
   server: 45.141.202.69
   tls: false
   type: vless
   uuid: 5c32201a-6c0e-451b-8f0a-24b4bd40df59
-- name: Unknown_vless_10118
+- name: Unknown_vless_10111
   port: 443
   server: 5.149.249.94
   tls: false
@@ -52895,7 +53028,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: firefox
-  name: Unknown_vless_10119
+  name: Unknown_vless_10112
   network: ws
   port: 443
   server: 91.185.83.44
@@ -52908,7 +53041,7 @@ proxies:
       Host: nguyxejonb.rucdncomp.pro
     path: /service/telemetry/0294da469190/
 - client-fingerprint: firefox
-  name: Unknown_vless_10120
+  name: Unknown_vless_10113
   network: ws
   port: 8443
   server: lte-v2-ws.gacvpn.site
@@ -52920,22 +53053,8 @@ proxies:
     headers:
       Host: lte-v2-ws.gacvpn.site
     path: /static/js/runtime.9d03c7.js
-- client-fingerprint: firefox
-  encryption: none
-  name: Unknown_vless_10121
-  network: ws
-  port: 8444
-  server: 145.63.143.205
-  servername: pl1.meshbeat.online
-  tls: true
-  type: vless
-  uuid: 35c9f200-7520-4005-b78e-f8a2fb9f68f7
-  ws-opts:
-    headers:
-      Host: pl1.meshbeat.online
-    path: /api/v1/devices/10be32b380/telemetry
 - client-fingerprint: chrome
-  name: Unknown_vless_10122
+  name: Unknown_vless_10114
   network: tcp
   port: 2087
   server: 2.26.6.1
@@ -52943,23 +53062,9 @@ proxies:
   tls: true
   type: vless
   uuid: b9fdc03f-389b-4cda-9be4-155b623bee15
-- alpn:
-  - h2
-  - http/1.1
-  client-fingerprint: chrome
-  grpc-opts:
-    grpc-service-name: beru-pl
-  name: Unknown_vless_10123
-  network: grpc
-  port: 8445
-  server: ru1.radiolumens.uk
-  servername: ru1.radiolumens.uk
-  tls: true
-  type: vless
-  uuid: 36cf792c-f07d-4500-97ea-a395e5178deb
 - client-fingerprint: unsafe
   encryption: none
-  name: Unknown_vless_10124
+  name: Unknown_vless_10115
   network: ws
   port: 443
   server: 104.21.221.158
@@ -52977,31 +53082,32 @@ proxies:
   client-fingerprint: chrome
   grpc-opts:
     grpc-service-name: vlgrpc
-  name: Unknown_vless_10125
+  name: Unknown_vless_10116
   network: grpc
   port: 443
   server: 201.24.121.243
   servername: kk-ru24a1.testkknegr.online
-  skip-cert-verify: false
   tls: true
   type: vless
   uuid: 32b5ca9b-3f81-4031-965d-e8b074216e8d
 - client-fingerprint: chrome
   grpc-opts:
+    grpc-mode: gun
     grpc-service-name: grpc-ru
-  name: Unknown_vless_10126
+  name: Unknown_vless_10117
   network: grpc
   port: 443
   server: xssite.webredirect.org
   servername: xssite.webredirect.org
   tls: true
   type: vless
+  udp: true
   uuid: c90395e6-2140-47ad-a54d-9b166729d3ef
 - alpn:
   - h2
   - http/1.1
   client-fingerprint: firefox
-  name: Unknown_vless_10127
+  name: Unknown_vless_10118
   network: tcp
   port: 443
   server: 194.104.94.141
@@ -53012,7 +53118,7 @@ proxies:
 - client-fingerprint: firefox
   grpc-opts:
     grpc-service-name: 138-124-86-230-sslip-io
-  name: Unknown_vless_10128
+  name: Unknown_vless_10119
   network: grpc
   port: 48115
   server: 138.124.86.230
@@ -53020,7 +53126,7 @@ proxies:
   tls: true
   type: vless
   uuid: b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b
-- name: Unknown_vless_10129
+- name: Unknown_vless_10120
   network: ws
   port: 14430
   server: 5.178.109.174
@@ -53032,8 +53138,16 @@ proxies:
     headers:
       Host: 5.178.109.174
     path: /vless
+- client-fingerprint: chrome
+  name: Unknown_vless_10121
+  port: 56984
+  server: sg1.zestapp778.com
+  servername: sg1.zestapp778.com
+  tls: true
+  type: vless
+  uuid: e9a8144e-5237-488a-afb1-9ca3d8d54c80
 - client-fingerprint: firefox
-  name: Unknown_vless_10130
+  name: Unknown_vless_10122
   network: tcp
   port: 443
   server: 45.76.155.179
@@ -53041,7 +53155,20 @@ proxies:
   tls: true
   type: vless
   uuid: e9a8144e-5237-488a-afb1-9ca3d8d54c80
-- name: Unknown_vless_10131
+- client-fingerprint: chrome
+  name: Unknown_vless_10123
+  network: ws
+  port: 2096
+  server: 139.162.27.96
+  servername: free-server.techsonic.dev
+  tls: true
+  type: vless
+  uuid: 6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2
+  ws-opts:
+    headers:
+      Host: free-server.techsonic.dev
+    path: /free-server.techsonic.dev
+- name: Unknown_vless_10124
   network: ws
   port: 8880
   server: 89.117.112.40
@@ -53054,7 +53181,7 @@ proxies:
     path: /
 - client-fingerprint: firefox
   encryption: none
-  name: Unknown_vless_10132
+  name: Unknown_vless_10125
   network: ws
   port: 8443
   server: 146.103.24.187
@@ -53066,7 +53193,7 @@ proxies:
     headers:
       Host: vlso5.1d.mom
     path: /
-- name: Unknown_vless_10133
+- name: Unknown_vless_10126
   network: ws
   port: 8443
   server: 146.103.24.187
@@ -53079,20 +53206,7 @@ proxies:
       Host: vlso5.1d.mom
     path: /fp=firefox
 - client-fingerprint: chrome
-  name: Unknown_vless_10134
-  network: ws
-  port: 8443
-  server: n04.jinggai.online
-  servername: n04.jinggai.online
-  tls: true
-  type: vless
-  uuid: 91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a
-  ws-opts:
-    headers:
-      Host: n04.jinggai.online
-    path: /nvl-n04-ws/e0577fe8fd7c8823
-- client-fingerprint: chrome
-  name: Unknown_vless_10135
+  name: Unknown_vless_10127
   network: ws
   port: 443
   server: 60.248.219.53
@@ -53107,7 +53221,7 @@ proxies:
     path: /81574b6b-c9d7-44a0-b83d-dad56e8cb530
 - client-fingerprint: chrome
   encryption: none
-  name: Unknown_vless_10136
+  name: Unknown_vless_10128
   network: ws
   port: 443
   server: 188.253.6.249
@@ -53119,8 +53233,7 @@ proxies:
     headers:
       Host: vlso5.1d.mom
     path: /socks5=888:888@hkip.1d.mom:1080
-- encryption: none
-  name: Unknown_vless_10137
+- name: Unknown_vless_10129
   network: tcp
   port: 2086
   server: 150.95.109.109
@@ -53129,7 +53242,7 @@ proxies:
   uuid: b83faafc-cbb7-4655-99d4-2c4c39a49d1b
 - client-fingerprint: chrome
   encryption: none
-  name: Unknown_vless_10138
+  name: Unknown_vless_10130
   network: ws
   port: 443
   server: 139.84.242.103
@@ -53143,7 +53256,7 @@ proxies:
     path: /socks5=888:888@hkip.1d.mom:1080
 - client-fingerprint: chrome
   encryption: none
-  name: Unknown_vless_10139
+  name: Unknown_vless_10131
   network: ws
   port: 8443
   server: 156.38.157.171
@@ -53156,593 +53269,643 @@ proxies:
       Host: vlso5.1d.mom
     path: /socks5=888:888@hkip.1d.mom:1080
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10140
+  name: Unknown_ss_10132
   password: AdawffFMHymlasRb0VOP3HFf7sTG5sJx
   port: 8388
   server: 152.53.1.57
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10141
+  name: Unknown_ss_10133
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 82.110.60.9
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10142
+  name: Unknown_ss_10134
   password: zDNVedRFPQexG9v
   port: 445
   server: 51.222.141.125
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10143
+  name: Unknown_ss_10135
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 51.79.85.185
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10144
+  name: Unknown_ss_10136
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 51.222.200.165
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10145
+  name: Unknown_ss_10137
   password: kDWvXYZoTBcGkC4
   port: 8882
   server: 51.222.136.236
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10146
+  name: Unknown_ss_10138
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 51.222.155.113
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10147
+  name: Unknown_ss_10139
   password: g5MeD6Ft3CWlJId
   port: 5003
   server: 51.222.155.32
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10148
+  name: Unknown_ss_10140
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 51.79.64.198
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10149
+  name: Unknown_ss_10141
   password: kDWvXYZoTBcGkC4
   port: 8882
   server: 51.79.49.116
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10150
+  name: Unknown_ss_10142
   password: zDNVedRFPQexG9v
   port: 445
   server: 51.222.12.127
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10151
+  name: Unknown_ss_10143
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 23.166.88.127
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10152
+  name: Unknown_ss_10144
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 186.190.215.251
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10153
+  name: Unknown_ss_10145
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 79.127.184.104
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10154
+  name: Unknown_ss_10146
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 57.129.83.85
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10155
+  name: Unknown_ss_10147
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 193.108.119.3
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10156
+  name: Unknown_ss_10148
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 23.157.88.43
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10157
+  name: Unknown_ss_10149
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 193.108.119.2
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10158
+  name: Unknown_ss_10150
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 66.163.118.103
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10159
+  name: Unknown_ss_10151
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 167.17.71.167
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10160
+  name: Unknown_ss_10152
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 79.127.139.242
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10161
+  name: Unknown_ss_10153
   password: v1c-i5SSFXP8n4g1Wbc0L9gX82x5O2Qa
   port: 1354
   server: dns27.m3hrzd.ir
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10162
+  name: Unknown_ss_10154
   password: v1c-i5SSFXP8n4g1Wbc0L9gX82x5O2Qa
   port: 1346
   server: dns22.m3hrzd.ir
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10163
+  name: Unknown_ss_10155
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 23.162.152.22
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10164
+  name: Unknown_ss_10156
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 38.109.228.110
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10165
+  name: Unknown_ss_10157
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 167.17.64.27
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10166
+  name: Unknown_ss_10158
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 172.99.189.142
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10167
+  name: Unknown_ss_10159
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 167.17.64.175
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10168
+  name: Unknown_ss_10160
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 167.17.64.22
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10169
+  name: Unknown_ss_10161
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 198.244.201.129
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10170
+  name: Unknown_ss_10162
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 198.244.202.215
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10171
+  name: Unknown_ss_10163
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 142.202.51.22
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10172
+  name: Unknown_ss_10164
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 38.114.120.221
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10173
+  name: Unknown_ss_10165
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 185.176.206.9
   type: ss
 - cipher: aes-128-gcm
-  name: Unknown_ss_10174
+  name: Unknown_ss_10166
   password: shadowsocks
   port: 443
   server: 158.173.24.73
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10175
+  name: Unknown_ss_10167
   password: RexnBgU7EV5ADxG
   port: 7001
   server: 94.156.250.148
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10176
+  name: Unknown_ss_10168
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 149.50.215.234
+  type: ss
+- cipher: aes-256-gcm
+  name: Unknown_ss_10169
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.63
   type: ss
-  udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_10177
+  name: Unknown_ss_10170
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.54
   type: ss
+  udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_10178
+  name: Unknown_ss_10171
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.72
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_10179
+  name: Unknown_ss_10172
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.18
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_10180
+  name: Unknown_ss_10173
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.99
   type: ss
-  udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_10181
+  name: Unknown_ss_10174
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.45
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_10182
+  name: Unknown_ss_10175
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.36
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_10183
+  name: Unknown_ss_10176
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.81
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_10184
+  name: Unknown_ss_10177
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.90
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_10185
+  name: Unknown_ss_10178
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.27
   type: ss
+  udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_10186
+  name: Unknown_ss_10179
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 185.164.175.81
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10187
+  name: Unknown_ss_10180
   password: BeaUf9c0AEWH40Pu
   port: 8388
   server: 154.36.158.197
   type: ss
-  udp: true
 - cipher: aes-256-gcm
-  name: Unknown_ss_10188
+  name: Unknown_ss_10181
   password: 3eOFeNssde7PYYMv
   port: 443
   server: 84.247.155.196
   type: ss
 - cipher: aes-128-gcm
-  name: Unknown_ss_10189
+  name: Unknown_ss_10182
   password: shadowsocks
   port: 443
   server: 149.22.87.204
   type: ss
 - cipher: aes-128-gcm
-  name: Unknown_ss_10190
+  name: Unknown_ss_10183
   password: shadowsocks
   port: 443
   server: 149.22.87.240
   type: ss
+- cipher: aes-128-gcm
+  name: Unknown_ss_10184
+  password: shadowsocks
+  port: 443
+  server: 149.22.87.241
+  type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10191
+  name: Unknown_ss_10185
   password: Y6R9pAtvxxzmGC
-  port: 9090
+  port: 8888
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10192
+  name: Unknown_ss_10186
   password: BWyPPTusFKhGgzKh
   port: 8388
   server: 64.177.90.30
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10193
+  name: Unknown_ss_10187
   password: 28789988-887e-4e41-83cd-27bbfb7999ad
   port: 40006
   server: xunlinknode.csdjhajkshdjkas.com
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Unknown_ss_10188
+  password: hCgbUnMaoAfSgvE8IKdnGu
+  port: 24759
+  server: 77.221.132.206
+  type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10194
+  name: Unknown_ss_10189
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 151.241.19.36
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10195
+  name: Unknown_ss_10190
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 151.241.19.29
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10196
+  name: Unknown_ss_10191
   password: v1c-i5SSFXP8n4g1Wbc0L9gX82x5O2Qa
   port: 8044
   server: 185.4.115.146
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10197
+  name: Unknown_ss_10192
   password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
   port: 990
   server: 185.213.23.63
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10198
+  name: Unknown_ss_10193
   password: 6heexyz
   port: 443
   server: 54.36.174.140
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10199
+  name: Unknown_ss_10194
   password: 6heexyz
   port: 443
   server: pl134.vpnbook.com
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10200
+  name: Unknown_ss_10195
   password: U83u9OGpvSatIUW7LsWffr
   port: 64546
   server: 194.68.44.42
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10201
+  name: Unknown_ss_10196
   password: QFWzCw2uX9B9i6qAYeFBIE
   port: 443
   server: 154.46.31.106
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10202
+  name: Unknown_ss_10197
   password: v1c-i5SSFXP8n4g1Wbc0L9gX82x5O2Qa
   port: 1355
   server: dns27.m3hrzd.ir
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10203
+  name: Unknown_ss_10198
   password: VVlAff77CnAU43Aoc5j15Y
   port: 5112
   server: 90.156.203.62
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10204
+  name: Unknown_ss_10199
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 138.199.55.243
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10205
+  name: Unknown_ss_10200
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 51.79.228.131
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10206
+  name: Unknown_ss_10201
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 15.235.182.183
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10207
+  name: Unknown_ss_10202
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 15.235.164.133
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10208
+  name: Unknown_ss_10203
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.106.74
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10209
+  name: Unknown_ss_10204
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.107.74
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10210
+  name: Unknown_ss_10205
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.107.47
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10211
+  name: Unknown_ss_10206
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 38.91.107.188
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: Unknown_ss_10207
+  password: jUbDNsFamcyDfpm+rI3Zyw==
+  port: 8443
+  server: 38.145.220.193
+  type: ss
+- cipher: aes-256-gcm
+  name: Unknown_ss_10208
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 23.150.152.38
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10212
+  name: Unknown_ss_10209
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 167.88.62.203
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10213
+  name: Unknown_ss_10210
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 167.88.63.99
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10214
+  name: Unknown_ss_10211
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 38.121.43.231
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10215
+  name: Unknown_ss_10212
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.40.57.138
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10216
+  name: Unknown_ss_10213
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 38.121.43.225
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10217
+  name: Unknown_ss_10214
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 38.22.17.219
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10218
+  name: Unknown_ss_10215
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.40.57.133
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10219
+  name: Unknown_ss_10216
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 216.106.178.169
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10220
+  name: Unknown_ss_10217
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 169.197.142.68
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10221
+  name: Unknown_ss_10218
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 162.251.62.31
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10222
+  name: Unknown_ss_10219
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 38.121.43.18
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10223
+  name: Unknown_ss_10220
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 137.184.89.151
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10224
+  name: Unknown_ss_10221
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 38.91.100.39
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10225
+  name: Unknown_ss_10222
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 38.128.66.32
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10226
+  name: Unknown_ss_10223
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 84.20.27.183
   type: ss
 - cipher: aes-256-gcm
-  name: Unknown_ss_10227
+  name: Unknown_ss_10224
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 172.111.36.123
   type: ss
-- cipher: aes-256-gcm
-  name: Unknown_ss_10228
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 38.22.17.129
-  type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10229
+  name: Unknown_ss_10225
   password: aduB9HGxQHjA2SBMRjkHX6
   port: 443
   server: 102.37.156.224
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10230
+  name: Unknown_ss_10226
   password: Xsy8Ox4yOV3xLlpxtjzs3X
   port: 16233
   server: 102.133.165.160
   type: ss
-- name: Unknown_trojan_10231
+- name: Unknown_trojan_10227
+  password: d9064589-74af-432a-9390-5d8a9da281bf
+  port: 20086
+  server: sclass-c1.catcat321.com
+  type: trojan
+- name: Unknown_trojan_10228
+  password: d9064589-74af-432a-9390-5d8a9da281bf
+  port: 20123
+  server: sclass-00.catcat321.com
+  skip-cert-verify: true
+  sni: hk.catxstar.com
+  type: trojan
+- name: Unknown_trojan_10229
+  password: d9064589-74af-432a-9390-5d8a9da281bf
+  port: 20086
+  server: sclass-c1.catcat321.com
+  skip-cert-verify: true
+  sni: hk.catxstar.com
+  type: trojan
+- name: Unknown_trojan_10230
+  network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 45.63.30.142
+  skip-cert-verify: true
   sni: connectwithemployerstohireyouridealteam.com
   type: trojan
-- name: Unknown_trojan_10232
-  network: tcp
-  password: 5t6i121em5lkmsmk
-  port: 39533
-  server: br001.zestapp778.com
-  sni: br001.zestapp778.com
-  type: trojan
-- name: Unknown_trojan_10233
+- name: Unknown_trojan_10231
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.238.104.154
   type: trojan
-- name: Unknown_trojan_10234
+- name: Unknown_trojan_10232
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 216.152.147.201
+  sni: resources.connectingpeoplewithgreatjobs.com
+  type: trojan
+- name: Unknown_trojan_10233
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 216.152.147.89
+  sni: www.connectingpeoplewithgreatjobs.com
+  type: trojan
+- name: Unknown_trojan_10234
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 216.152.147.74
+  sni: api.connectingpeoplewithgreatjobs.com
   type: trojan
 - name: Unknown_trojan_10235
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
-  server: 216.152.147.74
+  server: 216.152.147.93
+  sni: connectingpeoplewithgreatjobs.com
   type: trojan
 - name: Unknown_trojan_10236
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
-  server: 216.152.147.152
-  sni: learn.connectingpeoplewithgreatjobs.com
+  server: 216.152.147.79
   type: trojan
 - name: Unknown_trojan_10237
   network: tcp
@@ -53780,34 +53943,34 @@ proxies:
   server: de-bots4.h1cloud.net
   type: trojan
 - name: Unknown_trojan_10243
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  port: 443
-  server: 193.108.119.78
-  type: trojan
-- name: Unknown_trojan_10244
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 193.108.119.96
   sni: learn.iloverussia2026.com
   type: trojan
-- name: Unknown_trojan_10245
+- name: Unknown_trojan_10244
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 193.108.119.193
   type: trojan
+- name: Unknown_trojan_10245
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 193.108.119.193
+  sni: resources.iloverussia2026.com
+  type: trojan
 - name: Unknown_trojan_10246
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 193.108.119.78
+  type: trojan
+- name: Unknown_trojan_10247
+  network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 64.176.163.182
   sni: exploreeducationsectoropportunitiestodayandadvancecareers.com
-  type: trojan
-- name: Unknown_trojan_10247
-  password: 5t6i121em5lkmsmk
-  port: 48851
-  server: kr002.zestapp778.com
-  skip-cert-verify: true
-  sni: kr002.zestapp778.com
   type: trojan
 - name: Unknown_trojan_10248
   password: 5931134d1cde66bf83a54acdfebe7ab2
@@ -53818,12 +53981,12 @@ proxies:
 - name: Unknown_trojan_10249
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
-  server: 66.163.127.215
+  server: 66.163.127.155
   type: trojan
 - name: Unknown_trojan_10250
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
-  server: 66.163.127.155
+  server: 66.163.127.215
   type: trojan
 - name: Unknown_trojan_10251
   network: tcp
@@ -53839,6 +54002,7 @@ proxies:
   sni: browseexecutivejobopeningsandenhanceleadershipcareer.com
   type: trojan
 - name: Unknown_trojan_10253
+  network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: 443
   server: 70.34.207.14
@@ -53884,10 +54048,830 @@ proxies:
   type: anytls
   udp: true
 - alpn:
+  - ''
+  alterId: 0
+  cipher: auto
+  http-opts:
+    headers:
+      Host:
+      - down-cdn.dingtalk.com
+    method: GET
+    path:
+    - /QQqun-737805443
+  name: Unknown_vmess_10260
+  network: http
+  port: 1288
+  server: 107.175.76.215
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 29a72eac-a4d1-4526-8fa0-d3ecc4e38b44
+- name: Unknown_http_10261
+  password: None
+  port: 443
+  server: 185.221.132.242
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10262
+  password: None
+  port: 443
+  server: 146.70.242.146
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10263
+  password: None
+  port: 443
+  server: 84.17.50.193
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10264
+  port: 9002
+  server: 158.173.154.5
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10265
+  port: 9002
+  server: 158.173.154.1
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10266
+  password: 'null'
+  port: 23856
+  server: 51.159.225.196
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+  username: 'null'
+- name: Unknown_http_10267
+  port: 23856
+  server: 51.159.225.196
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10268
+  port: 9002
+  server: 84.17.47.124
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10269
+  password: None
+  port: 31343
+  server: 120.232.204.58
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10270
+  port: 9090
+  server: 159.223.41.216
+  skip-cert-verify: true
+  sub_tag: K001-260618
+  type: http
+  udp: true
+- name: Unknown_http_10271
+  port: 9443
+  server: 213.139.9.142
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10272
+  port: 9443
+  server: 149.36.51.157
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10273
+  port: 9002
+  server: 138.199.35.212
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10274
+  password: None
+  port: 9443
+  server: 149.36.51.161
+  skip-cert-verify: true
+  sub_tag: K001-260618
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10275
+  password: 'null'
+  port: 443
+  server: 185.140.209.235
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- name: Unknown_http_10276
+  port: 443
+  server: 146.70.203.18
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10277
+  port: 9002
+  server: 138.199.35.213
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10278
+  password: 'null'
+  port: 9002
+  server: 138.199.35.206
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- name: Unknown_http_10279
+  port: 9002
+  server: 138.199.35.199
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10280
+  password: None
+  port: 9002
+  server: 138.199.35.204
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10281
+  password: 'null'
+  port: 9002
+  server: 138.199.35.211
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- name: Unknown_http_10282
+  password: None
+  port: 9002
+  server: 193.176.84.26
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10283
+  password: None
+  port: 9002
+  server: 193.176.84.24
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10284
+  password: None
+  port: 443
+  server: 149.36.50.1
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10285
+  port: 9002
+  server: 138.199.35.197
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10286
+  password: 'null'
+  port: 9002
+  server: 138.199.35.200
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- name: Unknown_http_10287
+  password: None
+  port: 9002
+  server: 138.199.35.208
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10288
+  password: 'null'
+  port: 9002
+  server: 138.199.35.210
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- name: Unknown_http_10289
+  port: 443
+  server: 121.127.34.82
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10290
+  port: 443
+  server: 146.70.244.18
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10291
+  password: None
+  port: 443
+  server: 87.249.132.97
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10292
+  password: None
+  port: 443
+  server: 82.66.235.221
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10293
+  port: 9443
+  server: 185.164.35.16
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10294
+  password: None
+  port: 443
+  server: 185.94.192.210
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10295
+  password: None
+  port: 9443
+  server: 185.245.84.50
+  skip-cert-verify: true
+  sub_tag: P002-260618
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10296
+  password: None
+  port: 443
+  server: 212.102.63.61
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10297
+  port: 443
+  server: 31.7.62.50
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10298
+  port: 443
+  server: 151.115.54.133
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10299
+  password: None
+  port: 443
+  server: 152.233.20.206
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10300
+  password: None
+  port: 1446
+  server: 46.29.166.134
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10301
+  port: 443
+  server: 169.150.248.17
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10302
+  password: None
+  port: 443
+  server: 172.64.68.89
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10303
+  password: None
+  port: 9002
+  server: 84.17.47.147
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_socks5_10304
+  port: 1080
+  server: 5.255.113.177
+  type: socks5
+- name: Unknown_http_10305
+  password: None
+  port: 443
+  server: 85.203.39.130
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10306
+  port: 443
+  server: 95.153.32.2
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10307
+  password: None
+  port: 443
+  server: 167.88.60.242
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10308
+  port: 9002
+  server: 84.17.47.150
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10309
+  port: 443
+  server: 192.227.176.234
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10310
+  port: 443
+  server: 87.120.103.242
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10311
+  port: 9443
+  server: 185.165.170.1
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10312
+  password: None
+  port: 443
+  server: 206.223.183.16
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10313
+  password: None
+  port: 443
+  server: 154.47.29.174
+  skip-cert-verify: true
+  sub_tag: K001-260618
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10314
+  port: 9443
+  server: 135.136.1.2
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10315
+  port: 443
+  server: 162.244.227.36
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10316
+  password: None
+  port: 8081
+  server: 31.32.19.111
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10317
+  port: 443
+  server: 149.34.248.65
+  skip-cert-verify: true
+  sub_tag: K001-260618
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10318
+  port: 9443
+  server: 38.165.231.71
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10319
+  port: 443
+  server: 87.120.103.226
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10320
+  port: 9443
+  server: 37.120.213.210
+  skip-cert-verify: true
+  sub_tag: R002-260618
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10321
+  password: None
+  port: 443
+  server: 156.146.56.97
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10322
+  password: None
+  port: 9443
+  server: 152.233.16.174
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10323
+  port: 443
+  server: 217.210.129.243
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10324
+  password: None
+  port: 443
+  server: 161.129.60.66
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10325
+  port: 443
+  server: 149.22.86.1
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10326
+  password: None
+  port: 443
+  server: 109.248.149.34
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10327
+  password: None
+  port: 443
+  server: 146.70.221.34
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10328
+  password: None
+  port: 9090
+  server: 152.42.170.187
+  type: http
+- name: Unknown_http_10329
+  password: None
+  port: 9443
+  server: 149.88.98.81
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10330
+  password: None
+  port: 443
+  server: 206.223.183.13
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10331
+  port: 443
+  server: 51.158.243.91
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10332
+  port: 9443
+  server: 149.88.99.209
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10333
+  port: 443
+  server: 149.102.245.65
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10334
+  port: 443
+  server: 195.54.178.210
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10335
+  port: 443
+  server: 79.142.77.63
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10336
+  port: 999
+  server: 82.152.138.127
+  type: http
+- ip: 172.16.0.2/32
+  keepalive: '5'
+  mtu: 1280
+  name: Unknown_wireguard_10337
+  persistent-keepalive: '5'
+  port: 2408
+  private-key: QA9tXp3mpp1GVAmE1wF/KAI4vT/pj6QaLaY4Lt1sXV0=
+  public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+  reserved:
+  - 149
+  - 115
+  - 173
+  server: 162.159.192.5
+  type: wireguard
+  udp: true
+  wnoise: quic
+  wnoisecount: '5'
+  wnoisedelay: '5'
+  wpayloadsize: 40-90
+- name: Unknown_http_10338
+  port: 9002
+  server: 193.176.84.26
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10339
+  port: 9002
+  server: 193.176.84.20
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10340
+  port: 8084
+  server: 81.85.4.216
+  skip-cert-verify: true
+  type: http
+- name: Unknown_http_10341
+  port: 11480
+  server: 147.161.246.246
+  skip-cert-verify: true
+  type: http
+- name: Unknown_http_10342
+  port: 10381
+  server: 147.161.246.35
+  skip-cert-verify: true
+  type: http
+- name: Unknown_socks5_10343
+  port: 10800
+  server: 46.8.158.144
+  skip-cert-verify: true
+  type: socks5
+- name: Unknown_http_10344
+  port: 11745
+  server: 147.161.246.246
+  skip-cert-verify: true
+  type: http
+- name: Unknown_http_10345
+  port: 8443
+  server: 18.206.28.143
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: Unknown_http_10346
+  port: 9002
+  server: 193.176.84.22
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10347
+  port: 9002
+  server: 193.176.84.17
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: true
+  type: http
+- name: Unknown_http_10348
+  password: None
+  port: 23856
+  server: 51.159.225.196
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- client-fingerprint: safari
+  grpc-opts:
+    grpc-mode: gun
+    grpc-service-name: sync.v1
+  name: Unknown_vless_10349
+  network: grpc
+  port: 443
+  server: 95.143.188.113
+  servername: jagamsrxd6.j.cloudfront.hls.vodcdn-edge.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: c47159bb-2c15-440d-b239-8594d7e7efbb
+- encryption: mlkem768x25519plus.native.0rtt.uwPGIH6MtgtCC_jw9LAU2Dz0EFw0MQWMVOYiC4KBnBI
+  name: Unknown_vless_10350
+  network: tcp
+  port: 80
+  server: 213.176.17.26
+  tls: false
+  type: vless
+  udp: true
+  uuid: 2cbf569e-c8f6-4ffb-bf17-495c8d7f1ea2
+  ws-opts:
+    path: /
+- alpn:
+  - h3
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  name: Unknown_vless_10351
+  network: ws
+  port: 2083
+  server: sino.bestsellers1.site
+  servername: sino.bestsellers1.site
+  tls: true
+  type: vless
+  udp: true
+  uuid: 0386df1b-7abd-4676-f3c6-d65d691023b9
+  ws-opts:
+    headers:
+      Host: sino.bestsellers1.site
+    path: /
+- client-fingerprint: firefox
+  name: Unknown_vless_10352
+  network: xhttp
+  port: 443
+  server: 193.160.208.240
+  servername: 193.160.208.240
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4777d90d-265b-4927-a0d1-63f36ed1421c
+  xhttp-opts:
+    mode: auto
+    path: /assets/twru01/
+- alpn:
+  - h3
+  auth-str: dongtaiwang.com
+  auth_str: dongtaiwang.com
+  down: 1000
+  name: Unknown_hysteria_10353
+  port: 54177
+  protocol: udp
+  server: 5.83.129.90
+  skip-cert-verify: true
+  sni: apple.com
+  type: hysteria
+  up: 500
+- grpc-opts:
+    grpc-mode: gun
+    grpc-service-name: vless
+  name: Unknown_vless_10354
+  network: grpc
+  port: 3090
+  server: 213.182.201.18
+  tls: true
+  type: vless
+  udp: true
+  uuid: 8bac7917-b4d2-4338-bbfc-5d47bda8c5ab
+- alpn:
+  - h3
+  auth-str: dongtaiwang.com
+  auth_str: dongtaiwang.com
+  down: 55
+  name: Unknown_hysteria_10355
+  port: 36699
+  protocol: none
+  server: 163.172.117.163
+  skip-cert-verify: true
+  sni: bing.com
+  type: hysteria
+  up: 11
+- client-fingerprint: chrome
+  name: Unknown_vless_10356
+  network: ws
+  port: 50818
+  server: 34.39.80.57
+  servername: yingguo.rymaker.cn
+  tls: true
+  type: vless
+  udp: true
+  uuid: 408c814e-f70a-4d16-b3b3-8182bb70211d
+  ws-opts:
+    path: /GunService
+- alpn:
+  - ''
+  alterId: 0
+  cipher: auto
+  name: Unknown_vmess_10357
+  network: ws
+  port: 44867
+  server: 47.244.120.197
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 845e6b08-2919-4290-ade0-5dc7dcea59ca
+  ws-opts:
+    path: /arki
+- alterId: 0
+  cipher: auto
+  name: Unknown_vmess_10358
+  network: ws
+  port: 23026
+  server: 47.244.120.197
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b9de1bc9-baa7-41ac-86f7-ccd59695cb21
+  ws-opts:
+    headers:
+      Host: 47.244.120.197
+    path: /arki
+- alterId: 0
+  cipher: auto
+  name: Unknown_vmess_10359
+  network: ws
+  port: 36703
+  server: 47.244.120.197
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
+  ws-opts:
+    path: /arki
+- cipher: chacha20-ietf-poly1305
+  name: Unknown_ss_10360
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 3.38.104.26
+  type: ss
+  udp: true
+- alpn:
+  - h3
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  name: Unknown_vless_10361
+  network: xhttp
+  port: 443
+  server: 198.202.24.27
+  servername: nl29.dr-ping.ir
+  tls: true
+  type: vless
+  udp: true
+  uuid: 64c5f924-1c24-44a5-acff-2e3ebcd2f807
+  xhttp-opts:
+    host: nl29.dr-ping.ir
+    mode: auto
+    path: /
+- client-fingerprint: firefox
+  name: Unknown_vless_10362
+  network: xhttp
+  port: 443
+  server: 201.34.142.108
+  servername: 201.34.142.108
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4777d90d-265b-4927-a0d1-63f36ed1421c
+  xhttp-opts:
+    mode: auto
+    path: /assets/nlrelay01/
+- client-fingerprint: firefox
+  name: Unknown_vless_10363
+  network: ws
+  port: 443
+  server: 185.86.147.175
+  servername: bhjolq0d0l.flowersgood.top
+  tls: true
+  type: vless
+  udp: true
+  uuid: 7955bf18-35c4-412d-aabd-c0b36c793063
+  ws-opts:
+    headers:
+      Host: bhjolq0d0l.flowersgood.top
+    path: /service/telemetry/045d381f1166/
+- alpn:
   - h2
   - http/1.1
   client-fingerprint: firefox
-  name: Unknown_vless_10260
+  name: Unknown_vless_10364
   network: xhttp
   port: 443
   server: cdn-ya.shamanapp.online
@@ -53914,545 +54898,15 @@ proxies:
     x-padding-method: tokenish
     x-padding-obfs-mode: true
     x-padding-placement: header
-- encryption: mlkem768x25519plus.native.0rtt.y5JdNqCVO7XqO9RT4eXLtujAUrOcx_xjNI5us06yMBI
-  flow: xtls-rprx-vision
-  http-opts:
-    headers:
-      Host:
-      - docs.github.com
-    path:
-    - /
-  name: Unknown_vless_10261
-  network: http
-  port: 49673
-  server: uyt24-k2.miniseries.ir
-  type: vless
-  udp: true
-  uuid: b86451af-4c98-4b7d-96e5-16f2e9df1d46
-  xudp: true
-- name: Unknown_http_10262
-  password: None
-  port: 443
-  server: 84.17.50.193
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10263
-  password: None
-  port: 9443
-  server: 146.70.170.210
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10264
-  port: 9443
-  server: 95.153.32.2
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10265
-  password: None
-  port: 9002
-  server: 84.17.47.123
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10266
-  password: None
-  port: 31343
-  server: 120.232.204.58
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10267
-  port: 9443
-  server: 79.127.156.177
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10268
-  port: 443
-  server: 146.70.176.242
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10269
-  password: None
-  port: 443
-  server: 185.221.132.226
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10270
-  password: None
-  port: 9443
-  server: 149.36.51.161
-  skip-cert-verify: true
-  sub_tag: K001-260618
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10271
-  password: None
-  port: 443
-  server: 149.88.96.1
-  skip-cert-verify: true
-  sub_tag: P002-260618
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10272
-  port: 443
-  server: 146.70.203.18
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10273
-  password: None
-  port: 443
-  server: 149.36.50.157
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10274
-  port: 443
-  server: 149.88.96.1
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10275
-  password: None
-  port: 443
-  server: 185.164.138.156
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10276
-  password: None
-  port: 9443
-  server: 149.88.27.33
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10277
-  password: None
-  port: 9443
-  server: 37.120.213.210
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10278
-  password: None
-  port: 443
-  server: 87.249.132.97
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10279
-  password: None
-  port: 9443
-  server: 198.44.157.27
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10280
-  port: 443
-  server: 172.64.69.89
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10281
-  password: None
-  port: 443
-  server: 185.94.192.210
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10282
-  port: 443
-  server: 31.7.62.50
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10283
-  port: 9443
-  server: 198.44.157.27
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10284
-  password: None
-  port: 443
-  server: 152.233.20.206
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10285
-  password: None
-  port: 443
-  server: 172.64.68.89
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10286
-  port: 9443
-  server: 84.17.50.129
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10287
-  password: None
-  port: 443
-  server: 185.245.84.50
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10288
-  password: None
-  port: 9002
-  server: 84.17.47.147
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10289
-  password: None
-  port: 443
-  server: 149.88.21.129
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10290
-  port: 443
-  server: 206.223.161.47
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10291
-  password: None
-  port: 443
-  server: 167.88.60.242
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10292
-  port: 9443
-  server: 213.177.229.161
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10293
-  port: 443
-  server: 192.227.176.234
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10294
-  port: 9443
-  server: 185.165.170.1
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10295
-  port: 9443
-  server: 135.136.1.2
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10296
-  password: None
-  port: 443
-  server: 154.47.29.161
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10297
-  port: 443
-  server: 68.235.56.51
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10298
-  password: None
-  port: 443
-  server: 149.36.50.129
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10299
-  password: None
-  port: 443
-  server: 213.207.130.34
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10300
-  port: 9443
-  server: 95.153.31.66
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10301
-  password: None
-  port: 443
-  server: 37.120.156.18
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10302
-  port: 443
-  server: 12.202.180.118
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: Unknown_http_10303
-  port: 443
-  server: 37.120.156.34
-  skip-cert-verify: true
-  tls: true
-  type: http
-- ip: 172.16.0.2/32
-  keepalive: '5'
-  mtu: 1280
-  name: Unknown_wireguard_10304
-  persistent-keepalive: '5'
-  port: 2408
-  private-key: oDBa7PDoBqN5gYRO5pL59noH6dQpXt40AETlDNlNtl8=
-  public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-  reserved:
-  - 121
-  - 1
-  - 112
-  server: 162.159.192.2
-  type: wireguard
-  udp: true
-  wnoise: quic
-  wnoisecount: '5'
-  wnoisedelay: '5'
-  wpayloadsize: 40-90
-- client-fingerprint: chrome
-  encryption: none
-  name: Unknown_vless_10305
-  network: ws
-  port: 443
-  server: www.agahiya.ir
-  tls: true
-  type: vless
-  udp: true
-  uuid: 57e089a8-0cd1-48d0-b572-105c4804f6b8
-  ws-opts:
-    headers:
-      Host: soliconf-gghosin4-cell.dormhost.app
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/52.0.2743.116 Safari/537.36
-    path: /jx-y8179aild6rsmj
-  xudp: true
-- name: Unknown_http_10306
-  port: 12345
-  server: 141.147.19.47
-  skip-cert-verify: true
-  type: http
-- alpn:
-  - h3
-  auth-str: dongtaiwang.com
-  auth_str: dongtaiwang.com
-  down: 1000
-  name: Unknown_hysteria_10307
-  port: 54177
-  protocol: udp
-  server: 5.83.129.90
-  skip-cert-verify: true
-  sni: apple.com
-  type: hysteria
-  up: 500
-- client-fingerprint: ios
-  name: Unknown_vless_10308
-  network: ws
-  port: 443
-  server: 146.75.59.186
-  servername: cdn.akamai.steamstatic.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: b566e589-1c53-4c6f-ba99-5633c552cdb5
-  ws-opts:
-    headers:
-      Host: netheri.global.ssl.fastly.net.
-    path: /?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP
-- client-fingerprint: firefox
-  name: Unknown_vless_10309
-  network: xhttp
-  port: 443
-  server: 193.160.208.240
-  servername: 193.160.208.240
-  tls: true
-  type: vless
-  udp: true
-  uuid: 4777d90d-265b-4927-a0d1-63f36ed1421c
-  xhttp-opts:
-    mode: auto
-    path: /assets/twru01/
-- client-fingerprint: chrome
-  name: Unknown_vless_10310
-  network: ws
-  port: 443
-  server: freev2.cloudflare.182682.xyz
-  servername: eu-central.862400.xyz
-  tls: true
-  type: vless
-  udp: true
-  uuid: 557b8df0-16d9-43d0-b7ca-d08cbea06ead
-  ws-opts:
-    headers:
-      Host: eu-central.862400.xyz
-    path: /announcement?ed=2048
-- alpn:
-  - h3
-  auth-str: dongtaiwang.com
-  auth_str: dongtaiwang.com
-  down: 55
-  name: Unknown_hysteria_10311
-  port: 36699
-  protocol: none
-  server: 163.172.117.163
-  skip-cert-verify: true
-  sni: bing.com
-  type: hysteria
-  up: 11
-- client-fingerprint: chrome
-  name: Unknown_vless_10312
-  network: ws
-  port: 443
-  server: 199.232.78.120
-  servername: cdn.akamai.steamstatic.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: b566e589-1c53-4c6f-ba99-5633c552cdb5
-  ws-opts:
-    headers:
-      Host: frenchji.global.ssl.fastly.net.
-    path: /
-- client-fingerprint: firefox
-  name: Unknown_vless_10313
-  network: xhttp
-  port: 8444
-  server: 82.148.251.245
-  servername: at-86-10.cdn-lab.online
-  tls: true
-  type: vless
-  udp: true
-  uuid: 5fa16fdf-5b3c-4f57-988d-b24c6722c91a
-  xhttp-opts:
-    host: at-86-10.cdn-lab.online
-    mode: auto
-    path: /xh
-- alpn:
-  - h2
-  - http/1.1
-  client-fingerprint: firefox
-  name: Unknown_vless_10314
-  network: xhttp
-  port: 8444
-  server: at-86-10.cdn-lab.online
-  servername: at-86-10.cdn-lab.online
-  tls: true
-  type: vless
-  udp: true
-  uuid: 5fa16fdf-5b3c-4f57-988d-b24c6722c91a
-  xhttp-opts:
-    host: at-86-10.cdn-lab.online
-    mode: auto
-    path: /xh
-- alterId: 0
-  cipher: auto
-  name: Unknown_vmess_10315
-  network: ws
-  port: 36703
-  server: 47.244.120.197
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
-  ws-opts:
-    path: /arki
-- alpn:
-  - ''
-  alterId: 0
-  cipher: auto
-  name: Unknown_vmess_10316
-  network: ws
-  port: 44867
-  server: 47.244.120.197
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 845e6b08-2919-4290-ade0-5dc7dcea59ca
-  ws-opts:
-    path: /arki
-- alterId: 0
-  cipher: auto
-  name: Unknown_vmess_10317
-  network: ws
-  port: 23026
-  server: 47.244.120.197
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: b9de1bc9-baa7-41ac-86f7-ccd59695cb21
-  ws-opts:
-    headers:
-      Host: 47.244.120.197
-    path: /arki
-- client-fingerprint: firefox
-  name: Unknown_vless_10318
-  network: xhttp
-  port: 8444
-  server: fi-94-10.cdn-lab.online
-  servername: fi-94-10.cdn-lab.online
-  tls: true
-  type: vless
-  udp: true
-  uuid: 5fa16fdf-5b3c-4f57-988d-b24c6722c91a
-  xhttp-opts:
-    host: fi-94-10.cdn-lab.online
-    mode: auto
-    path: /xh
-- auth: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  fingerprint: 896186feb20cb7403187a45ff3bd5ddc8bfbdd419d779d55d786189d36731a69
-  name: Unknown_hysteria2_10319
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 443
-  server: 13.125.82.209
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- cipher: chacha20-ietf-poly1305
-  name: Unknown_ss_10320
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 8443
-  server: 13.125.82.209
+- cipher: aes-256-gcm
+  name: Unknown_ss_10365
+  password: cCMJgJTA3BA489YUYrFq7XHXSiSpWlLa
+  port: 18443
+  server: 46.17.47.58
   type: ss
   udp: true
-- client-fingerprint: firefox
-  name: Unknown_vless_10321
-  network: xhttp
-  port: 443
-  server: 201.34.142.108
-  servername: 201.34.142.108
-  tls: true
-  type: vless
-  udp: true
-  uuid: 4777d90d-265b-4927-a0d1-63f36ed1421c
-  xhttp-opts:
-    mode: auto
-    path: /assets/nlrelay01/
 - client-fingerprint: chrome
-  name: Unknown_vless_10322
+  name: Unknown_vless_10366
   network: ws
   port: 443
   server: xsru2.freeddns.org
@@ -54465,44 +54919,40 @@ proxies:
     headers:
       Host: xsru2.freeddns.org
     path: /wsru
-- client-fingerprint: random
-  grpc-opts:
-    grpc-mode: gun
-    grpc-service-name: grpc-ru
-  name: Unknown_vless_10323
-  network: grpc
-  port: 443
-  server: xsru1.ddnsfree.com
-  servername: xsru1.ddnsfree.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: c90395e6-2140-47ad-a54d-9b166729d3ef
 - auth: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  fingerprint: c1fd40941f919b5c7896244097f22d9d958e625cd958b75f34ccfa42181f50b2
-  name: Unknown_hysteria2_10324
+  fingerprint: C1:FD:40:94:1F:91:9B:5C:78:96:24:40:97:F2:2D:9D:95:8E:62:5C:D9:58:B7:5F:34:CC:FA:42:18:1F:50:B2
+  name: Unknown_hysteria2_10367
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 443
-  server: 56.10.132.79
+  server: 56.10.9.70
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
   type: hysteria2
-- auth: f4b80b26-b6d4-49a6-a460-f50efb7a457c
-  name: Unknown_hysteria2_10325
-  password: f4b80b26-b6d4-49a6-a460-f50efb7a457c
+- alpn:
+  - h3
+  - h2
+  - http/1.1
+  client-fingerprint: unsafe
+  name: Unknown_vless_10368
+  network: xhttp
   port: 443
-  server: 186.246.18.62
-  skip-cert-verify: true
-  sni: hy.cardlist24.shop
-  tls: false
-  type: hysteria2
+  server: 188.114.98.0
+  servername: nl29.dr-ping.ir
+  tls: true
+  type: vless
+  udp: true
+  uuid: 64c5f924-1c24-44a5-acff-2e3ebcd2f807
+  xhttp-opts:
+    host: nl29.dr-ping.ir
+    mode: auto
+    path: /
 - alpn:
   - h3
   auth-str: dongtaiwang.com
   auth_str: dongtaiwang.com
   down: 20
-  name: Unknown_hysteria_10326
+  name: Unknown_hysteria_10369
   port: 443
   protocol: none
   server: 137.175.82.43
@@ -54510,21 +54960,8 @@ proxies:
   sni: bing.com
   type: hysteria
   up: 20
-- alpn:
-  - h3
-  auth-str: github.com/Alvin9999-newpac/fanqiang
-  auth_str: github.com/Alvin9999-newpac/fanqiang
-  down: 55
-  name: Unknown_hysteria_10327
-  port: 22335
-  protocol: none
-  server: 198.200.57.142
-  skip-cert-verify: true
-  sni: bing.com
-  type: hysteria
-  up: 11
 - client-fingerprint: chrome
-  name: Unknown_vless_10328
+  name: Unknown_vless_10370
   network: ws
   port: 443
   server: 199.232.249.131
@@ -54537,39 +54974,96 @@ proxies:
     headers:
       Host: copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.
     path: /
-- alpn:
-  - ''
-  alterId: 0
-  cipher: auto
-  http-opts:
-    headers:
-      Host:
-      - down-cdn.dingtalk.com
-    method: GET
-    path:
-    - /QQqun-737805443
-  name: Unknown_vmess_10329
-  network: http
-  port: 1288
-  server: 107.175.76.215
+- name: Unknown_anytls_10371
+  password: 0324fbc29561
+  port: 443
+  server: sdf65h46wr.df6h451rh.xin
   skip-cert-verify: true
-  tls: false
+  sni: images.ctfassets.net
+  type: anytls
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: Unknown_ss_10372
+  password: V7WLaYdujkwnj6xxXq-2BSxGWEcSJtTA
+  port: 1080
+  server: 88.216.254.18
+  type: ss
+  udp: true
+- alpn:
+  - h3
+  auth-str: dongtaiwang.com
+  auth_str: dongtaiwang.com
+  down: 55
+  name: Unknown_hysteria_10373
+  port: 443
+  protocol: none
+  server: 137.175.82.44
+  skip-cert-verify: true
+  sni: bing.com
+  type: hysteria
+  up: 11
+- alterId: 0
+  cipher: auto
+  name: Unknown_vmess_10374
+  network: ws
+  port: 443
+  server: 104.21.7.133
+  servername: vmess.lbw666.dpdns.org
+  skip-cert-verify: true
+  tls: true
   type: vmess
   udp: true
-  uuid: 29a72eac-a4d1-4526-8fa0-d3ecc4e38b44
-- client-fingerprint: random
+  uuid: 0cf6d970-3f1d-4aae-a989-92a8f76ae3db
+  ws-opts:
+    headers:
+      Host: vmess.lbw666.dpdns.org
+    path: /ws
+- alpn:
+  - h3
+  auth-str: github.com/Alvin9999-newpac/fanqiang
+  auth_str: github.com/Alvin9999-newpac/fanqiang
+  down: 55
+  name: Unknown_hysteria_10375
+  port: 22335
+  protocol: none
+  server: 198.200.57.142
+  skip-cert-verify: true
+  sni: bing.com
+  type: hysteria
+  up: 11
+- client-fingerprint: safari
   grpc-opts:
     grpc-service-name: ''
-  name: Unknown_vless_10330
+  name: Unknown_vless_10376
   network: grpc
   port: 443
-  server: xsru1.ddnsfree.com
-  servername: xsru1.ddnsfree.com
+  server: 95.143.188.113
+  servername: jagamsrxd6.j.cloudfront.hls.vodcdn-edge.net
+  tls: true
+  type: vless
+  uuid: c47159bb-2c15-440d-b239-8594d7e7efbb
+- grpc-opts:
+    grpc-service-name: ''
+  name: Unknown_vless_10377
+  network: grpc
+  port: 3090
+  server: 213.182.201.18
+  tls: true
+  type: vless
+  uuid: 8bac7917-b4d2-4338-bbfc-5d47bda8c5ab
+- client-fingerprint: chrome
+  grpc-opts:
+    grpc-service-name: ''
+  name: Unknown_vless_10378
+  network: grpc
+  port: 443
+  server: xssite.webredirect.org
+  servername: xssite.webredirect.org
   tls: true
   type: vless
   uuid: c90395e6-2140-47ad-a54d-9b166729d3ef
 - client-fingerprint: chrome
-  name: Unknown_vless_10331
+  name: Unknown_vless_10379
   network: ws
   port: 8443
   server: au2.pad-sservice.lat
@@ -54584,7 +55078,7 @@ proxies:
       Host: au2.pad-service.com
     path: /A11U
 - client-fingerprint: firefox
-  name: Unknown_vless_10332
+  name: Unknown_vless_10380
   network: ws
   port: 8443
   server: 152.53.31.46
@@ -54598,7 +55092,7 @@ proxies:
     headers:
       Host: usa3.pad-service.com
     path: /U1SA
-- name: Unknown_vless_10333
+- name: Unknown_vless_10381
   network: ws
   port: 8443
   server: de9.pad-sservice.lat
@@ -54612,29 +55106,15 @@ proxies:
     headers:
       Host: de9.pad-service.com
     path: /DE9W
-- name: Unknown_http_10334
+- name: Unknown_http_10382
   port: 443
   server: 213.109.163.119
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10335
-  port: 9002
-  server: 158.173.154.5
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10336
-  port: 9002
-  server: 158.173.154.1
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
 - client-fingerprint: chrome
-  name: Unknown_vless_10337
+  name: Unknown_vless_10383
   network: ws
   port: 8443
   server: au5.pad-sservice.lat
@@ -54648,58 +55128,42 @@ proxies:
     headers:
       Host: au5.pad-sservice.lat
     path: /AU5W
-- name: Unknown_http_10338
+- name: Unknown_http_10384
   port: 19362
   server: 51.159.225.197
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10339
+- name: Unknown_http_10385
   port: 8090
   server: 83.206.1.225
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10340
-  password: 'null'
-  port: 23856
-  server: 51.159.225.196
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-  username: 'null'
-- name: Unknown_http_10341
-  port: 23856
-  server: 51.159.225.196
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10342
+- name: Unknown_http_10386
   port: 443
   server: 82.65.162.76
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10343
+- name: Unknown_http_10387
   port: 443
   server: 34.249.214.108
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10344
+- name: Unknown_http_10388
   port: 443
   server: 185.219.159.15
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10345
+- name: Unknown_http_10389
   password: None
   port: 443
   server: 185.219.159.16
@@ -54707,7 +55171,7 @@ proxies:
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10346
+- name: Unknown_http_10390
   password: 'null'
   port: 443
   server: 103.97.88.154
@@ -54716,14 +55180,7 @@ proxies:
   type: http
   udp: true
   username: 'null'
-- name: Unknown_http_10347
-  port: 9002
-  server: 84.17.47.124
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: Unknown_http_10348
+- name: Unknown_http_10391
   password: None
   port: 9002
   server: 84.17.47.148
@@ -54731,7 +55188,7 @@ proxies:
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10349
+- name: Unknown_http_10392
   password: None
   port: 9002
   server: 84.17.47.149
@@ -54739,35 +55196,43 @@ proxies:
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10350
+- name: Unknown_http_10393
   port: 9002
   server: 84.17.47.125
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10351
+- name: Unknown_http_10394
+  password: None
+  port: 9002
+  server: 84.17.47.123
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: Unknown_http_10395
   port: 443
   server: 31.186.220.204
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10352
+- name: Unknown_http_10396
   port: 8443
   server: 44.248.167.117
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10353
+- name: Unknown_http_10397
   port: 443
   server: 38.247.141.135
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: Unknown_http_10354
+- name: Unknown_http_10398
   port: 443
   server: 64.98.50.100
   skip-cert-verify: true
@@ -54775,7 +55240,7 @@ proxies:
   type: http
   udp: true
 - client-fingerprint: chrome
-  name: Unknown_vless_10355
+  name: Unknown_vless_10399
   port: 19167
   server: mx001.zestapp778.com
   servername: mx001.zestapp778.com
@@ -54785,7 +55250,7 @@ proxies:
   udp: true
   uuid: e9a8144e-5237-488a-afb1-9ca3d8d54c80
 - client-fingerprint: firefox
-  name: Unknown_vless_10356
+  name: Unknown_vless_10400
   port: 54857
   server: 130.94.18.208
   servername: us001.zestapp778.com
@@ -86211,9 +86676,9 @@ proxy-groups:
   - Unknown_ss_099
   - Unknown_ss_0100
   - Unknown_ss_0101
-  - Unknown_trojan_0102
-  - Unknown_trojan_0103
-  - Unknown_trojan_0104
+  - Unknown_ss_0102
+  - Unknown_ss_0103
+  - Unknown_ss_0104
   - Unknown_trojan_0105
   - Unknown_trojan_0106
   - Unknown_trojan_0107
@@ -86239,11 +86704,21 @@ proxy-groups:
   - Unknown_trojan_0127
   - Unknown_trojan_0128
   - Unknown_trojan_0129
-  - Unknown_vmess_0130
-  - Unknown_vmess_0131
-  - Unknown_vmess_0132
-  - Unknown_ss_0133
-  - Unknown_vmess_0134
+  - Unknown_trojan_0130
+  - Unknown_trojan_0131
+  - Unknown_trojan_0132
+  - Unknown_trojan_0133
+  - Unknown_trojan_0134
+  - Unknown_trojan_0135
+  - Unknown_trojan_0136
+  - Unknown_vmess_0137
+  - Unknown_vmess_0138
+  - Unknown_vmess_0139
+  - Unknown_vmess_0140
+  - Unknown_ss_0141
+  - Unknown_ss_0142
+  - Unknown_ss_0143
+  - Unknown_vmess_0144
   - Unknown_vmess_11
   - Unknown_vmess_12
   - Unknown_vmess_13
@@ -86345,9 +86820,9 @@ proxy-groups:
   - Unknown_ss_199
   - Unknown_ss_1100
   - Unknown_ss_1101
-  - Unknown_trojan_1102
-  - Unknown_trojan_1103
-  - Unknown_trojan_1104
+  - Unknown_ss_1102
+  - Unknown_ss_1103
+  - Unknown_ss_1104
   - Unknown_trojan_1105
   - Unknown_trojan_1106
   - Unknown_trojan_1107
@@ -86373,11 +86848,21 @@ proxy-groups:
   - Unknown_trojan_1127
   - Unknown_trojan_1128
   - Unknown_trojan_1129
-  - Unknown_vmess_1130
-  - Unknown_vmess_1131
-  - Unknown_vmess_1132
-  - Unknown_ss_1133
-  - Unknown_vmess_1134
+  - Unknown_trojan_1130
+  - Unknown_trojan_1131
+  - Unknown_trojan_1132
+  - Unknown_trojan_1133
+  - Unknown_trojan_1134
+  - Unknown_trojan_1135
+  - Unknown_trojan_1136
+  - Unknown_vmess_1137
+  - Unknown_vmess_1138
+  - Unknown_vmess_1139
+  - Unknown_vmess_1140
+  - Unknown_ss_1141
+  - Unknown_ss_1142
+  - Unknown_ss_1143
+  - Unknown_vmess_1144
   - Unknown_vless_41
   - Unknown_vmess_42
   - Unknown_vless_43
@@ -91506,9 +91991,9 @@ proxy-groups:
   - Unknown_ss_899
   - Unknown_ss_8100
   - Unknown_ss_8101
-  - Unknown_trojan_8102
-  - Unknown_trojan_8103
-  - Unknown_trojan_8104
+  - Unknown_ss_8102
+  - Unknown_ss_8103
+  - Unknown_ss_8104
   - Unknown_trojan_8105
   - Unknown_trojan_8106
   - Unknown_trojan_8107
@@ -91534,11 +92019,21 @@ proxy-groups:
   - Unknown_trojan_8127
   - Unknown_trojan_8128
   - Unknown_trojan_8129
-  - Unknown_vmess_8130
-  - Unknown_vmess_8131
-  - Unknown_vmess_8132
-  - Unknown_ss_8133
-  - Unknown_vmess_8134
+  - Unknown_trojan_8130
+  - Unknown_trojan_8131
+  - Unknown_trojan_8132
+  - Unknown_trojan_8133
+  - Unknown_trojan_8134
+  - Unknown_trojan_8135
+  - Unknown_trojan_8136
+  - Unknown_vmess_8137
+  - Unknown_vmess_8138
+  - Unknown_vmess_8139
+  - Unknown_vmess_8140
+  - Unknown_ss_8141
+  - Unknown_ss_8142
+  - Unknown_ss_8143
+  - Unknown_vmess_8144
   - Unknown_vless_91
   - Unknown_vless_92
   - Unknown_vless_93
@@ -91713,14 +92208,14 @@ proxy-groups:
   - Unknown_vless_10129
   - Unknown_vless_10130
   - Unknown_vless_10131
-  - Unknown_vless_10132
-  - Unknown_vless_10133
-  - Unknown_vless_10134
-  - Unknown_vless_10135
-  - Unknown_vless_10136
-  - Unknown_vless_10137
-  - Unknown_vless_10138
-  - Unknown_vless_10139
+  - Unknown_ss_10132
+  - Unknown_ss_10133
+  - Unknown_ss_10134
+  - Unknown_ss_10135
+  - Unknown_ss_10136
+  - Unknown_ss_10137
+  - Unknown_ss_10138
+  - Unknown_ss_10139
   - Unknown_ss_10140
   - Unknown_ss_10141
   - Unknown_ss_10142
@@ -91808,10 +92303,10 @@ proxy-groups:
   - Unknown_ss_10224
   - Unknown_ss_10225
   - Unknown_ss_10226
-  - Unknown_ss_10227
-  - Unknown_ss_10228
-  - Unknown_ss_10229
-  - Unknown_ss_10230
+  - Unknown_trojan_10227
+  - Unknown_trojan_10228
+  - Unknown_trojan_10229
+  - Unknown_trojan_10230
   - Unknown_trojan_10231
   - Unknown_trojan_10232
   - Unknown_trojan_10233
@@ -91841,8 +92336,8 @@ proxy-groups:
   - Unknown_trojan_10257
   - Unknown_trojan_10258
   - Unknown_anytls_10259
-  - Unknown_vless_10260
-  - Unknown_vless_10261
+  - Unknown_vmess_10260
+  - Unknown_http_10261
   - Unknown_http_10262
   - Unknown_http_10263
   - Unknown_http_10264
@@ -91885,59 +92380,103 @@ proxy-groups:
   - Unknown_http_10301
   - Unknown_http_10302
   - Unknown_http_10303
-  - Unknown_wireguard_10304
-  - Unknown_vless_10305
+  - Unknown_socks5_10304
+  - Unknown_http_10305
   - Unknown_http_10306
-  - Unknown_hysteria_10307
-  - Unknown_vless_10308
-  - Unknown_vless_10309
-  - Unknown_vless_10310
-  - Unknown_hysteria_10311
-  - Unknown_vless_10312
-  - Unknown_vless_10313
-  - Unknown_vless_10314
-  - Unknown_vmess_10315
-  - Unknown_vmess_10316
-  - Unknown_vmess_10317
-  - Unknown_vless_10318
-  - Unknown_hysteria2_10319
-  - Unknown_ss_10320
-  - Unknown_vless_10321
-  - Unknown_vless_10322
-  - Unknown_vless_10323
-  - Unknown_hysteria2_10324
-  - Unknown_hysteria2_10325
-  - Unknown_hysteria_10326
-  - Unknown_hysteria_10327
-  - Unknown_vless_10328
-  - Unknown_vmess_10329
-  - Unknown_vless_10330
-  - Unknown_vless_10331
-  - Unknown_vless_10332
-  - Unknown_vless_10333
+  - Unknown_http_10307
+  - Unknown_http_10308
+  - Unknown_http_10309
+  - Unknown_http_10310
+  - Unknown_http_10311
+  - Unknown_http_10312
+  - Unknown_http_10313
+  - Unknown_http_10314
+  - Unknown_http_10315
+  - Unknown_http_10316
+  - Unknown_http_10317
+  - Unknown_http_10318
+  - Unknown_http_10319
+  - Unknown_http_10320
+  - Unknown_http_10321
+  - Unknown_http_10322
+  - Unknown_http_10323
+  - Unknown_http_10324
+  - Unknown_http_10325
+  - Unknown_http_10326
+  - Unknown_http_10327
+  - Unknown_http_10328
+  - Unknown_http_10329
+  - Unknown_http_10330
+  - Unknown_http_10331
+  - Unknown_http_10332
+  - Unknown_http_10333
   - Unknown_http_10334
   - Unknown_http_10335
   - Unknown_http_10336
-  - Unknown_vless_10337
+  - Unknown_wireguard_10337
   - Unknown_http_10338
   - Unknown_http_10339
   - Unknown_http_10340
   - Unknown_http_10341
   - Unknown_http_10342
-  - Unknown_http_10343
+  - Unknown_socks5_10343
   - Unknown_http_10344
   - Unknown_http_10345
   - Unknown_http_10346
   - Unknown_http_10347
   - Unknown_http_10348
-  - Unknown_http_10349
-  - Unknown_http_10350
-  - Unknown_http_10351
-  - Unknown_http_10352
-  - Unknown_http_10353
-  - Unknown_http_10354
-  - Unknown_vless_10355
+  - Unknown_vless_10349
+  - Unknown_vless_10350
+  - Unknown_vless_10351
+  - Unknown_vless_10352
+  - Unknown_hysteria_10353
+  - Unknown_vless_10354
+  - Unknown_hysteria_10355
   - Unknown_vless_10356
+  - Unknown_vmess_10357
+  - Unknown_vmess_10358
+  - Unknown_vmess_10359
+  - Unknown_ss_10360
+  - Unknown_vless_10361
+  - Unknown_vless_10362
+  - Unknown_vless_10363
+  - Unknown_vless_10364
+  - Unknown_ss_10365
+  - Unknown_vless_10366
+  - Unknown_hysteria2_10367
+  - Unknown_vless_10368
+  - Unknown_hysteria_10369
+  - Unknown_vless_10370
+  - Unknown_anytls_10371
+  - Unknown_ss_10372
+  - Unknown_hysteria_10373
+  - Unknown_vmess_10374
+  - Unknown_hysteria_10375
+  - Unknown_vless_10376
+  - Unknown_vless_10377
+  - Unknown_vless_10378
+  - Unknown_vless_10379
+  - Unknown_vless_10380
+  - Unknown_vless_10381
+  - Unknown_http_10382
+  - Unknown_vless_10383
+  - Unknown_http_10384
+  - Unknown_http_10385
+  - Unknown_http_10386
+  - Unknown_http_10387
+  - Unknown_http_10388
+  - Unknown_http_10389
+  - Unknown_http_10390
+  - Unknown_http_10391
+  - Unknown_http_10392
+  - Unknown_http_10393
+  - Unknown_http_10394
+  - Unknown_http_10395
+  - Unknown_http_10396
+  - Unknown_http_10397
+  - Unknown_http_10398
+  - Unknown_vless_10399
+  - Unknown_vless_10400
   - Unknown_vmess_111
   - Unknown_vmess_112
   - Unknown_vmess_113
@@ -94758,9 +95297,9 @@ proxy-groups:
   - Unknown_ss_099
   - Unknown_ss_0100
   - Unknown_ss_0101
-  - Unknown_trojan_0102
-  - Unknown_trojan_0103
-  - Unknown_trojan_0104
+  - Unknown_ss_0102
+  - Unknown_ss_0103
+  - Unknown_ss_0104
   - Unknown_trojan_0105
   - Unknown_trojan_0106
   - Unknown_trojan_0107
@@ -94786,11 +95325,21 @@ proxy-groups:
   - Unknown_trojan_0127
   - Unknown_trojan_0128
   - Unknown_trojan_0129
-  - Unknown_vmess_0130
-  - Unknown_vmess_0131
-  - Unknown_vmess_0132
-  - Unknown_ss_0133
-  - Unknown_vmess_0134
+  - Unknown_trojan_0130
+  - Unknown_trojan_0131
+  - Unknown_trojan_0132
+  - Unknown_trojan_0133
+  - Unknown_trojan_0134
+  - Unknown_trojan_0135
+  - Unknown_trojan_0136
+  - Unknown_vmess_0137
+  - Unknown_vmess_0138
+  - Unknown_vmess_0139
+  - Unknown_vmess_0140
+  - Unknown_ss_0141
+  - Unknown_ss_0142
+  - Unknown_ss_0143
+  - Unknown_vmess_0144
   - Unknown_vmess_11
   - Unknown_vmess_12
   - Unknown_vmess_13
@@ -94892,9 +95441,9 @@ proxy-groups:
   - Unknown_ss_199
   - Unknown_ss_1100
   - Unknown_ss_1101
-  - Unknown_trojan_1102
-  - Unknown_trojan_1103
-  - Unknown_trojan_1104
+  - Unknown_ss_1102
+  - Unknown_ss_1103
+  - Unknown_ss_1104
   - Unknown_trojan_1105
   - Unknown_trojan_1106
   - Unknown_trojan_1107
@@ -94920,11 +95469,21 @@ proxy-groups:
   - Unknown_trojan_1127
   - Unknown_trojan_1128
   - Unknown_trojan_1129
-  - Unknown_vmess_1130
-  - Unknown_vmess_1131
-  - Unknown_vmess_1132
-  - Unknown_ss_1133
-  - Unknown_vmess_1134
+  - Unknown_trojan_1130
+  - Unknown_trojan_1131
+  - Unknown_trojan_1132
+  - Unknown_trojan_1133
+  - Unknown_trojan_1134
+  - Unknown_trojan_1135
+  - Unknown_trojan_1136
+  - Unknown_vmess_1137
+  - Unknown_vmess_1138
+  - Unknown_vmess_1139
+  - Unknown_vmess_1140
+  - Unknown_ss_1141
+  - Unknown_ss_1142
+  - Unknown_ss_1143
+  - Unknown_vmess_1144
   - Unknown_vless_41
   - Unknown_vmess_42
   - Unknown_vless_43
@@ -100053,9 +100612,9 @@ proxy-groups:
   - Unknown_ss_899
   - Unknown_ss_8100
   - Unknown_ss_8101
-  - Unknown_trojan_8102
-  - Unknown_trojan_8103
-  - Unknown_trojan_8104
+  - Unknown_ss_8102
+  - Unknown_ss_8103
+  - Unknown_ss_8104
   - Unknown_trojan_8105
   - Unknown_trojan_8106
   - Unknown_trojan_8107
@@ -100081,11 +100640,21 @@ proxy-groups:
   - Unknown_trojan_8127
   - Unknown_trojan_8128
   - Unknown_trojan_8129
-  - Unknown_vmess_8130
-  - Unknown_vmess_8131
-  - Unknown_vmess_8132
-  - Unknown_ss_8133
-  - Unknown_vmess_8134
+  - Unknown_trojan_8130
+  - Unknown_trojan_8131
+  - Unknown_trojan_8132
+  - Unknown_trojan_8133
+  - Unknown_trojan_8134
+  - Unknown_trojan_8135
+  - Unknown_trojan_8136
+  - Unknown_vmess_8137
+  - Unknown_vmess_8138
+  - Unknown_vmess_8139
+  - Unknown_vmess_8140
+  - Unknown_ss_8141
+  - Unknown_ss_8142
+  - Unknown_ss_8143
+  - Unknown_vmess_8144
   - Unknown_vless_91
   - Unknown_vless_92
   - Unknown_vless_93
@@ -100260,14 +100829,14 @@ proxy-groups:
   - Unknown_vless_10129
   - Unknown_vless_10130
   - Unknown_vless_10131
-  - Unknown_vless_10132
-  - Unknown_vless_10133
-  - Unknown_vless_10134
-  - Unknown_vless_10135
-  - Unknown_vless_10136
-  - Unknown_vless_10137
-  - Unknown_vless_10138
-  - Unknown_vless_10139
+  - Unknown_ss_10132
+  - Unknown_ss_10133
+  - Unknown_ss_10134
+  - Unknown_ss_10135
+  - Unknown_ss_10136
+  - Unknown_ss_10137
+  - Unknown_ss_10138
+  - Unknown_ss_10139
   - Unknown_ss_10140
   - Unknown_ss_10141
   - Unknown_ss_10142
@@ -100355,10 +100924,10 @@ proxy-groups:
   - Unknown_ss_10224
   - Unknown_ss_10225
   - Unknown_ss_10226
-  - Unknown_ss_10227
-  - Unknown_ss_10228
-  - Unknown_ss_10229
-  - Unknown_ss_10230
+  - Unknown_trojan_10227
+  - Unknown_trojan_10228
+  - Unknown_trojan_10229
+  - Unknown_trojan_10230
   - Unknown_trojan_10231
   - Unknown_trojan_10232
   - Unknown_trojan_10233
@@ -100388,8 +100957,8 @@ proxy-groups:
   - Unknown_trojan_10257
   - Unknown_trojan_10258
   - Unknown_anytls_10259
-  - Unknown_vless_10260
-  - Unknown_vless_10261
+  - Unknown_vmess_10260
+  - Unknown_http_10261
   - Unknown_http_10262
   - Unknown_http_10263
   - Unknown_http_10264
@@ -100432,59 +101001,103 @@ proxy-groups:
   - Unknown_http_10301
   - Unknown_http_10302
   - Unknown_http_10303
-  - Unknown_wireguard_10304
-  - Unknown_vless_10305
+  - Unknown_socks5_10304
+  - Unknown_http_10305
   - Unknown_http_10306
-  - Unknown_hysteria_10307
-  - Unknown_vless_10308
-  - Unknown_vless_10309
-  - Unknown_vless_10310
-  - Unknown_hysteria_10311
-  - Unknown_vless_10312
-  - Unknown_vless_10313
-  - Unknown_vless_10314
-  - Unknown_vmess_10315
-  - Unknown_vmess_10316
-  - Unknown_vmess_10317
-  - Unknown_vless_10318
-  - Unknown_hysteria2_10319
-  - Unknown_ss_10320
-  - Unknown_vless_10321
-  - Unknown_vless_10322
-  - Unknown_vless_10323
-  - Unknown_hysteria2_10324
-  - Unknown_hysteria2_10325
-  - Unknown_hysteria_10326
-  - Unknown_hysteria_10327
-  - Unknown_vless_10328
-  - Unknown_vmess_10329
-  - Unknown_vless_10330
-  - Unknown_vless_10331
-  - Unknown_vless_10332
-  - Unknown_vless_10333
+  - Unknown_http_10307
+  - Unknown_http_10308
+  - Unknown_http_10309
+  - Unknown_http_10310
+  - Unknown_http_10311
+  - Unknown_http_10312
+  - Unknown_http_10313
+  - Unknown_http_10314
+  - Unknown_http_10315
+  - Unknown_http_10316
+  - Unknown_http_10317
+  - Unknown_http_10318
+  - Unknown_http_10319
+  - Unknown_http_10320
+  - Unknown_http_10321
+  - Unknown_http_10322
+  - Unknown_http_10323
+  - Unknown_http_10324
+  - Unknown_http_10325
+  - Unknown_http_10326
+  - Unknown_http_10327
+  - Unknown_http_10328
+  - Unknown_http_10329
+  - Unknown_http_10330
+  - Unknown_http_10331
+  - Unknown_http_10332
+  - Unknown_http_10333
   - Unknown_http_10334
   - Unknown_http_10335
   - Unknown_http_10336
-  - Unknown_vless_10337
+  - Unknown_wireguard_10337
   - Unknown_http_10338
   - Unknown_http_10339
   - Unknown_http_10340
   - Unknown_http_10341
   - Unknown_http_10342
-  - Unknown_http_10343
+  - Unknown_socks5_10343
   - Unknown_http_10344
   - Unknown_http_10345
   - Unknown_http_10346
   - Unknown_http_10347
   - Unknown_http_10348
-  - Unknown_http_10349
-  - Unknown_http_10350
-  - Unknown_http_10351
-  - Unknown_http_10352
-  - Unknown_http_10353
-  - Unknown_http_10354
-  - Unknown_vless_10355
+  - Unknown_vless_10349
+  - Unknown_vless_10350
+  - Unknown_vless_10351
+  - Unknown_vless_10352
+  - Unknown_hysteria_10353
+  - Unknown_vless_10354
+  - Unknown_hysteria_10355
   - Unknown_vless_10356
+  - Unknown_vmess_10357
+  - Unknown_vmess_10358
+  - Unknown_vmess_10359
+  - Unknown_ss_10360
+  - Unknown_vless_10361
+  - Unknown_vless_10362
+  - Unknown_vless_10363
+  - Unknown_vless_10364
+  - Unknown_ss_10365
+  - Unknown_vless_10366
+  - Unknown_hysteria2_10367
+  - Unknown_vless_10368
+  - Unknown_hysteria_10369
+  - Unknown_vless_10370
+  - Unknown_anytls_10371
+  - Unknown_ss_10372
+  - Unknown_hysteria_10373
+  - Unknown_vmess_10374
+  - Unknown_hysteria_10375
+  - Unknown_vless_10376
+  - Unknown_vless_10377
+  - Unknown_vless_10378
+  - Unknown_vless_10379
+  - Unknown_vless_10380
+  - Unknown_vless_10381
+  - Unknown_http_10382
+  - Unknown_vless_10383
+  - Unknown_http_10384
+  - Unknown_http_10385
+  - Unknown_http_10386
+  - Unknown_http_10387
+  - Unknown_http_10388
+  - Unknown_http_10389
+  - Unknown_http_10390
+  - Unknown_http_10391
+  - Unknown_http_10392
+  - Unknown_http_10393
+  - Unknown_http_10394
+  - Unknown_http_10395
+  - Unknown_http_10396
+  - Unknown_http_10397
+  - Unknown_http_10398
+  - Unknown_vless_10399
+  - Unknown_vless_10400
   - Unknown_vmess_111
   - Unknown_vmess_112
   - Unknown_vmess_113
